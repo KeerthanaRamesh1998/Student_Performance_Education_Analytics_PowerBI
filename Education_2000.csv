@@ -1,0 +1,2001 @@
+StudentID,Course,Mode_of_Study,Age,Gender,Admission_Date,Attendance_%,Assignment_Score,Midterm_Score,Final_Score,Hours_Studied_Weekly,Forum_Participation,Fee_Paid_%,Scholarship,Counseling_Sessions,Overall_Score,Pass_Fail,Dropout_Risk,Status
+2001,Finance,Hybrid,25,Male,2024-06-01,86,77,77,68,15,33,54,Yes,0,72.5,Pass,Medium,Active
+2002,HR Management,Hybrid,34,Female,2024-06-02,55,55,53,82,14,11,57,Yes,1,67.9,Pass,High,At-Risk
+2003,Digital Marketing,Offline,33,Female,2024-06-03,62,68,43,64,10,15,81,No,1,58.5,Pass,Low,Active
+2004,HR Management,Online,27,Female,2024-06-04,46,87,71,92,7,3,67,No,2,84.7,Pass,High,At-Risk
+2005,HR Management,Offline,27,Female,2024-06-05,65,48,32,98,7,24,87,No,4,68.2,Pass,Low,Active
+2006,Web Dev,Online,19,Male,2024-06-06,71,87,47,58,20,33,95,No,0,60.5,Pass,Low,Active
+2007,Digital Marketing,Online,26,Female,2024-06-07,51,57,59,84,22,27,67,No,3,71.1,Pass,High,At-Risk
+2008,Digital Marketing,Online,34,Female,2024-06-08,47,95,77,88,11,45,98,No,2,86.1,Pass,Medium,Active
+2009,Digital Marketing,Offline,28,Male,2024-06-09,44,39,82,75,24,10,90,No,0,69.9,Pass,High,At-Risk
+2010,HR Management,Online,27,Male,2024-06-10,81,87,29,28,4,12,94,No,2,40.1,Fail,Medium,Active
+2011,Finance,Offline,34,Female,2024-06-11,67,43,40,89,19,30,65,No,2,65.1,Pass,Low,Active
+2012,Digital Marketing,Hybrid,21,Male,2024-06-12,92,44,41,47,22,24,70,No,4,44.6,Fail,High,At-Risk
+2013,HR Management,Hybrid,33,Male,2024-06-13,44,62,56,64,20,38,59,No,3,61.2,Pass,High,At-Risk
+2014,Web Dev,Online,32,Male,2024-06-14,88,46,76,45,6,9,91,No,0,54.5,Pass,Low,Active
+2015,Finance,Offline,22,Female,2024-06-15,65,53,44,47,12,23,53,No,2,47.3,Fail,High,At-Risk
+2016,Web Dev,Hybrid,23,Male,2024-06-16,44,59,90,59,11,0,93,No,2,68.3,Pass,Medium,Active
+2017,Finance,Offline,34,Female,2024-06-17,61,91,25,34,18,24,57,No,0,42.7,Fail,High,At-Risk
+2018,HR Management,Offline,18,Female,2024-06-18,54,42,82,25,5,27,96,Yes,2,45.5,Fail,High,At-Risk
+2019,Data Science,Online,21,Female,2024-06-19,52,91,68,46,22,35,68,No,2,61.599999999999994,Pass,High,At-Risk
+2020,Finance,Hybrid,34,Female,2024-06-20,67,76,30,57,19,17,96,No,2,52.7,Pass,Low,Active
+2021,Web Dev,Online,26,Male,2024-06-21,72,45,74,87,19,5,89,No,1,74.7,Pass,Low,Active
+2022,HR Management,Online,19,Female,2024-06-22,82,95,96,94,2,1,89,No,1,94.8,Pass,Low,Active
+2023,Finance,Hybrid,25,Male,2024-06-23,62,72,44,83,15,2,100,Yes,3,69.1,Pass,Low,Active
+2024,Data Science,Hybrid,32,Female,2024-06-24,72,37,38,49,9,45,58,Yes,4,43.3,Fail,High,At-Risk
+2025,Data Science,Offline,24,Male,2024-06-25,82,32,29,22,3,7,79,No,0,26.1,Fail,High,At-Risk
+2026,Digital Marketing,Hybrid,23,Female,2024-06-26,57,41,65,81,20,30,66,Yes,4,68.2,Pass,High,At-Risk
+2027,Digital Marketing,Offline,18,Male,2024-06-27,89,45,64,31,16,47,89,No,4,43.7,Fail,Medium,Active
+2028,Web Dev,Offline,32,Female,2024-06-28,92,88,58,49,3,18,93,Yes,1,59.5,Pass,Low,Active
+2029,Finance,Offline,24,Female,2024-06-29,69,78,69,57,5,49,64,No,3,64.8,Pass,Low,Active
+2030,Finance,Hybrid,34,Male,2024-06-30,65,92,95,79,2,5,53,Yes,4,86.4,Pass,Low,Active
+2031,Digital Marketing,Online,19,Female,2024-07-01,55,91,95,57,20,13,55,No,4,75.2,Pass,High,At-Risk
+2032,Finance,Offline,26,Female,2024-07-02,52,78,51,34,22,2,65,No,2,47.9,Fail,High,At-Risk
+2033,Finance,Online,26,Female,2024-07-03,78,80,68,37,11,47,75,Yes,0,54.9,Pass,Medium,Active
+2034,Data Science,Online,30,Male,2024-07-04,72,62,57,71,2,0,86,No,3,65.0,Pass,Low,Active
+2035,Digital Marketing,Hybrid,23,Female,2024-07-05,65,59,57,48,21,43,72,No,0,52.9,Pass,Medium,Active
+2036,HR Management,Online,23,Female,2024-07-06,87,88,68,79,23,29,62,No,1,77.5,Pass,Low,Active
+2037,Digital Marketing,Online,20,Male,2024-07-07,40,44,44,40,16,45,96,Yes,4,42.0,Fail,High,At-Risk
+2038,HR Management,Hybrid,34,Male,2024-07-08,88,52,60,36,5,18,66,No,4,46.4,Fail,High,At-Risk
+2039,Data Science,Offline,34,Male,2024-07-09,77,74,31,37,8,18,76,No,0,42.6,Fail,High,At-Risk
+2040,Web Dev,Online,29,Male,2024-07-10,41,91,56,76,8,8,71,No,1,73.0,Pass,High,At-Risk
+2041,Finance,Hybrid,33,Male,2024-07-11,88,44,91,56,23,6,86,No,2,64.1,Pass,Low,Active
+2042,Data Science,Online,32,Female,2024-07-12,45,75,63,79,19,45,68,No,2,73.4,Pass,High,At-Risk
+2043,Finance,Online,30,Female,2024-07-13,85,93,48,57,14,36,88,No,4,61.5,Pass,Low,Active
+2044,Web Dev,Offline,18,Female,2024-07-14,89,75,94,31,11,49,84,No,4,58.7,Pass,Low,Active
+2045,Web Dev,Online,34,Male,2024-07-15,77,85,78,94,9,40,62,Yes,3,87.4,Pass,Low,Active
+2046,Data Science,Hybrid,20,Female,2024-07-16,81,73,62,92,11,6,63,No,0,79.2,Pass,Medium,Active
+2047,Web Dev,Online,32,Male,2024-07-17,63,58,98,20,15,8,97,No,4,51.0,Pass,Low,Active
+2048,HR Management,Offline,21,Male,2024-07-18,57,91,99,77,15,3,80,No,1,86.4,Pass,Medium,Active
+2049,Web Dev,Offline,21,Female,2024-07-19,66,81,56,22,21,24,94,No,0,44.0,Fail,Medium,Active
+2050,Finance,Hybrid,34,Male,2024-07-20,80,83,69,82,23,48,51,No,3,78.3,Pass,Low,Active
+2051,Finance,Offline,28,Male,2024-07-21,47,86,85,40,12,11,95,Yes,2,62.7,Pass,Medium,Active
+2052,Finance,Online,20,Female,2024-07-22,67,95,94,42,7,5,88,No,3,68.2,Pass,Low,Active
+2053,Finance,Offline,25,Male,2024-07-23,49,51,77,28,22,17,86,No,0,47.3,Fail,High,At-Risk
+2054,HR Management,Hybrid,31,Male,2024-07-24,56,49,75,74,2,39,63,Yes,2,69.3,Pass,High,At-Risk
+2055,Digital Marketing,Offline,18,Female,2024-07-25,94,62,80,38,20,20,58,No,1,55.4,Pass,Low,Active
+2056,Data Science,Offline,31,Male,2024-07-26,68,54,51,81,8,14,59,No,2,66.6,Pass,Low,Active
+2057,Finance,Offline,19,Male,2024-07-27,97,75,62,58,19,2,56,No,2,62.599999999999994,Pass,Low,Active
+2058,Web Dev,Hybrid,21,Female,2024-07-28,45,86,86,95,4,1,77,No,1,90.5,Pass,High,At-Risk
+2059,Finance,Offline,23,Female,2024-07-29,53,34,42,46,21,40,95,No,4,42.4,Fail,High,At-Risk
+2060,Web Dev,Offline,18,Female,2024-07-30,61,84,88,65,12,39,74,No,4,75.7,Pass,Low,Active
+2061,Web Dev,Online,34,Female,2024-07-31,93,90,54,53,6,3,95,No,2,60.7,Pass,Low,Active
+2062,Finance,Hybrid,25,Male,2024-08-01,45,37,73,52,20,31,77,No,2,55.3,Pass,High,At-Risk
+2063,HR Management,Offline,18,Male,2024-08-02,65,45,65,69,22,1,51,Yes,3,63.0,Pass,Low,Active
+2064,Web Dev,Hybrid,22,Female,2024-08-03,78,77,37,39,3,45,66,No,4,46.0,Fail,High,At-Risk
+2065,Web Dev,Offline,33,Male,2024-08-04,51,90,58,59,23,28,53,Yes,1,64.9,Pass,High,At-Risk
+2066,Finance,Offline,23,Male,2024-08-05,74,44,49,77,5,1,62,No,2,62.0,Pass,Low,Active
+2067,Web Dev,Offline,25,Female,2024-08-06,53,94,90,50,11,33,67,No,2,70.8,Pass,High,At-Risk
+2068,Web Dev,Online,30,Female,2024-08-07,61,51,42,57,3,26,52,No,3,51.3,Pass,Low,Active
+2069,Finance,Online,33,Male,2024-08-08,90,32,29,64,9,38,100,No,3,47.1,Fail,Medium,Active
+2070,Finance,Online,20,Female,2024-08-09,62,83,43,60,2,43,86,Yes,3,59.5,Pass,Low,Active
+2071,Data Science,Hybrid,29,Female,2024-08-10,87,43,66,28,7,37,82,No,0,42.4,Fail,Medium,Active
+2072,HR Management,Hybrid,33,Female,2024-08-11,46,65,42,28,12,17,90,No,1,39.6,Fail,High,At-Risk
+2073,HR Management,Online,28,Male,2024-08-12,79,96,56,82,11,35,73,No,0,77.0,Pass,Medium,Active
+2074,Web Dev,Hybrid,27,Female,2024-08-13,89,39,45,98,14,18,57,No,2,70.3,Pass,Low,Active
+2075,HR Management,Offline,21,Male,2024-08-14,64,78,34,96,2,26,84,No,3,73.8,Pass,Low,Active
+2076,Web Dev,Offline,29,Male,2024-08-15,52,94,61,41,3,44,51,No,3,57.6,Pass,High,At-Risk
+2077,Data Science,Offline,19,Male,2024-08-16,60,86,73,35,4,19,82,No,3,56.599999999999994,Pass,Low,Active
+2078,Finance,Online,22,Female,2024-08-17,80,56,37,51,10,20,61,No,4,47.8,Fail,High,At-Risk
+2079,Finance,Hybrid,25,Female,2024-08-18,49,34,79,85,6,22,71,No,1,73.0,Pass,High,At-Risk
+2080,Finance,Online,24,Female,2024-08-19,92,86,41,33,11,29,62,No,0,46.0,Fail,High,At-Risk
+2081,HR Management,Hybrid,31,Female,2024-08-20,94,44,33,57,11,24,59,No,1,47.2,Fail,High,At-Risk
+2082,Data Science,Offline,20,Female,2024-08-21,98,59,68,27,13,30,66,Yes,3,45.7,Fail,High,At-Risk
+2083,HR Management,Online,33,Male,2024-08-22,48,49,70,40,19,26,92,No,2,50.8,Pass,Medium,Active
+2084,HR Management,Hybrid,33,Male,2024-08-23,54,66,32,75,22,33,54,Yes,4,60.3,Pass,High,At-Risk
+2085,Data Science,Hybrid,25,Male,2024-08-24,91,32,61,65,22,7,58,Yes,1,57.2,Pass,Low,Active
+2086,Data Science,Offline,18,Female,2024-08-25,41,70,43,62,2,18,62,Yes,2,57.9,Pass,High,At-Risk
+2087,Data Science,Online,34,Male,2024-08-26,64,68,87,65,4,40,72,Yes,3,72.2,Pass,Low,Active
+2088,Data Science,Online,29,Male,2024-08-27,52,55,70,67,6,25,79,No,3,65.5,Pass,High,At-Risk
+2089,Finance,Online,28,Female,2024-08-28,73,31,95,89,18,27,92,Yes,3,79.2,Pass,Low,Active
+2090,Digital Marketing,Offline,22,Female,2024-08-29,90,52,50,50,9,3,53,Yes,3,50.4,Pass,Low,Active
+2091,Digital Marketing,Online,29,Male,2024-08-30,97,52,70,52,18,30,70,Yes,4,57.4,Pass,Low,Active
+2092,Data Science,Offline,34,Male,2024-08-31,73,45,70,63,10,15,92,Yes,4,61.5,Pass,Low,Active
+2093,Digital Marketing,Offline,23,Female,2024-09-01,74,38,99,90,7,9,58,Yes,1,82.3,Pass,Low,Active
+2094,Digital Marketing,Offline,18,Female,2024-09-02,77,42,38,27,18,37,56,No,3,33.3,Fail,High,At-Risk
+2095,Data Science,Hybrid,22,Female,2024-09-03,42,57,87,92,9,47,65,No,4,83.5,Pass,High,At-Risk
+2096,Digital Marketing,Online,31,Female,2024-09-04,81,56,96,21,22,9,72,No,2,50.5,Pass,Low,Active
+2097,HR Management,Online,22,Male,2024-09-05,95,80,27,36,8,44,72,No,4,42.1,Fail,High,At-Risk
+2098,Web Dev,Offline,18,Male,2024-09-06,98,93,52,71,8,8,80,Yes,4,69.7,Pass,Low,Active
+2099,Web Dev,Offline,33,Female,2024-09-07,45,81,53,64,16,38,54,Yes,1,64.1,Pass,High,At-Risk
+2100,Data Science,Online,26,Male,2024-09-08,94,67,42,56,8,35,55,Yes,4,54.0,Pass,Low,Active
+2101,Finance,Offline,22,Male,2024-09-09,87,94,59,61,23,35,100,No,2,67.0,Pass,Low,Active
+2102,Data Science,Online,19,Female,2024-09-10,88,47,71,63,9,18,50,Yes,3,62.2,Pass,Low,Active
+2103,Finance,Hybrid,32,Male,2024-09-11,58,92,29,57,10,18,97,No,0,55.6,Pass,High,At-Risk
+2104,Web Dev,Offline,24,Male,2024-09-12,42,80,99,25,16,11,77,Yes,1,58.2,Pass,High,At-Risk
+2105,Data Science,Online,21,Male,2024-09-13,57,38,83,87,3,12,67,Yes,2,76.0,Pass,High,At-Risk
+2106,HR Management,Offline,18,Female,2024-09-14,78,42,99,70,8,24,73,No,1,73.1,Pass,Low,Active
+2107,Digital Marketing,Online,30,Female,2024-09-15,48,69,83,54,16,35,62,No,3,65.7,Pass,High,At-Risk
+2108,Finance,Online,24,Male,2024-09-16,91,84,71,77,19,24,82,No,4,76.6,Pass,Low,Active
+2109,Digital Marketing,Offline,32,Female,2024-09-17,51,72,37,76,23,27,59,No,4,63.5,Pass,High,At-Risk
+2110,Digital Marketing,Hybrid,31,Female,2024-09-18,44,73,57,92,19,41,56,No,2,77.7,Pass,High,At-Risk
+2111,Data Science,Online,27,Female,2024-09-19,42,97,86,25,11,38,86,No,3,57.7,Pass,Medium,Active
+2112,Digital Marketing,Online,26,Male,2024-09-20,50,62,40,32,23,29,81,No,0,40.4,Fail,High,At-Risk
+2113,HR Management,Online,25,Male,2024-09-21,96,53,68,78,19,4,94,Yes,0,70.0,Pass,Low,Active
+2114,Digital Marketing,Hybrid,27,Female,2024-09-22,69,65,82,49,2,16,71,No,4,62.099999999999994,Pass,Low,Active
+2115,Data Science,Hybrid,34,Male,2024-09-23,43,39,30,21,8,17,65,No,3,27.3,Fail,High,At-Risk
+2116,HR Management,Offline,19,Male,2024-09-24,44,49,39,77,4,42,73,No,3,60.0,Pass,High,At-Risk
+2117,Web Dev,Hybrid,23,Male,2024-09-25,40,41,28,55,15,46,63,No,2,44.1,Fail,High,At-Risk
+2118,Digital Marketing,Offline,22,Male,2024-09-26,66,91,80,91,13,20,60,No,0,87.7,Pass,Medium,Active
+2119,Data Science,Offline,26,Male,2024-09-27,67,47,88,64,15,21,68,No,2,67.8,Pass,Low,Active
+2120,Web Dev,Hybrid,22,Female,2024-09-28,68,92,92,28,5,38,72,No,1,60.0,Pass,Low,Active
+2121,Web Dev,Offline,26,Male,2024-09-29,57,54,58,84,14,49,83,No,3,70.2,Pass,Medium,Active
+2122,Finance,Hybrid,34,Male,2024-09-30,51,41,80,96,17,5,89,No,0,80.2,Pass,High,At-Risk
+2123,HR Management,Offline,34,Male,2024-10-01,52,50,56,69,17,49,62,No,2,61.3,Pass,High,At-Risk
+2124,Digital Marketing,Hybrid,29,Female,2024-10-02,80,54,33,98,23,15,88,Yes,4,69.7,Pass,Low,Active
+2125,Data Science,Hybrid,24,Female,2024-10-03,41,40,87,51,6,1,93,No,1,59.599999999999994,Pass,Medium,Active
+2126,Finance,Offline,20,Female,2024-10-04,76,93,96,62,21,0,77,Yes,2,78.4,Pass,Low,Active
+2127,HR Management,Online,27,Male,2024-10-05,84,79,57,97,7,29,89,No,4,81.4,Pass,Low,Active
+2128,Finance,Offline,19,Female,2024-10-06,55,91,45,73,7,42,65,No,0,68.2,Pass,High,At-Risk
+2129,HR Management,Hybrid,20,Female,2024-10-07,87,78,79,66,19,36,99,No,0,72.3,Pass,Low,Active
+2130,HR Management,Online,33,Female,2024-10-08,63,43,81,33,7,47,100,No,1,49.4,Fail,Medium,Active
+2131,Digital Marketing,Offline,19,Female,2024-10-09,74,30,26,67,8,22,77,Yes,4,47.3,Fail,High,At-Risk
+2132,HR Management,Offline,27,Male,2024-10-10,61,54,37,74,17,0,53,Yes,3,58.9,Pass,Low,Active
+2133,Finance,Offline,23,Female,2024-10-11,75,88,28,48,10,18,77,No,0,50.0,Pass,Medium,Active
+2134,HR Management,Online,28,Female,2024-10-12,50,98,74,66,14,45,61,Yes,3,74.8,Pass,High,At-Risk
+2135,Digital Marketing,Hybrid,24,Male,2024-10-13,94,34,72,82,13,2,65,No,3,69.4,Pass,Low,Active
+2136,Digital Marketing,Offline,32,Male,2024-10-14,97,48,54,38,20,1,98,No,2,44.8,Fail,Medium,Active
+2137,Finance,Offline,23,Female,2024-10-15,85,52,53,28,24,36,85,No,2,40.3,Fail,Medium,Active
+2138,Web Dev,Offline,26,Male,2024-10-16,68,38,32,56,24,16,69,No,0,45.2,Fail,High,At-Risk
+2139,Web Dev,Offline,29,Female,2024-10-17,74,79,36,71,2,27,75,No,3,62.1,Pass,Low,Active
+2140,HR Management,Offline,20,Male,2024-10-18,87,45,65,76,9,17,75,No,2,66.5,Pass,Low,Active
+2141,Data Science,Hybrid,32,Male,2024-10-19,93,62,50,47,5,32,71,Yes,4,50.9,Pass,Low,Active
+2142,HR Management,Hybrid,19,Female,2024-10-20,54,31,74,55,22,14,58,Yes,4,55.9,Pass,High,At-Risk
+2143,Finance,Offline,19,Male,2024-10-21,99,43,26,83,23,21,54,No,4,57.9,Pass,Low,Active
+2144,Finance,Online,20,Female,2024-10-22,70,30,79,37,20,40,66,No,4,48.2,Fail,High,At-Risk
+2145,Finance,Hybrid,23,Male,2024-10-23,81,87,80,54,22,26,98,Yes,3,68.4,Pass,Low,Active
+2146,Finance,Online,32,Female,2024-10-24,80,45,38,87,6,36,83,No,4,63.9,Pass,Low,Active
+2147,Finance,Hybrid,27,Male,2024-10-25,82,76,30,97,18,31,51,No,3,72.7,Pass,Low,Active
+2148,Digital Marketing,Offline,26,Male,2024-10-26,55,73,85,58,4,44,56,No,0,69.1,Pass,High,At-Risk
+2149,Web Dev,Hybrid,18,Male,2024-10-27,49,43,36,27,20,18,85,No,0,32.9,Fail,High,At-Risk
+2150,Finance,Offline,33,Male,2024-10-28,88,53,37,99,2,27,62,No,4,71.2,Pass,Low,Active
+2151,Data Science,Hybrid,23,Male,2024-10-29,71,84,43,34,24,27,69,No,4,46.7,Fail,High,At-Risk
+2152,Data Science,Offline,26,Female,2024-10-30,90,44,68,26,2,9,79,No,4,42.2,Fail,High,At-Risk
+2153,Data Science,Offline,21,Male,2024-10-31,41,63,83,36,24,19,79,No,0,55.5,Pass,High,At-Risk
+2154,Data Science,Offline,19,Female,2024-11-01,63,31,61,83,21,24,60,No,2,66.0,Pass,Low,Active
+2155,Digital Marketing,Offline,21,Female,2024-11-02,62,56,49,31,10,20,80,No,0,41.4,Fail,Medium,Active
+2156,Data Science,Online,18,Female,2024-11-03,41,52,40,75,24,13,52,Yes,4,59.9,Pass,High,At-Risk
+2157,Finance,Offline,27,Male,2024-11-04,77,97,62,65,6,21,51,Yes,2,70.5,Pass,Low,Active
+2158,HR Management,Online,32,Female,2024-11-05,70,43,67,66,8,25,97,No,2,61.699999999999996,Pass,Low,Active
+2159,Data Science,Online,33,Male,2024-11-06,90,92,38,98,7,43,52,No,1,78.80000000000001,Pass,Low,Active
+2160,Digital Marketing,Offline,21,Female,2024-11-07,79,94,30,35,18,10,64,No,3,45.3,Fail,High,At-Risk
+2161,Digital Marketing,Online,19,Female,2024-11-08,65,97,47,88,23,6,66,No,4,77.5,Pass,Low,Active
+2162,Data Science,Hybrid,30,Female,2024-11-09,68,92,84,21,18,16,97,Yes,3,54.1,Pass,Low,Active
+2163,HR Management,Offline,18,Female,2024-11-10,42,93,36,73,14,17,56,No,1,65.9,Pass,High,At-Risk
+2164,Data Science,Online,34,Female,2024-11-11,97,61,37,46,13,6,97,Yes,3,46.3,Fail,Medium,Active
+2165,Digital Marketing,Offline,30,Male,2024-11-12,53,42,30,50,5,19,54,No,4,42.4,Fail,High,At-Risk
+2166,Web Dev,Offline,21,Female,2024-11-13,64,95,87,60,9,37,83,No,1,75.1,Pass,Low,Active
+2167,Finance,Offline,24,Female,2024-11-14,87,48,62,55,6,10,82,No,3,55.7,Pass,Low,Active
+2168,Digital Marketing,Online,34,Male,2024-11-15,40,53,74,66,6,43,94,Yes,0,65.8,Pass,High,At-Risk
+2169,Data Science,Hybrid,26,Male,2024-11-16,92,40,76,62,14,15,65,No,2,61.8,Pass,Low,Active
+2170,Finance,Hybrid,21,Male,2024-11-17,42,88,64,84,12,26,86,No,1,78.8,Pass,Medium,Active
+2171,Data Science,Online,18,Female,2024-11-18,93,44,32,69,9,10,52,No,0,52.9,Pass,Medium,Active
+2172,Data Science,Offline,27,Female,2024-11-19,65,39,85,20,9,15,96,No,4,43.3,Fail,Medium,Active
+2173,Web Dev,Online,21,Female,2024-11-20,57,70,32,91,2,22,97,No,2,69.1,Pass,Medium,Active
+2174,Finance,Online,26,Female,2024-11-21,48,56,58,76,14,11,92,No,1,66.6,Pass,Medium,Active
+2175,Finance,Online,30,Female,2024-11-22,77,89,84,35,6,39,100,No,2,60.5,Pass,Low,Active
+2176,Web Dev,Offline,31,Female,2024-11-23,62,81,81,47,22,2,99,Yes,1,64.0,Pass,Low,Active
+2177,Digital Marketing,Online,27,Male,2024-11-24,60,57,70,41,9,1,70,No,1,52.9,Pass,Low,Active
+2178,Data Science,Offline,23,Male,2024-11-25,96,94,46,60,18,37,90,No,3,62.6,Pass,Low,Active
+2179,HR Management,Online,33,Female,2024-11-26,40,46,64,95,24,47,57,No,2,75.9,Pass,High,At-Risk
+2180,Data Science,Hybrid,23,Female,2024-11-27,60,73,69,38,24,23,71,Yes,2,54.3,Pass,Low,Active
+2181,Data Science,Online,34,Female,2024-11-28,66,39,79,69,14,28,100,Yes,0,66.0,Pass,Low,Active
+2182,Digital Marketing,Online,27,Female,2024-11-29,81,92,75,78,10,46,54,Yes,4,79.9,Pass,Low,Active
+2183,Data Science,Hybrid,20,Female,2024-11-30,98,76,29,88,3,45,66,No,0,67.9,Pass,Medium,Active
+2184,Web Dev,Offline,32,Male,2024-12-01,45,67,37,53,20,33,86,No,3,51.0,Pass,Medium,Active
+2185,Web Dev,Offline,32,Male,2024-12-02,94,99,52,58,21,19,63,No,1,64.4,Pass,Low,Active
+2186,Finance,Online,21,Female,2024-12-03,83,82,86,93,18,17,88,No,3,88.7,Pass,Low,Active
+2187,HR Management,Hybrid,26,Male,2024-12-04,75,73,48,26,8,13,90,No,3,42.0,Fail,Medium,Active
+2188,Data Science,Offline,34,Female,2024-12-05,67,83,31,71,4,17,77,No,0,61.4,Pass,Medium,Active
+2189,Data Science,Online,28,Female,2024-12-06,84,49,62,79,20,1,80,No,1,67.9,Pass,Low,Active
+2190,Digital Marketing,Hybrid,26,Female,2024-12-07,56,60,61,71,20,0,66,No,4,65.8,Pass,High,At-Risk
+2191,Web Dev,Offline,27,Male,2024-12-08,98,36,92,98,10,19,84,No,3,83.8,Pass,Low,Active
+2192,HR Management,Offline,30,Male,2024-12-09,79,87,66,43,11,33,89,No,4,58.7,Pass,Low,Active
+2193,Finance,Hybrid,25,Female,2024-12-10,97,39,29,45,15,40,71,Yes,1,39.0,Fail,High,At-Risk
+2194,Web Dev,Hybrid,24,Male,2024-12-11,91,39,88,29,19,40,94,No,1,48.7,Fail,Medium,Active
+2195,Finance,Hybrid,34,Male,2024-12-12,42,68,74,36,16,47,97,No,0,53.8,Pass,High,At-Risk
+2196,Digital Marketing,Hybrid,32,Female,2024-12-13,51,57,39,97,2,10,78,No,2,71.6,Pass,High,At-Risk
+2197,Digital Marketing,Online,32,Male,2024-12-14,78,59,97,21,7,26,59,No,0,51.4,Pass,Medium,Active
+2198,Data Science,Hybrid,18,Male,2024-12-15,51,66,77,96,16,22,67,Yes,4,84.3,Pass,High,At-Risk
+2199,HR Management,Offline,31,Female,2024-12-16,41,96,49,46,7,37,84,No,0,56.900000000000006,Pass,High,At-Risk
+2200,Finance,Offline,22,Female,2024-12-17,95,72,33,92,19,43,93,No,1,70.3,Pass,Low,Active
+2201,Web Dev,Online,28,Male,2024-12-18,85,81,62,90,2,2,65,No,3,79.8,Pass,Low,Active
+2202,Digital Marketing,Offline,33,Female,2024-12-19,61,85,46,67,4,11,99,Yes,2,64.3,Pass,Low,Active
+2203,Data Science,Offline,19,Male,2024-12-20,62,97,73,93,18,29,98,No,1,87.8,Pass,Low,Active
+2204,Data Science,Hybrid,25,Female,2024-12-21,69,38,92,28,17,30,56,No,3,49.199999999999996,Fail,High,At-Risk
+2205,Finance,Offline,28,Female,2024-12-22,44,52,39,42,9,22,79,No,4,43.1,Fail,High,At-Risk
+2206,Digital Marketing,Online,20,Female,2024-12-23,48,92,89,90,18,0,68,Yes,4,90.1,Pass,High,At-Risk
+2207,HR Management,Hybrid,18,Female,2024-12-24,60,90,78,92,9,40,72,Yes,4,87.4,Pass,Low,Active
+2208,Digital Marketing,Hybrid,28,Male,2024-12-25,50,69,54,46,18,19,57,No,0,53.0,Pass,High,At-Risk
+2209,Finance,Online,33,Female,2024-12-26,44,73,44,90,10,5,66,No,4,72.8,Pass,High,At-Risk
+2210,Finance,Hybrid,33,Female,2024-12-27,74,53,57,62,13,10,70,No,4,58.7,Pass,Low,Active
+2211,Digital Marketing,Hybrid,27,Female,2024-12-28,66,80,31,26,20,34,75,No,0,38.3,Fail,High,At-Risk
+2212,Finance,Online,23,Male,2024-12-29,88,87,32,82,5,3,77,No,3,68.0,Pass,Low,Active
+2213,Digital Marketing,Hybrid,21,Male,2024-12-30,41,62,52,63,22,28,88,No,1,59.5,Pass,Medium,Active
+2214,Web Dev,Online,30,Female,2024-12-31,63,45,69,58,23,9,82,Yes,2,58.7,Pass,Low,Active
+2215,Digital Marketing,Online,31,Female,2025-01-01,70,51,97,59,12,28,89,No,4,68.8,Pass,Low,Active
+2216,Digital Marketing,Offline,20,Female,2025-01-02,72,86,98,26,5,37,68,No,4,59.599999999999994,Pass,Low,Active
+2217,Finance,Offline,27,Female,2025-01-03,78,91,35,89,15,0,78,No,4,73.2,Pass,Low,Active
+2218,Finance,Hybrid,23,Female,2025-01-04,69,99,55,44,15,39,69,No,0,58.3,Pass,Medium,Active
+2219,Data Science,Hybrid,18,Female,2025-01-05,85,59,36,78,7,7,69,No,0,61.6,Pass,Medium,Active
+2220,Data Science,Online,31,Male,2025-01-06,76,52,75,32,18,37,59,Yes,0,48.9,Fail,High,At-Risk
+2221,Web Dev,Hybrid,25,Female,2025-01-07,90,61,68,81,3,16,61,No,2,73.1,Pass,Low,Active
+2222,Data Science,Online,31,Female,2025-01-08,67,86,74,27,9,18,82,No,1,52.9,Pass,Low,Active
+2223,Digital Marketing,Online,27,Female,2025-01-09,99,38,41,64,5,32,74,No,4,51.9,Pass,Low,Active
+2224,Finance,Hybrid,34,Female,2025-01-10,70,60,59,37,11,14,74,No,3,48.2,Fail,High,At-Risk
+2225,Data Science,Online,26,Female,2025-01-11,50,38,25,79,8,44,53,Yes,4,54.6,Pass,High,At-Risk
+2226,Data Science,Offline,23,Female,2025-01-12,62,42,53,79,5,30,53,No,4,63.8,Pass,Low,Active
+2227,Web Dev,Hybrid,28,Male,2025-01-13,96,87,75,21,17,20,58,No,4,50.400000000000006,Pass,Low,Active
+2228,Web Dev,Offline,24,Male,2025-01-14,41,32,88,85,15,2,64,Yes,4,75.3,Pass,High,At-Risk
+2229,Digital Marketing,Hybrid,34,Male,2025-01-15,79,64,28,33,17,1,75,No,1,37.7,Fail,High,At-Risk
+2230,Finance,Online,18,Male,2025-01-16,80,50,52,67,10,34,64,Yes,3,59.1,Pass,Low,Active
+2231,Web Dev,Hybrid,22,Male,2025-01-17,66,93,40,75,5,40,75,No,0,68.1,Pass,Medium,Active
+2232,Data Science,Offline,26,Male,2025-01-18,74,81,87,31,7,15,77,No,3,57.8,Pass,Low,Active
+2233,Finance,Online,19,Female,2025-01-19,41,63,77,74,2,44,56,No,4,72.7,Pass,High,At-Risk
+2234,Finance,Hybrid,28,Female,2025-01-20,78,64,41,47,8,49,81,Yes,3,48.6,Fail,Medium,Active
+2235,Data Science,Hybrid,23,Female,2025-01-21,76,44,64,23,2,20,61,No,4,39.5,Fail,High,At-Risk
+2236,Web Dev,Hybrid,25,Female,2025-01-22,60,35,37,55,20,11,84,No,3,45.6,Fail,Medium,Active
+2237,Data Science,Offline,21,Female,2025-01-23,97,61,76,69,9,27,81,No,2,69.5,Pass,Low,Active
+2238,Finance,Offline,28,Female,2025-01-24,44,81,82,22,4,11,58,No,3,51.8,Pass,High,At-Risk
+2239,HR Management,Hybrid,22,Male,2025-01-25,91,57,61,20,2,32,63,Yes,0,39.7,Fail,High,At-Risk
+2240,HR Management,Online,32,Female,2025-01-26,84,93,85,36,2,19,62,No,0,62.1,Pass,Medium,Active
+2241,Digital Marketing,Online,19,Male,2025-01-27,60,48,58,90,8,39,93,No,3,72.0,Pass,Low,Active
+2242,Data Science,Offline,28,Male,2025-01-28,68,44,94,81,22,48,82,No,3,77.5,Pass,Low,Active
+2243,Data Science,Online,30,Female,2025-01-29,59,35,41,67,14,20,81,No,1,52.8,Pass,Medium,Active
+2244,Digital Marketing,Offline,21,Female,2025-01-30,77,67,44,81,2,38,68,No,3,67.1,Pass,Low,Active
+2245,Digital Marketing,Hybrid,24,Female,2025-01-31,59,55,97,88,17,40,79,No,0,84.1,Pass,High,At-Risk
+2246,Digital Marketing,Offline,28,Female,2025-02-01,89,80,83,38,23,48,65,No,2,59.9,Pass,Low,Active
+2247,Finance,Offline,21,Female,2025-02-02,64,82,93,53,23,41,61,Yes,0,70.8,Pass,Medium,Active
+2248,Data Science,Hybrid,32,Female,2025-02-03,41,85,57,68,15,35,59,No,1,68.1,Pass,High,At-Risk
+2249,Finance,Online,18,Female,2025-02-04,96,88,41,99,5,21,51,Yes,3,79.4,Pass,Low,Active
+2250,Digital Marketing,Offline,20,Male,2025-02-05,71,99,81,66,24,25,67,No,2,77.1,Pass,Low,Active
+2251,Data Science,Offline,31,Female,2025-02-06,65,87,25,69,24,6,62,Yes,0,59.400000000000006,Pass,Medium,Active
+2252,Finance,Hybrid,23,Female,2025-02-07,45,42,37,45,13,6,78,No,2,42.0,Fail,High,At-Risk
+2253,Finance,Online,18,Male,2025-02-08,80,72,51,75,13,7,73,Yes,4,67.2,Pass,Low,Active
+2254,Digital Marketing,Offline,23,Female,2025-02-09,96,80,94,97,18,25,87,Yes,0,92.7,Pass,Low,Active
+2255,Data Science,Hybrid,23,Female,2025-02-10,42,48,83,33,22,23,61,No,4,51.0,Pass,High,At-Risk
+2256,Digital Marketing,Offline,33,Male,2025-02-11,72,50,30,97,16,23,78,Yes,2,67.5,Pass,Low,Active
+2257,Data Science,Hybrid,22,Female,2025-02-12,40,53,47,44,11,39,71,No,3,46.7,Fail,High,At-Risk
+2258,HR Management,Online,34,Female,2025-02-13,90,55,34,23,4,47,85,No,3,32.7,Fail,Medium,Active
+2259,Web Dev,Online,27,Female,2025-02-14,44,74,75,98,24,11,50,Yes,3,86.3,Pass,High,At-Risk
+2260,Web Dev,Online,24,Female,2025-02-15,52,57,43,51,21,46,92,No,4,49.8,Fail,High,At-Risk
+2261,Web Dev,Online,20,Female,2025-02-16,58,58,75,97,21,7,89,No,3,82.6,Pass,Medium,Active
+2262,Digital Marketing,Offline,30,Female,2025-02-17,51,46,92,84,13,8,83,No,1,78.8,Pass,Medium,Active
+2263,HR Management,Offline,32,Male,2025-02-18,87,97,66,80,2,2,83,No,0,79.2,Pass,Low,Active
+2264,Data Science,Online,20,Female,2025-02-19,64,73,81,39,2,20,97,No,0,58.400000000000006,Pass,Low,Active
+2265,Finance,Online,21,Female,2025-02-20,96,90,92,93,11,30,82,No,2,92.1,Pass,Low,Active
+2266,Data Science,Online,22,Male,2025-02-21,90,97,62,29,19,47,53,Yes,4,52.5,Pass,Low,Active
+2267,Finance,Offline,18,Male,2025-02-22,74,54,86,53,16,46,87,No,0,63.1,Pass,Low,Active
+2268,Data Science,Online,21,Female,2025-02-23,51,96,31,80,3,23,79,No,4,68.5,Pass,High,At-Risk
+2269,HR Management,Online,29,Male,2025-02-24,69,31,95,46,18,3,95,No,2,57.7,Pass,Low,Active
+2270,Finance,Online,27,Female,2025-02-25,44,78,74,59,9,19,69,No,3,67.3,Pass,High,At-Risk
+2271,Digital Marketing,Hybrid,30,Female,2025-02-26,73,99,76,84,23,15,75,No,2,84.6,Pass,Low,Active
+2272,Data Science,Online,31,Male,2025-02-27,61,55,50,52,23,9,64,Yes,1,52.0,Pass,Low,Active
+2273,Data Science,Hybrid,22,Female,2025-02-28,78,56,50,87,10,42,56,No,3,69.7,Pass,Low,Active
+2274,Finance,Hybrid,21,Female,2025-03-01,52,47,43,90,22,25,56,No,3,67.3,Pass,High,At-Risk
+2275,Digital Marketing,Online,31,Male,2025-03-02,96,83,33,28,21,28,99,Yes,3,40.5,Fail,Medium,Active
+2276,Digital Marketing,Hybrid,27,Male,2025-03-03,86,30,85,35,12,4,78,Yes,2,49.0,Fail,High,At-Risk
+2277,HR Management,Online,34,Male,2025-03-04,93,90,44,24,7,10,72,Yes,1,43.2,Fail,High,At-Risk
+2278,Digital Marketing,Offline,27,Male,2025-03-05,42,32,74,42,15,28,83,No,4,49.6,Fail,High,At-Risk
+2279,Digital Marketing,Offline,24,Female,2025-03-06,99,97,46,62,2,44,69,No,2,64.2,Pass,Low,Active
+2280,Digital Marketing,Offline,33,Male,2025-03-07,92,70,37,76,8,14,64,Yes,0,63.1,Pass,Medium,Active
+2281,Web Dev,Offline,18,Male,2025-03-08,59,66,36,70,10,5,82,Yes,0,59.0,Pass,High,At-Risk
+2282,HR Management,Hybrid,34,Male,2025-03-09,70,80,34,32,12,47,66,No,2,42.2,Fail,High,At-Risk
+2283,Data Science,Online,26,Male,2025-03-10,44,44,89,43,24,14,69,No,4,57.0,Pass,High,At-Risk
+2284,Finance,Online,23,Male,2025-03-11,63,37,54,30,17,42,62,No,0,38.6,Fail,High,At-Risk
+2285,Data Science,Online,30,Female,2025-03-12,79,67,32,71,20,19,93,No,4,58.5,Pass,Low,Active
+2286,HR Management,Offline,20,Male,2025-03-13,93,85,45,36,3,33,73,No,3,48.5,Fail,High,At-Risk
+2287,Finance,Offline,24,Female,2025-03-14,72,76,46,56,16,1,96,Yes,2,57.0,Pass,Low,Active
+2288,HR Management,Online,26,Male,2025-03-15,47,39,42,32,4,43,86,No,3,36.4,Fail,High,At-Risk
+2289,Digital Marketing,Offline,22,Male,2025-03-16,63,78,90,81,5,15,56,No,0,83.1,Pass,Medium,Active
+2290,Finance,Online,27,Male,2025-03-17,89,70,72,27,21,18,57,No,4,49.099999999999994,Fail,High,At-Risk
+2291,Digital Marketing,Online,34,Male,2025-03-18,59,59,68,75,23,33,72,No,3,69.7,Pass,High,At-Risk
+2292,Data Science,Online,29,Male,2025-03-19,99,34,33,89,8,48,63,No,0,61.2,Pass,Medium,Active
+2293,Data Science,Online,33,Male,2025-03-20,55,60,91,63,13,13,53,No,1,70.8,Pass,High,At-Risk
+2294,Finance,Online,20,Male,2025-03-21,89,81,78,79,5,23,70,No,3,79.1,Pass,Low,Active
+2295,Finance,Online,26,Male,2025-03-22,91,52,50,60,11,27,95,No,1,55.4,Pass,Low,Active
+2296,HR Management,Online,32,Female,2025-03-23,51,77,50,40,7,47,59,No,1,50.4,Pass,High,At-Risk
+2297,HR Management,Offline,22,Male,2025-03-24,52,69,58,61,23,31,71,No,0,61.7,Pass,High,At-Risk
+2298,Digital Marketing,Online,30,Female,2025-03-25,84,35,32,93,15,36,79,Yes,2,63.1,Pass,Low,Active
+2299,Finance,Online,31,Male,2025-03-26,81,67,34,93,4,9,79,Yes,4,70.1,Pass,Low,Active
+2300,Data Science,Offline,32,Female,2025-03-27,78,70,72,48,18,48,65,No,0,59.599999999999994,Pass,Medium,Active
+2301,HR Management,Offline,33,Male,2025-03-28,64,56,79,99,12,44,60,Yes,3,84.4,Pass,Low,Active
+2302,HR Management,Offline,30,Male,2025-03-29,85,98,78,84,11,47,71,No,4,85.0,Pass,Low,Active
+2303,Data Science,Online,34,Male,2025-03-30,71,86,64,36,22,8,78,Yes,2,54.4,Pass,Low,Active
+2304,HR Management,Hybrid,25,Female,2025-03-31,63,46,39,49,11,23,74,No,0,45.4,Fail,High,At-Risk
+2305,Digital Marketing,Hybrid,19,Female,2025-04-01,87,76,42,45,11,35,63,No,2,50.3,Pass,Low,Active
+2306,Finance,Offline,22,Female,2025-04-02,86,42,47,72,4,28,63,No,3,58.5,Pass,Low,Active
+2307,Data Science,Hybrid,23,Female,2025-04-03,83,40,86,38,16,28,51,Yes,0,52.8,Pass,Medium,Active
+2308,Finance,Offline,29,Male,2025-04-04,48,53,70,72,18,47,62,No,3,67.6,Pass,High,At-Risk
+2309,HR Management,Online,18,Male,2025-04-05,79,33,63,36,19,22,52,No,4,43.5,Fail,High,At-Risk
+2310,HR Management,Hybrid,34,Male,2025-04-06,89,75,39,65,20,26,79,No,4,59.2,Pass,Low,Active
+2311,Data Science,Online,28,Female,2025-04-07,62,47,77,72,20,30,67,Yes,2,68.5,Pass,Low,Active
+2312,Digital Marketing,Hybrid,27,Male,2025-04-08,89,72,88,83,13,42,85,Yes,2,82.3,Pass,Low,Active
+2313,Web Dev,Online,31,Female,2025-04-09,52,62,87,64,6,6,70,No,4,70.5,Pass,High,At-Risk
+2314,Data Science,Hybrid,27,Female,2025-04-10,99,39,40,68,17,48,68,Yes,1,53.8,Pass,Low,Active
+2315,Web Dev,Online,32,Female,2025-04-11,98,88,94,38,16,44,65,No,4,64.8,Pass,Low,Active
+2316,Web Dev,Online,21,Female,2025-04-12,71,60,90,90,16,3,77,No,0,84.0,Pass,Medium,Active
+2317,Digital Marketing,Hybrid,19,Female,2025-04-13,89,57,37,84,7,13,53,Yes,3,64.5,Pass,Low,Active
+2318,Web Dev,Online,26,Male,2025-04-14,54,89,71,56,13,41,100,No,4,67.1,Pass,Medium,Active
+2319,Web Dev,Online,27,Female,2025-04-15,75,32,33,89,3,41,64,Yes,4,60.8,Pass,Low,Active
+2320,Digital Marketing,Online,28,Female,2025-04-16,88,84,87,45,21,9,50,No,3,65.4,Pass,Low,Active
+2321,Web Dev,Hybrid,31,Male,2025-04-17,44,43,58,21,10,43,97,No,3,36.5,Fail,High,At-Risk
+2322,Web Dev,Hybrid,24,Female,2025-04-18,61,87,53,78,5,33,96,No,0,72.3,Pass,Low,Active
+2323,Web Dev,Online,32,Female,2025-04-19,55,44,61,24,6,25,65,No,3,39.1,Fail,High,At-Risk
+2324,Data Science,Online,32,Male,2025-04-20,80,31,67,56,22,22,69,No,2,54.3,Pass,Low,Active
+2325,Data Science,Hybrid,25,Male,2025-04-21,49,53,88,50,9,8,82,No,4,62.0,Pass,Medium,Active
+2326,Data Science,Hybrid,28,Male,2025-04-22,63,93,48,95,23,36,66,No,3,80.5,Pass,Low,Active
+2327,Digital Marketing,Online,26,Female,2025-04-23,57,53,95,67,11,7,54,No,0,72.6,Pass,High,At-Risk
+2328,HR Management,Online,32,Male,2025-04-24,88,56,58,25,8,13,54,No,3,41.1,Fail,High,At-Risk
+2329,Web Dev,Online,18,Male,2025-04-25,57,66,72,34,23,6,88,Yes,4,51.8,Pass,Medium,Active
+2330,Web Dev,Offline,18,Male,2025-04-26,46,68,36,34,15,6,62,Yes,1,41.4,Fail,High,At-Risk
+2331,Digital Marketing,Hybrid,20,Female,2025-04-27,43,92,47,80,6,8,93,No,3,72.5,Pass,Medium,Active
+2332,Web Dev,Offline,27,Male,2025-04-28,65,55,37,35,17,2,85,No,2,39.6,Fail,Medium,Active
+2333,Data Science,Hybrid,25,Female,2025-04-29,44,94,69,39,16,13,79,No,4,59.0,Pass,High,At-Risk
+2334,HR Management,Hybrid,32,Female,2025-04-30,99,33,89,96,6,16,53,No,0,81.3,Pass,Medium,Active
+2335,Finance,Hybrid,27,Male,2025-05-01,94,58,71,63,4,49,72,Yes,4,64.4,Pass,Low,Active
+2336,Web Dev,Hybrid,18,Female,2025-05-02,55,30,82,61,24,43,70,Yes,1,61.099999999999994,Pass,High,At-Risk
+2337,Data Science,Hybrid,19,Female,2025-05-03,74,79,29,65,11,21,70,Yes,0,57.0,Pass,Medium,Active
+2338,Finance,Hybrid,30,Male,2025-05-04,65,40,29,53,6,45,55,No,1,43.2,Fail,High,At-Risk
+2339,HR Management,Hybrid,18,Female,2025-05-05,57,88,84,83,24,25,73,No,1,84.3,Pass,High,At-Risk
+2340,Finance,Offline,19,Male,2025-05-06,68,91,45,48,16,27,96,No,2,55.7,Pass,Low,Active
+2341,Data Science,Online,33,Female,2025-05-07,62,65,48,22,19,44,80,Yes,3,38.4,Fail,Medium,Active
+2342,Finance,Online,32,Female,2025-05-08,92,85,42,28,9,13,68,No,2,43.6,Fail,High,At-Risk
+2343,Digital Marketing,Offline,30,Male,2025-05-09,53,50,45,94,22,8,87,No,2,70.5,Pass,Medium,Active
+2344,Finance,Offline,33,Male,2025-05-10,54,42,78,94,3,25,61,No,2,78.8,Pass,High,At-Risk
+2345,Web Dev,Offline,34,Female,2025-05-11,88,38,34,44,23,1,63,No,0,39.8,Fail,High,At-Risk
+2346,Web Dev,Offline,24,Female,2025-05-12,72,40,48,61,9,10,99,No,3,52.9,Pass,Low,Active
+2347,Digital Marketing,Hybrid,34,Male,2025-05-13,64,99,84,65,24,16,61,No,3,77.5,Pass,Low,Active
+2348,Data Science,Online,24,Female,2025-05-14,60,30,81,92,9,33,64,Yes,0,76.3,Pass,Medium,Active
+2349,Web Dev,Hybrid,30,Female,2025-05-15,56,99,47,78,5,18,68,Yes,2,72.9,Pass,High,At-Risk
+2350,HR Management,Online,22,Female,2025-05-16,62,85,46,40,20,38,77,Yes,2,50.8,Pass,Low,Active
+2351,Web Dev,Online,34,Female,2025-05-17,96,60,92,93,24,17,89,No,1,86.1,Pass,Low,Active
+2352,Web Dev,Offline,20,Male,2025-05-18,82,66,58,41,19,12,90,No,1,51.1,Pass,Low,Active
+2353,Data Science,Hybrid,24,Male,2025-05-19,56,76,94,48,22,4,54,Yes,4,67.4,Pass,High,At-Risk
+2354,Finance,Offline,34,Male,2025-05-20,97,76,52,82,24,49,54,No,1,71.8,Pass,Low,Active
+2355,Web Dev,Hybrid,24,Male,2025-05-21,53,98,63,92,2,22,55,No,3,84.5,Pass,High,At-Risk
+2356,Digital Marketing,Online,18,Male,2025-05-22,68,87,66,80,21,23,72,No,0,77.2,Pass,Medium,Active
+2357,Finance,Offline,34,Male,2025-05-23,59,65,47,83,16,28,52,No,2,68.6,Pass,High,At-Risk
+2358,HR Management,Offline,34,Female,2025-05-24,69,61,94,88,19,47,86,No,4,84.4,Pass,Low,Active
+2359,Data Science,Online,28,Male,2025-05-25,58,93,26,59,23,46,82,No,1,55.900000000000006,Pass,Medium,Active
+2360,HR Management,Online,20,Female,2025-05-26,92,71,48,94,13,7,92,No,4,75.6,Pass,Low,Active
+2361,Finance,Online,32,Female,2025-05-27,78,77,41,20,2,25,70,No,0,37.7,Fail,High,At-Risk
+2362,Finance,Offline,28,Female,2025-05-28,95,59,89,84,8,14,69,No,0,80.5,Pass,Medium,Active
+2363,Finance,Hybrid,33,Male,2025-05-29,52,50,94,81,20,0,50,Yes,4,78.7,Pass,High,At-Risk
+2364,HR Management,Offline,26,Female,2025-05-30,57,89,93,73,2,27,88,No,4,82.2,Pass,Medium,Active
+2365,Finance,Hybrid,18,Male,2025-05-31,62,42,84,79,8,48,96,No,4,73.1,Pass,Low,Active
+2366,HR Management,Offline,33,Female,2025-06-01,85,30,74,65,3,46,66,No,2,60.7,Pass,Low,Active
+2367,Finance,Offline,26,Female,2025-06-02,72,94,36,24,8,45,78,No,3,41.6,Fail,High,At-Risk
+2368,Digital Marketing,Online,29,Male,2025-06-03,78,62,71,41,20,13,57,No,1,54.2,Pass,Low,Active
+2369,Finance,Hybrid,26,Female,2025-06-04,79,67,91,72,14,41,75,No,1,76.7,Pass,Low,Active
+2370,HR Management,Offline,24,Female,2025-06-05,57,54,89,89,6,33,77,Yes,1,82.0,Pass,High,At-Risk
+2371,Web Dev,Offline,31,Female,2025-06-06,48,55,51,51,24,30,83,No,4,51.8,Pass,Medium,Active
+2372,Finance,Online,19,Female,2025-06-07,72,88,72,30,20,5,75,Yes,4,54.2,Pass,Low,Active
+2373,Web Dev,Online,26,Male,2025-06-08,71,62,86,29,2,48,62,Yes,4,52.7,Pass,Low,Active
+2374,Digital Marketing,Hybrid,30,Female,2025-06-09,93,70,68,58,2,4,93,No,2,63.4,Pass,Low,Active
+2375,Data Science,Offline,32,Female,2025-06-10,56,59,43,50,19,30,86,Yes,2,49.7,Fail,High,At-Risk
+2376,Digital Marketing,Hybrid,20,Male,2025-06-11,58,86,83,31,2,36,62,No,2,57.599999999999994,Pass,High,At-Risk
+2377,Finance,Offline,28,Female,2025-06-12,66,78,32,99,6,14,87,No,2,74.7,Pass,Low,Active
+2378,Web Dev,Hybrid,31,Female,2025-06-13,45,77,79,57,10,14,74,No,0,67.6,Pass,High,At-Risk
+2379,Web Dev,Online,25,Female,2025-06-14,74,78,71,86,13,42,96,Yes,2,79.9,Pass,Low,Active
+2380,HR Management,Offline,33,Female,2025-06-15,95,76,26,85,10,4,72,No,2,65.5,Pass,Low,Active
+2381,Web Dev,Hybrid,19,Male,2025-06-16,76,85,63,71,19,27,71,No,2,71.4,Pass,Low,Active
+2382,HR Management,Online,25,Female,2025-06-17,73,94,69,24,24,32,70,No,1,51.5,Pass,Low,Active
+2383,Data Science,Online,23,Male,2025-06-18,59,41,56,30,12,10,79,No,1,40.0,Fail,High,At-Risk
+2384,Finance,Hybrid,29,Female,2025-06-19,64,98,89,44,2,42,60,Yes,1,68.3,Pass,Low,Active
+2385,HR Management,Offline,32,Female,2025-06-20,43,35,62,54,20,5,53,No,3,52.599999999999994,Pass,High,At-Risk
+2386,Data Science,Offline,25,Female,2025-06-21,49,94,35,54,23,22,82,No,0,56.3,Pass,High,At-Risk
+2387,Web Dev,Online,21,Male,2025-06-22,49,54,34,41,11,39,96,Yes,4,41.5,Fail,High,At-Risk
+2388,Web Dev,Offline,32,Female,2025-06-23,63,30,83,56,3,1,61,No,2,58.9,Pass,Low,Active
+2389,Data Science,Offline,34,Female,2025-06-24,60,61,79,74,8,14,58,No,1,72.9,Pass,Low,Active
+2390,Web Dev,Offline,30,Male,2025-06-25,50,32,44,94,21,22,81,Yes,0,66.6,Pass,High,At-Risk
+2391,Data Science,Online,19,Male,2025-06-26,66,78,41,91,3,21,60,No,2,73.4,Pass,Low,Active
+2392,HR Management,Hybrid,30,Male,2025-06-27,55,48,92,83,20,8,86,Yes,3,78.7,Pass,Medium,Active
+2393,HR Management,Offline,30,Male,2025-06-28,65,89,29,39,7,46,73,No,4,46.0,Fail,High,At-Risk
+2394,Data Science,Online,32,Female,2025-06-29,69,58,84,23,11,39,56,No,2,48.3,Fail,High,At-Risk
+2395,HR Management,Online,27,Female,2025-06-30,88,79,47,37,10,29,57,No,4,48.4,Fail,High,At-Risk
+2396,HR Management,Hybrid,20,Female,2025-07-01,55,31,70,70,9,15,82,No,2,62.2,Pass,Medium,Active
+2397,HR Management,Offline,20,Female,2025-07-02,46,85,76,87,12,45,74,Yes,3,83.3,Pass,High,At-Risk
+2398,Digital Marketing,Offline,31,Male,2025-07-03,55,46,34,39,10,46,50,Yes,0,38.9,Fail,High,At-Risk
+2399,Finance,Hybrid,25,Female,2025-07-04,74,89,70,28,21,29,52,Yes,4,52.8,Pass,Low,Active
+2400,Web Dev,Hybrid,21,Female,2025-07-05,97,65,52,99,21,44,89,No,4,78.1,Pass,Low,Active
+2401,Digital Marketing,Online,28,Female,2025-07-06,55,90,67,45,10,8,77,No,0,60.599999999999994,Pass,High,At-Risk
+2402,HR Management,Online,28,Female,2025-07-07,79,46,50,44,9,0,92,No,4,46.2,Fail,Medium,Active
+2403,Data Science,Hybrid,28,Male,2025-07-08,51,78,79,87,16,37,82,Yes,1,82.8,Pass,Medium,Active
+2404,HR Management,Offline,19,Female,2025-07-09,74,89,72,60,3,7,95,No,0,69.4,Pass,Low,Active
+2405,Finance,Online,34,Female,2025-07-10,88,49,53,78,2,17,50,No,3,64.7,Pass,Low,Active
+2406,HR Management,Online,26,Female,2025-07-11,60,79,51,64,10,26,87,No,2,63.1,Pass,Low,Active
+2407,Data Science,Offline,19,Male,2025-07-12,89,32,42,60,10,17,76,No,2,49.0,Fail,High,At-Risk
+2408,Finance,Online,32,Male,2025-07-13,82,72,84,57,14,31,87,Yes,0,68.1,Pass,Low,Active
+2409,HR Management,Offline,33,Female,2025-07-14,75,86,98,38,9,48,84,Yes,1,65.6,Pass,Low,Active
+2410,Finance,Offline,21,Female,2025-07-15,87,79,93,33,22,31,59,No,3,60.2,Pass,Low,Active
+2411,Web Dev,Offline,25,Female,2025-07-16,56,97,98,40,6,47,61,No,2,68.8,Pass,High,At-Risk
+2412,Web Dev,Hybrid,26,Male,2025-07-17,71,79,45,34,4,44,59,Yes,2,46.3,Fail,High,At-Risk
+2413,HR Management,Hybrid,22,Female,2025-07-18,80,66,48,22,22,35,83,Yes,1,38.6,Fail,Medium,Active
+2414,Finance,Hybrid,33,Female,2025-07-19,45,75,27,56,5,35,73,No,4,51.1,Pass,High,At-Risk
+2415,Data Science,Offline,30,Female,2025-07-20,63,71,86,65,18,20,77,No,0,72.5,Pass,Medium,Active
+2416,HR Management,Offline,24,Male,2025-07-21,66,44,26,35,17,45,71,Yes,1,34.1,Fail,High,At-Risk
+2417,Web Dev,Hybrid,34,Female,2025-07-22,59,62,90,33,17,31,94,No,1,55.9,Pass,Medium,Active
+2418,Web Dev,Online,20,Female,2025-07-23,64,40,66,28,21,30,65,No,1,41.8,Fail,High,At-Risk
+2419,HR Management,Offline,22,Male,2025-07-24,41,49,58,26,4,36,62,No,1,40.2,Fail,High,At-Risk
+2420,Finance,Online,29,Male,2025-07-25,48,53,66,33,7,15,85,No,4,46.900000000000006,Fail,High,At-Risk
+2421,Web Dev,Online,24,Female,2025-07-26,67,93,44,25,2,45,85,Yes,3,44.3,Fail,Medium,Active
+2422,Finance,Offline,26,Male,2025-07-27,92,94,92,34,22,45,92,No,1,63.4,Pass,Low,Active
+2423,Web Dev,Offline,23,Female,2025-07-28,77,46,69,71,17,13,72,No,1,65.4,Pass,Low,Active
+2424,Web Dev,Online,34,Male,2025-07-29,42,90,99,91,16,23,63,No,0,93.2,Pass,High,At-Risk
+2425,Digital Marketing,Online,33,Male,2025-07-30,59,44,66,53,8,24,81,No,2,55.1,Pass,Medium,Active
+2426,Web Dev,Hybrid,20,Female,2025-07-31,45,80,71,20,3,45,52,No,4,47.3,Fail,High,At-Risk
+2427,Data Science,Hybrid,21,Female,2025-08-01,78,56,29,88,11,34,76,No,1,63.9,Pass,Low,Active
+2428,HR Management,Offline,27,Female,2025-08-02,72,90,73,39,16,16,68,No,3,59.4,Pass,Low,Active
+2429,HR Management,Hybrid,22,Male,2025-08-03,94,87,61,99,7,45,71,Yes,3,85.2,Pass,Low,Active
+2430,Finance,Hybrid,27,Female,2025-08-04,40,60,58,26,3,41,50,Yes,3,42.4,Fail,High,At-Risk
+2431,Web Dev,Hybrid,29,Female,2025-08-05,76,41,97,26,18,44,54,No,0,50.3,Pass,Medium,Active
+2432,Data Science,Hybrid,27,Female,2025-08-06,45,75,94,69,2,3,98,No,3,77.7,Pass,Medium,Active
+2433,Finance,Online,30,Female,2025-08-07,84,60,42,21,2,10,82,No,0,35.1,Fail,Medium,Active
+2434,Digital Marketing,Offline,28,Female,2025-08-08,73,61,43,66,5,46,100,No,4,58.1,Pass,Low,Active
+2435,Finance,Hybrid,33,Male,2025-08-09,86,61,64,33,21,14,68,No,3,47.9,Fail,High,At-Risk
+2436,Finance,Online,25,Female,2025-08-10,54,82,41,50,17,29,85,No,2,53.7,Pass,Medium,Active
+2437,Web Dev,Online,25,Female,2025-08-11,84,90,84,69,9,23,100,No,1,77.7,Pass,Low,Active
+2438,Digital Marketing,Online,25,Male,2025-08-12,65,75,66,80,2,1,55,No,4,74.8,Pass,Low,Active
+2439,Finance,Hybrid,30,Female,2025-08-13,96,36,96,60,20,42,64,No,2,66.0,Pass,Low,Active
+2440,Data Science,Hybrid,19,Female,2025-08-14,53,33,89,33,12,33,85,No,4,49.8,Fail,High,At-Risk
+2441,Data Science,Offline,29,Female,2025-08-15,97,81,77,24,18,22,82,No,3,51.3,Pass,Low,Active
+2442,HR Management,Hybrid,27,Female,2025-08-16,93,60,31,94,11,30,73,No,4,68.3,Pass,Low,Active
+2443,Digital Marketing,Hybrid,29,Female,2025-08-17,46,65,29,24,13,36,76,No,4,33.7,Fail,High,At-Risk
+2444,Digital Marketing,Online,28,Male,2025-08-18,85,83,48,83,10,12,98,Yes,4,72.5,Pass,Low,Active
+2445,HR Management,Offline,32,Male,2025-08-19,97,83,52,48,8,32,60,Yes,0,56.2,Pass,Medium,Active
+2446,Finance,Hybrid,33,Male,2025-08-20,70,46,86,94,13,6,98,No,2,82.0,Pass,Low,Active
+2447,Digital Marketing,Hybrid,34,Female,2025-08-21,63,59,41,24,16,31,72,No,3,36.1,Fail,High,At-Risk
+2448,Data Science,Online,19,Male,2025-08-22,98,51,44,55,9,6,82,No,1,50.9,Pass,Low,Active
+2449,Data Science,Online,29,Female,2025-08-23,70,72,27,98,18,41,90,Yes,3,71.5,Pass,Low,Active
+2450,Web Dev,Hybrid,34,Female,2025-08-24,68,56,61,38,6,37,95,No,3,48.5,Fail,Medium,Active
+2451,Digital Marketing,Offline,23,Female,2025-08-25,81,66,39,83,15,43,96,No,0,66.4,Pass,Low,Active
+2452,Finance,Offline,32,Male,2025-08-26,71,75,75,41,3,12,78,No,0,58.0,Pass,Medium,Active
+2453,HR Management,Online,20,Male,2025-08-27,56,64,72,53,17,23,80,Yes,4,60.9,Pass,Medium,Active
+2454,HR Management,Online,23,Male,2025-08-28,53,33,32,75,18,27,50,No,3,53.7,Pass,High,At-Risk
+2455,Finance,Hybrid,20,Female,2025-08-29,79,55,37,36,4,31,83,No,2,40.1,Fail,Medium,Active
+2456,Web Dev,Online,18,Male,2025-08-30,75,48,72,95,24,42,67,Yes,0,78.7,Pass,Medium,Active
+2457,HR Management,Hybrid,30,Female,2025-08-31,97,74,27,75,2,17,67,No,0,60.4,Pass,Medium,Active
+2458,Digital Marketing,Offline,31,Male,2025-09-01,87,55,89,36,19,33,55,No,2,55.7,Pass,Low,Active
+2459,Web Dev,Offline,30,Male,2025-09-02,63,51,97,93,19,47,89,No,0,85.8,Pass,Low,Active
+2460,Digital Marketing,Hybrid,21,Female,2025-09-03,84,87,55,37,5,33,50,No,2,52.400000000000006,Pass,Low,Active
+2461,Data Science,Online,24,Female,2025-09-04,93,92,50,64,16,37,96,No,1,65.4,Pass,Low,Active
+2462,Web Dev,Offline,27,Male,2025-09-05,66,57,80,97,20,0,91,No,2,83.9,Pass,Low,Active
+2463,HR Management,Online,24,Male,2025-09-06,64,94,58,75,20,42,79,No,1,73.7,Pass,Low,Active
+2464,Web Dev,Offline,32,Male,2025-09-07,98,73,33,99,11,49,53,Yes,4,74.0,Pass,Low,Active
+2465,Web Dev,Hybrid,32,Female,2025-09-08,71,72,86,69,6,41,81,Yes,4,74.7,Pass,Low,Active
+2466,Web Dev,Hybrid,21,Female,2025-09-09,91,66,37,77,20,30,59,No,0,62.8,Pass,Medium,Active
+2467,Web Dev,Hybrid,23,Male,2025-09-10,57,95,93,37,12,49,92,Yes,2,65.4,Pass,Medium,Active
+2468,Digital Marketing,Offline,22,Male,2025-09-11,85,46,65,99,8,0,54,No,0,78.2,Pass,Medium,Active
+2469,Data Science,Online,29,Female,2025-09-12,57,69,25,26,6,15,58,No,2,34.3,Fail,High,At-Risk
+2470,Finance,Online,18,Male,2025-09-13,76,67,71,95,21,38,54,No,0,82.2,Pass,Medium,Active
+2471,Web Dev,Online,25,Female,2025-09-14,65,90,28,29,13,14,60,No,4,40.9,Fail,High,At-Risk
+2472,HR Management,Offline,18,Female,2025-09-15,48,38,87,88,20,32,84,No,4,77.69999999999999,Pass,Medium,Active
+2473,Web Dev,Offline,22,Female,2025-09-16,99,90,76,22,16,22,76,No,0,51.8,Pass,Medium,Active
+2474,HR Management,Offline,23,Female,2025-09-17,74,45,34,63,13,40,53,Yes,2,50.7,Pass,Low,Active
+2475,Digital Marketing,Offline,20,Female,2025-09-18,47,31,52,89,5,33,59,Yes,3,66.3,Pass,High,At-Risk
+2476,HR Management,Offline,32,Female,2025-09-19,59,72,30,33,13,16,88,No,2,39.9,Fail,High,At-Risk
+2477,Finance,Online,22,Male,2025-09-20,93,71,51,23,19,24,82,Yes,0,41.0,Fail,Medium,Active
+2478,Data Science,Offline,31,Female,2025-09-21,81,86,36,37,18,41,87,No,2,46.5,Fail,Medium,Active
+2479,HR Management,Offline,33,Female,2025-09-22,61,96,86,71,20,5,57,No,1,80.5,Pass,Low,Active
+2480,HR Management,Online,23,Male,2025-09-23,58,59,76,57,17,30,98,No,2,63.1,Pass,Medium,Active
+2481,Data Science,Offline,31,Female,2025-09-24,69,42,72,99,12,4,73,Yes,4,79.5,Pass,Low,Active
+2482,Finance,Online,25,Male,2025-09-25,92,48,91,39,3,39,88,No,4,56.400000000000006,Pass,Low,Active
+2483,Web Dev,Online,24,Female,2025-09-26,67,36,70,63,17,39,82,Yes,1,59.7,Pass,Low,Active
+2484,HR Management,Hybrid,25,Male,2025-09-27,74,38,98,70,2,29,90,No,2,72.0,Pass,Low,Active
+2485,Data Science,Hybrid,30,Male,2025-09-28,82,83,39,38,18,4,92,Yes,3,47.3,Fail,Medium,Active
+2486,Digital Marketing,Hybrid,23,Female,2025-09-29,50,90,95,87,19,11,68,No,2,90.0,Pass,High,At-Risk
+2487,Data Science,Hybrid,19,Female,2025-09-30,70,31,60,85,14,6,51,Yes,4,66.7,Pass,Low,Active
+2488,Digital Marketing,Offline,25,Female,2025-10-01,88,79,38,32,6,44,60,Yes,4,43.2,Fail,High,At-Risk
+2489,Finance,Hybrid,28,Female,2025-10-02,87,60,27,81,7,12,84,No,0,60.6,Pass,Low,Active
+2490,Web Dev,Online,18,Male,2025-10-03,78,62,91,80,2,48,66,Yes,4,79.7,Pass,Low,Active
+2491,Data Science,Offline,23,Male,2025-10-04,75,40,43,49,11,3,91,No,0,45.4,Fail,Medium,Active
+2492,HR Management,Hybrid,33,Male,2025-10-05,69,62,78,49,6,49,52,Yes,4,60.3,Pass,Low,Active
+2493,Finance,Online,29,Female,2025-10-06,62,36,93,70,2,41,71,No,4,70.1,Pass,Low,Active
+2494,Data Science,Offline,28,Male,2025-10-07,58,60,34,67,24,2,84,No,3,55.7,Pass,Medium,Active
+2495,HR Management,Offline,27,Female,2025-10-08,51,77,57,52,12,11,70,Yes,0,58.5,Pass,High,At-Risk
+2496,Data Science,Hybrid,20,Female,2025-10-09,54,76,37,93,8,0,74,No,0,72.8,Pass,High,At-Risk
+2497,Digital Marketing,Offline,30,Male,2025-10-10,70,82,75,38,19,26,88,No,4,57.900000000000006,Pass,Low,Active
+2498,Data Science,Online,20,Female,2025-10-11,82,48,56,90,22,42,51,Yes,0,71.4,Pass,Medium,Active
+2499,Data Science,Offline,32,Male,2025-10-12,76,35,99,76,21,49,50,Yes,4,74.7,Pass,Low,Active
+2500,Data Science,Online,33,Female,2025-10-13,76,78,48,38,22,12,56,No,4,49.0,Fail,High,At-Risk
+2501,Finance,Offline,30,Male,2025-10-14,54,79,59,98,11,16,69,No,2,82.5,Pass,High,At-Risk
+2502,Data Science,Hybrid,34,Female,2025-10-15,68,41,94,60,16,7,92,No,0,66.4,Pass,Low,Active
+2503,HR Management,Online,20,Male,2025-10-16,89,52,64,61,5,31,55,No,1,60.1,Pass,Low,Active
+2504,Digital Marketing,Offline,28,Male,2025-10-17,82,83,78,71,17,19,85,No,0,75.5,Pass,Low,Active
+2505,Digital Marketing,Offline,28,Female,2025-10-18,65,98,68,23,16,16,100,Yes,0,51.5,Pass,Low,Active
+2506,Data Science,Offline,33,Female,2025-10-19,83,88,86,23,16,33,70,No,3,54.900000000000006,Pass,Low,Active
+2507,Finance,Online,20,Male,2025-10-20,41,65,92,24,13,34,100,No,1,52.599999999999994,Pass,Medium,Active
+2508,Finance,Online,23,Female,2025-10-21,59,32,57,60,9,34,95,No,1,53.5,Pass,Medium,Active
+2509,HR Management,Online,31,Female,2025-10-22,54,87,80,80,9,37,84,No,3,81.4,Pass,Medium,Active
+2510,Data Science,Hybrid,34,Female,2025-10-23,91,84,60,94,19,41,85,No,3,81.8,Pass,Low,Active
+2511,Digital Marketing,Hybrid,21,Male,2025-10-24,43,86,78,74,7,23,57,No,0,77.6,Pass,High,At-Risk
+2512,Finance,Online,32,Male,2025-10-25,61,46,43,94,6,17,99,No,2,69.1,Pass,Low,Active
+2513,Data Science,Offline,28,Female,2025-10-26,89,68,67,32,3,49,53,Yes,3,49.7,Fail,High,At-Risk
+2514,Finance,Hybrid,20,Female,2025-10-27,77,97,36,33,13,45,92,Yes,1,46.7,Fail,Medium,Active
+2515,Finance,Online,20,Male,2025-10-28,62,84,35,79,5,47,65,No,1,66.8,Pass,Low,Active
+2516,Digital Marketing,Offline,33,Female,2025-10-29,98,74,94,91,24,38,52,No,0,88.5,Pass,Medium,Active
+2517,Web Dev,Hybrid,22,Male,2025-10-30,65,30,36,44,14,32,56,Yes,2,38.8,Fail,High,At-Risk
+2518,HR Management,Offline,27,Female,2025-10-31,90,50,65,63,18,48,51,No,4,61.0,Pass,Low,Active
+2519,HR Management,Offline,21,Female,2025-11-01,50,50,49,29,17,22,50,No,3,39.2,Fail,High,At-Risk
+2520,Digital Marketing,Offline,28,Female,2025-11-02,67,81,27,90,10,24,50,Yes,3,69.3,Pass,Low,Active
+2521,Finance,Offline,19,Male,2025-11-03,95,72,27,69,2,36,87,Yes,0,57.0,Pass,Low,Active
+2522,Data Science,Hybrid,27,Male,2025-11-04,41,81,52,63,16,26,100,No,2,63.3,Pass,Medium,Active
+2523,Finance,Hybrid,28,Male,2025-11-05,98,96,47,33,13,0,56,No,1,49.800000000000004,Fail,High,At-Risk
+2524,Digital Marketing,Hybrid,33,Male,2025-11-06,47,73,72,34,6,20,73,No,1,53.2,Pass,High,At-Risk
+2525,HR Management,Online,28,Female,2025-11-07,68,61,91,35,24,48,54,No,4,57.0,Pass,Low,Active
+2526,Finance,Hybrid,31,Female,2025-11-08,50,39,66,21,19,9,70,No,1,38.1,Fail,High,At-Risk
+2527,HR Management,Offline,19,Male,2025-11-09,76,93,64,49,21,30,77,Yes,3,62.3,Pass,Low,Active
+2528,Data Science,Hybrid,22,Female,2025-11-10,57,98,30,49,3,43,67,No,4,53.1,Pass,High,At-Risk
+2529,HR Management,Offline,22,Female,2025-11-11,94,97,44,50,5,24,73,No,2,57.6,Pass,Low,Active
+2530,HR Management,Online,29,Male,2025-11-12,89,57,35,96,16,19,81,No,4,69.9,Pass,Low,Active
+2531,Web Dev,Offline,21,Female,2025-11-13,53,82,51,39,7,1,94,Yes,2,51.2,Pass,Medium,Active
+2532,Web Dev,Offline,34,Female,2025-11-14,93,80,45,68,23,47,82,Yes,1,63.5,Pass,Low,Active
+2533,Web Dev,Offline,27,Male,2025-11-15,49,82,37,54,13,14,59,No,0,54.5,Pass,High,At-Risk
+2534,HR Management,Online,23,Female,2025-11-16,74,33,59,42,19,27,58,No,4,45.3,Fail,High,At-Risk
+2535,Digital Marketing,Hybrid,31,Female,2025-11-17,48,46,71,80,21,12,98,No,4,70.5,Pass,Medium,Active
+2536,HR Management,Hybrid,28,Female,2025-11-18,74,96,52,74,5,49,82,No,3,71.80000000000001,Pass,Low,Active
+2537,Digital Marketing,Online,28,Male,2025-11-19,50,76,45,86,2,13,82,No,3,71.7,Pass,Medium,Active
+2538,Digital Marketing,Offline,28,Male,2025-11-20,83,85,42,27,16,49,56,No,2,43.1,Fail,High,At-Risk
+2539,Web Dev,Hybrid,29,Female,2025-11-21,51,52,55,59,19,1,53,No,0,56.4,Pass,High,At-Risk
+2540,Finance,Online,22,Female,2025-11-22,42,47,84,78,15,33,77,No,3,73.6,Pass,High,At-Risk
+2541,Data Science,Hybrid,26,Female,2025-11-23,92,30,61,51,4,34,72,No,3,49.8,Fail,High,At-Risk
+2542,Web Dev,Online,26,Male,2025-11-24,78,64,45,26,16,36,81,Yes,1,39.3,Fail,Medium,Active
+2543,Web Dev,Offline,27,Male,2025-11-25,53,93,38,21,6,24,93,Yes,1,40.5,Fail,High,At-Risk
+2544,Finance,Hybrid,18,Male,2025-11-26,95,87,84,25,23,47,65,No,3,55.1,Pass,Low,Active
+2545,Data Science,Online,24,Female,2025-11-27,67,88,47,55,4,14,95,No,2,59.2,Pass,Low,Active
+2546,HR Management,Hybrid,21,Female,2025-11-28,50,30,53,51,23,11,59,No,0,47.4,Fail,High,At-Risk
+2547,HR Management,Hybrid,18,Female,2025-11-29,78,32,71,64,8,8,63,No,3,59.7,Pass,Low,Active
+2548,Web Dev,Hybrid,32,Female,2025-11-30,64,96,54,61,7,30,88,No,2,65.9,Pass,Low,Active
+2549,Data Science,Hybrid,25,Female,2025-12-01,60,66,62,72,23,13,85,No,2,67.8,Pass,Low,Active
+2550,Web Dev,Online,29,Male,2025-12-02,49,58,51,28,2,28,83,No,3,40.9,Fail,High,At-Risk
+2551,Digital Marketing,Offline,32,Female,2025-12-03,82,62,39,94,20,47,73,Yes,2,71.1,Pass,Low,Active
+2552,Web Dev,Online,34,Female,2025-12-04,54,90,83,94,8,42,67,No,4,89.9,Pass,High,At-Risk
+2553,Web Dev,Online,31,Female,2025-12-05,58,33,27,68,5,37,65,No,2,48.7,Fail,High,At-Risk
+2554,HR Management,Online,31,Male,2025-12-06,87,43,34,21,13,41,90,No,3,29.299999999999997,Fail,Medium,Active
+2555,HR Management,Offline,33,Female,2025-12-07,61,62,41,86,21,7,86,No,2,67.7,Pass,Low,Active
+2556,HR Management,Hybrid,18,Male,2025-12-08,60,51,35,30,24,47,90,Yes,3,35.7,Fail,Medium,Active
+2557,Digital Marketing,Hybrid,28,Male,2025-12-09,99,77,72,69,19,2,74,No,1,71.5,Pass,Low,Active
+2558,HR Management,Hybrid,32,Male,2025-12-10,91,32,29,54,10,1,57,No,3,42.1,Fail,High,At-Risk
+2559,Data Science,Offline,29,Male,2025-12-11,83,52,93,34,20,15,73,No,2,55.3,Pass,Low,Active
+2560,Finance,Hybrid,25,Male,2025-12-12,71,97,88,94,23,18,69,No,3,92.8,Pass,Low,Active
+2561,Data Science,Offline,23,Female,2025-12-13,89,50,38,50,5,29,97,No,0,46.4,Fail,Medium,Active
+2562,Data Science,Hybrid,20,Female,2025-12-14,62,72,74,81,2,40,79,No,3,77.1,Pass,Low,Active
+2563,HR Management,Hybrid,30,Male,2025-12-15,52,55,50,47,10,15,69,Yes,3,49.5,Fail,High,At-Risk
+2564,Finance,Online,30,Male,2025-12-16,44,70,96,44,16,30,67,No,0,64.8,Pass,High,At-Risk
+2565,Finance,Offline,19,Male,2025-12-17,43,67,93,44,23,27,53,No,0,63.3,Pass,High,At-Risk
+2566,Finance,Online,22,Female,2025-12-18,67,40,31,94,9,3,97,No,0,64.3,Pass,Low,Active
+2567,Digital Marketing,Online,34,Female,2025-12-19,53,58,40,20,16,9,85,No,4,33.6,Fail,High,At-Risk
+2568,HR Management,Online,23,Male,2025-12-20,47,89,79,78,16,44,55,No,3,80.5,Pass,High,At-Risk
+2569,Finance,Offline,19,Female,2025-12-21,48,96,80,88,19,17,52,No,0,87.2,Pass,High,At-Risk
+2570,Digital Marketing,Offline,21,Female,2025-12-22,96,94,28,93,8,46,67,Yes,0,73.7,Pass,Medium,Active
+2571,Web Dev,Hybrid,28,Male,2025-12-23,90,90,72,61,23,31,96,No,1,70.1,Pass,Low,Active
+2572,Web Dev,Online,25,Male,2025-12-24,74,48,41,53,19,29,89,Yes,4,48.4,Fail,Medium,Active
+2573,Digital Marketing,Hybrid,29,Female,2025-12-25,76,75,60,85,17,35,67,Yes,3,75.5,Pass,Low,Active
+2574,Digital Marketing,Online,25,Female,2025-12-26,60,78,94,37,3,8,72,No,2,62.3,Pass,Low,Active
+2575,HR Management,Offline,28,Female,2025-12-27,97,51,62,96,5,35,84,Yes,4,76.8,Pass,Low,Active
+2576,HR Management,Offline,25,Male,2025-12-28,57,86,86,24,21,28,55,No,4,55.0,Pass,High,At-Risk
+2577,Web Dev,Offline,25,Male,2025-12-29,72,43,72,39,17,15,75,No,1,49.699999999999996,Fail,High,At-Risk
+2578,Finance,Online,34,Male,2025-12-30,47,73,34,85,4,27,70,No,3,67.3,Pass,High,At-Risk
+2579,Web Dev,Offline,33,Female,2025-12-31,90,45,60,94,24,20,73,No,3,74.0,Pass,Low,Active
+2580,Finance,Online,31,Female,2026-01-01,88,41,53,81,3,46,64,No,0,64.6,Pass,Medium,Active
+2581,Finance,Hybrid,28,Male,2026-01-02,56,84,28,51,4,1,76,No,0,50.7,Pass,High,At-Risk
+2582,HR Management,Online,24,Female,2026-01-03,82,80,68,77,6,45,81,No,4,74.9,Pass,Low,Active
+2583,Data Science,Hybrid,33,Male,2026-01-04,70,68,80,69,3,34,61,Yes,1,72.1,Pass,Low,Active
+2584,Data Science,Online,30,Female,2026-01-05,73,62,66,57,20,27,54,No,3,60.7,Pass,Low,Active
+2585,Digital Marketing,Hybrid,32,Male,2026-01-06,45,62,37,74,21,35,56,No,1,60.5,Pass,High,At-Risk
+2586,HR Management,Offline,33,Female,2026-01-07,61,58,70,47,3,30,71,No,2,56.1,Pass,Low,Active
+2587,Finance,Hybrid,26,Female,2026-01-08,53,98,57,93,3,32,76,No,3,83.2,Pass,High,At-Risk
+2588,Data Science,Offline,20,Male,2026-01-09,42,99,45,41,23,22,64,No,0,53.8,Pass,High,At-Risk
+2589,Finance,Offline,22,Male,2026-01-10,51,60,81,62,24,40,88,No,4,67.3,Pass,Medium,Active
+2590,Data Science,Hybrid,27,Male,2026-01-11,75,60,93,55,21,16,94,No,1,67.4,Pass,Low,Active
+2591,Data Science,Online,34,Male,2026-01-12,51,75,94,71,19,45,84,No,0,78.7,Pass,High,At-Risk
+2592,Data Science,Online,32,Male,2026-01-13,84,81,91,55,21,48,75,Yes,4,71.0,Pass,Low,Active
+2593,HR Management,Online,25,Female,2026-01-14,41,39,72,47,22,0,72,No,0,52.9,Pass,High,At-Risk
+2594,Web Dev,Online,32,Male,2026-01-15,41,70,57,97,15,41,62,Yes,3,79.6,Pass,High,At-Risk
+2595,Finance,Online,31,Male,2026-01-16,54,32,60,77,16,22,75,No,1,62.9,Pass,High,At-Risk
+2596,HR Management,Offline,24,Male,2026-01-17,62,88,57,55,13,47,52,No,2,62.2,Pass,Low,Active
+2597,HR Management,Online,29,Male,2026-01-18,68,81,55,89,12,26,78,Yes,0,77.2,Pass,Medium,Active
+2598,HR Management,Offline,34,Male,2026-01-19,56,63,45,28,12,24,51,No,1,40.1,Fail,High,At-Risk
+2599,HR Management,Offline,34,Female,2026-01-20,71,78,51,40,8,31,77,No,3,50.9,Pass,Low,Active
+2600,HR Management,Offline,27,Male,2026-01-21,46,57,96,83,13,18,72,No,0,81.69999999999999,Pass,High,At-Risk
+2601,Digital Marketing,Hybrid,31,Male,2026-01-22,69,42,86,95,17,23,85,Yes,3,81.7,Pass,Low,Active
+2602,Finance,Hybrid,28,Male,2026-01-23,67,98,50,80,6,2,98,No,2,74.6,Pass,Low,Active
+2603,HR Management,Offline,19,Female,2026-01-24,53,96,90,59,3,11,55,No,2,75.7,Pass,High,At-Risk
+2604,Finance,Hybrid,24,Female,2026-01-25,83,90,36,75,23,34,60,No,4,66.3,Pass,Low,Active
+2605,Digital Marketing,Online,29,Male,2026-01-26,69,89,46,23,17,14,87,No,4,43.1,Fail,Medium,Active
+2606,Digital Marketing,Online,19,Male,2026-01-27,56,53,41,50,24,16,83,No,4,47.9,Fail,High,At-Risk
+2607,Finance,Offline,23,Female,2026-01-28,71,92,31,46,16,49,66,No,3,50.7,Pass,Low,Active
+2608,Data Science,Online,27,Female,2026-01-29,85,90,92,77,12,31,52,No,4,84.1,Pass,Low,Active
+2609,Web Dev,Offline,32,Female,2026-01-30,45,52,61,44,7,6,93,Yes,1,50.7,Pass,Medium,Active
+2610,Data Science,Offline,22,Male,2026-01-31,90,59,62,88,14,18,95,Yes,3,74.4,Pass,Low,Active
+2611,Data Science,Online,20,Male,2026-02-01,63,89,35,89,20,6,83,Yes,3,72.8,Pass,Low,Active
+2612,Data Science,Hybrid,22,Female,2026-02-02,45,47,25,24,11,4,71,No,4,28.9,Fail,High,At-Risk
+2613,HR Management,Online,25,Male,2026-02-03,66,85,49,27,20,39,78,No,4,45.2,Fail,High,At-Risk
+2614,Digital Marketing,Online,25,Female,2026-02-04,57,82,66,28,6,20,78,No,3,50.2,Pass,High,At-Risk
+2615,Data Science,Offline,25,Female,2026-02-05,63,36,76,34,22,47,54,No,2,47.0,Fail,High,At-Risk
+2616,Digital Marketing,Offline,29,Female,2026-02-06,76,98,48,26,8,47,59,No,2,47.0,Fail,High,At-Risk
+2617,Finance,Offline,25,Male,2026-02-07,95,81,77,91,12,46,59,No,4,84.8,Pass,Low,Active
+2618,Web Dev,Offline,28,Female,2026-02-08,63,33,80,34,15,6,58,Yes,2,47.6,Fail,High,At-Risk
+2619,Finance,Hybrid,31,Female,2026-02-09,77,63,87,56,24,36,70,Yes,1,66.7,Pass,Low,Active
+2620,Finance,Hybrid,25,Male,2026-02-10,73,98,32,58,22,22,62,No,1,58.2,Pass,Low,Active
+2621,HR Management,Hybrid,27,Female,2026-02-11,79,62,83,25,17,10,59,No,1,49.8,Fail,High,At-Risk
+2622,Web Dev,Offline,24,Male,2026-02-12,86,98,69,76,19,9,87,No,3,78.3,Pass,Low,Active
+2623,Finance,Offline,34,Female,2026-02-13,54,67,51,38,22,20,60,No,3,47.7,Fail,High,At-Risk
+2624,Finance,Offline,21,Male,2026-02-14,50,55,76,82,24,40,53,No,3,74.8,Pass,High,At-Risk
+2625,Web Dev,Hybrid,30,Female,2026-02-15,61,30,42,50,24,32,95,No,3,43.6,Fail,Medium,Active
+2626,Web Dev,Offline,21,Female,2026-02-16,93,33,40,94,5,19,80,No,3,65.6,Pass,Low,Active
+2627,Finance,Online,22,Female,2026-02-17,63,68,90,98,2,32,98,Yes,4,89.6,Pass,Low,Active
+2628,Web Dev,Online,21,Female,2026-02-18,40,83,29,29,23,39,83,No,2,39.8,Fail,High,At-Risk
+2629,Finance,Offline,23,Female,2026-02-19,57,62,27,86,16,34,91,No,4,63.5,Pass,Medium,Active
+2630,Finance,Online,19,Male,2026-02-20,83,62,94,81,15,33,84,No,2,81.1,Pass,Low,Active
+2631,HR Management,Online,28,Male,2026-02-21,51,49,31,22,20,35,88,Yes,4,30.1,Fail,High,At-Risk
+2632,Data Science,Hybrid,31,Female,2026-02-22,96,45,74,37,6,26,88,No,1,49.7,Fail,Medium,Active
+2633,Finance,Offline,22,Female,2026-02-23,82,50,38,44,5,18,82,No,0,43.4,Fail,Medium,Active
+2634,Digital Marketing,Offline,23,Female,2026-02-24,67,74,62,39,14,42,57,No,3,52.9,Pass,Low,Active
+2635,Data Science,Hybrid,27,Male,2026-02-25,79,91,71,77,19,4,81,Yes,0,78.0,Pass,Low,Active
+2636,Data Science,Online,25,Male,2026-02-26,99,60,57,69,13,28,82,Yes,0,63.599999999999994,Pass,Low,Active
+2637,Data Science,Online,31,Female,2026-02-27,46,71,67,98,24,9,57,No,1,83.3,Pass,High,At-Risk
+2638,HR Management,Offline,20,Male,2026-02-28,62,41,53,29,22,39,95,No,0,38.6,Fail,Medium,Active
+2639,Finance,Online,29,Female,2026-03-01,60,94,81,40,16,12,63,Yes,0,63.1,Pass,Medium,Active
+2640,HR Management,Hybrid,33,Female,2026-03-02,73,32,29,48,24,28,83,No,1,39.1,Fail,Medium,Active
+2641,Finance,Hybrid,34,Female,2026-03-03,50,38,84,29,10,4,57,Yes,2,47.3,Fail,High,At-Risk
+2642,HR Management,Offline,18,Male,2026-03-04,61,80,94,32,5,11,100,No,4,60.2,Pass,Low,Active
+2643,HR Management,Hybrid,27,Female,2026-03-05,81,45,26,66,6,12,91,No,0,49.8,Fail,Medium,Active
+2644,Digital Marketing,Hybrid,27,Female,2026-03-06,74,32,94,42,10,21,56,No,3,55.6,Pass,Low,Active
+2645,HR Management,Offline,19,Female,2026-03-07,91,53,67,69,14,39,62,No,1,65.2,Pass,Low,Active
+2646,Web Dev,Hybrid,26,Male,2026-03-08,68,42,28,23,11,14,70,No,0,28.3,Fail,High,At-Risk
+2647,Digital Marketing,Hybrid,30,Male,2026-03-09,81,31,80,86,17,12,96,No,2,73.2,Pass,Low,Active
+2648,HR Management,Hybrid,33,Male,2026-03-10,67,50,83,72,14,0,81,No,2,70.9,Pass,Low,Active
+2649,Data Science,Online,29,Female,2026-03-11,98,48,33,21,5,37,60,No,3,30.0,Fail,High,At-Risk
+2650,Web Dev,Offline,25,Male,2026-03-12,57,76,27,87,22,42,63,No,0,66.8,Pass,High,At-Risk
+2651,Web Dev,Offline,34,Female,2026-03-13,53,51,72,84,14,44,60,No,3,73.8,Pass,High,At-Risk
+2652,Web Dev,Offline,32,Male,2026-03-14,57,62,67,98,22,0,51,Yes,2,81.5,Pass,High,At-Risk
+2653,Digital Marketing,Online,27,Female,2026-03-15,67,61,25,76,9,10,83,Yes,2,57.7,Pass,Low,Active
+2654,HR Management,Online,32,Male,2026-03-16,63,93,81,89,14,42,93,No,4,87.4,Pass,Low,Active
+2655,HR Management,Offline,32,Female,2026-03-17,47,68,77,26,16,39,96,No,2,49.7,Fail,High,At-Risk
+2656,Data Science,Online,24,Male,2026-03-18,81,71,40,38,21,21,66,Yes,1,45.2,Fail,High,At-Risk
+2657,Data Science,Offline,30,Male,2026-03-19,93,38,75,63,21,34,63,No,4,61.6,Pass,Low,Active
+2658,Web Dev,Online,34,Male,2026-03-20,84,54,99,82,14,43,74,No,3,81.5,Pass,Low,Active
+2659,Data Science,Hybrid,26,Female,2026-03-21,92,31,79,84,24,5,97,No,2,71.9,Pass,Low,Active
+2660,Digital Marketing,Hybrid,25,Male,2026-03-22,47,48,25,58,6,27,76,Yes,1,46.1,Fail,High,At-Risk
+2661,HR Management,Offline,30,Male,2026-03-23,43,49,52,45,23,30,57,No,4,47.9,Fail,High,At-Risk
+2662,Web Dev,Online,33,Male,2026-03-24,66,99,77,63,23,7,66,No,1,74.4,Pass,Low,Active
+2663,Data Science,Online,26,Male,2026-03-25,75,46,82,31,7,4,54,No,4,49.3,Fail,High,At-Risk
+2664,Digital Marketing,Hybrid,29,Female,2026-03-26,44,97,97,41,6,41,61,Yes,4,69.0,Pass,High,At-Risk
+2665,Digital Marketing,Hybrid,29,Male,2026-03-27,72,32,84,96,14,47,87,No,4,79.6,Pass,Low,Active
+2666,Data Science,Online,23,Female,2026-03-28,88,80,83,33,6,43,67,No,3,57.4,Pass,Low,Active
+2667,HR Management,Online,24,Female,2026-03-29,73,55,46,49,14,16,75,No,4,49.3,Fail,High,At-Risk
+2668,Data Science,Online,20,Female,2026-03-30,69,85,32,63,21,37,80,No,4,58.1,Pass,Low,Active
+2669,Web Dev,Online,33,Female,2026-03-31,47,93,73,57,24,8,86,No,1,69.0,Pass,Medium,Active
+2670,Data Science,Online,33,Male,2026-04-01,78,37,66,78,9,9,55,No,4,66.2,Pass,Low,Active
+2671,Digital Marketing,Online,24,Female,2026-04-02,86,66,51,61,10,19,90,Yes,3,59.0,Pass,Low,Active
+2672,Data Science,Offline,21,Female,2026-04-03,65,56,63,71,22,13,64,No,1,65.6,Pass,Low,Active
+2673,HR Management,Online,25,Female,2026-04-04,96,74,49,82,20,13,91,Yes,4,70.5,Pass,Low,Active
+2674,Finance,Hybrid,30,Female,2026-04-05,76,33,62,80,21,25,98,Yes,1,65.2,Pass,Low,Active
+2675,Data Science,Offline,30,Male,2026-04-06,73,66,48,53,16,28,75,No,3,54.1,Pass,Low,Active
+2676,HR Management,Online,34,Male,2026-04-07,46,62,48,58,23,48,100,No,1,55.8,Pass,Medium,Active
+2677,HR Management,Hybrid,34,Female,2026-04-08,79,60,84,60,11,26,61,No,3,67.2,Pass,Low,Active
+2678,Digital Marketing,Offline,22,Female,2026-04-09,67,84,74,56,12,24,90,No,2,67.0,Pass,Low,Active
+2679,HR Management,Hybrid,23,Female,2026-04-10,78,41,90,84,6,15,96,No,4,77.2,Pass,Low,Active
+2680,HR Management,Online,30,Male,2026-04-11,78,40,38,98,10,35,63,Yes,3,68.4,Pass,Low,Active
+2681,HR Management,Online,31,Male,2026-04-12,67,61,77,51,12,33,50,Yes,4,60.8,Pass,Low,Active
+2682,HR Management,Online,21,Male,2026-04-13,53,86,56,27,20,15,66,Yes,3,47.5,Fail,High,At-Risk
+2683,Web Dev,Online,24,Male,2026-04-14,92,67,72,37,3,32,82,No,0,53.5,Pass,Low,Active
+2684,Web Dev,Offline,25,Male,2026-04-15,89,89,63,64,7,2,78,Yes,0,68.7,Pass,Medium,Active
+2685,Digital Marketing,Offline,30,Female,2026-04-16,77,48,64,52,24,22,94,No,0,54.8,Pass,Low,Active
+2686,Data Science,Hybrid,23,Male,2026-04-17,43,85,66,24,22,10,80,No,3,48.8,Fail,High,At-Risk
+2687,HR Management,Online,23,Male,2026-04-18,81,43,32,93,2,47,57,Yes,4,64.7,Pass,Low,Active
+2688,Data Science,Hybrid,20,Female,2026-04-19,57,62,50,55,4,17,79,Yes,0,54.9,Pass,High,At-Risk
+2689,Data Science,Offline,20,Male,2026-04-20,83,39,36,42,4,46,62,No,4,39.6,Fail,High,At-Risk
+2690,Digital Marketing,Online,30,Male,2026-04-21,87,93,67,59,15,40,65,No,3,68.2,Pass,Low,Active
+2691,HR Management,Online,19,Male,2026-04-22,64,93,75,24,21,43,51,No,4,53.1,Pass,Low,Active
+2692,HR Management,Offline,33,Female,2026-04-23,46,91,87,53,23,28,94,No,4,70.8,Pass,Medium,Active
+2693,Finance,Offline,23,Male,2026-04-24,77,97,73,43,6,49,67,No,0,62.8,Pass,Medium,Active
+2694,Data Science,Offline,25,Female,2026-04-25,67,72,51,36,18,4,84,No,1,47.7,Fail,Medium,Active
+2695,Data Science,Offline,25,Female,2026-04-26,44,88,33,90,16,23,94,No,2,72.5,Pass,Medium,Active
+2696,Web Dev,Offline,23,Male,2026-04-27,42,81,63,41,7,28,68,No,3,55.599999999999994,Pass,High,At-Risk
+2697,Finance,Online,31,Male,2026-04-28,83,48,89,34,15,28,62,No,3,53.3,Pass,Low,Active
+2698,Web Dev,Offline,20,Male,2026-04-29,70,50,95,34,15,25,100,No,3,55.5,Pass,Low,Active
+2699,Web Dev,Online,27,Male,2026-04-30,86,51,95,44,18,39,53,No,2,60.7,Pass,Low,Active
+2700,Web Dev,Online,20,Female,2026-05-01,81,38,31,72,9,2,68,No,1,52.9,Pass,Low,Active
+2701,Digital Marketing,Offline,29,Male,2026-05-02,97,38,96,40,9,1,99,Yes,4,56.4,Pass,Low,Active
+2702,Digital Marketing,Offline,34,Female,2026-05-03,59,56,91,85,20,24,74,No,3,81.0,Pass,High,At-Risk
+2703,Web Dev,Online,22,Female,2026-05-04,58,46,34,51,10,18,87,No,4,44.9,Fail,High,At-Risk
+2704,Finance,Offline,26,Female,2026-05-05,87,73,95,40,12,39,100,No,0,63.1,Pass,Low,Active
+2705,Data Science,Offline,24,Female,2026-05-06,99,74,77,87,14,1,80,Yes,0,81.4,Pass,Low,Active
+2706,Finance,Offline,21,Female,2026-05-07,50,37,81,63,14,18,85,No,0,63.2,Pass,High,At-Risk
+2707,HR Management,Hybrid,30,Male,2026-05-08,79,47,51,85,20,0,53,Yes,3,67.2,Pass,Low,Active
+2708,Digital Marketing,Online,30,Female,2026-05-09,42,62,78,33,22,26,88,Yes,2,52.3,Pass,Medium,Active
+2709,Data Science,Hybrid,27,Female,2026-05-10,62,30,28,34,20,44,56,Yes,3,31.4,Fail,High,At-Risk
+2710,Data Science,Offline,34,Male,2026-05-11,46,35,47,39,6,48,65,No,0,40.6,Fail,High,At-Risk
+2711,HR Management,Hybrid,30,Male,2026-05-12,62,70,72,53,17,34,97,No,0,62.099999999999994,Pass,Low,Active
+2712,HR Management,Offline,34,Female,2026-05-13,46,84,66,55,10,40,54,No,3,64.1,Pass,High,At-Risk
+2713,Web Dev,Hybrid,21,Female,2026-05-14,85,34,27,28,21,4,96,No,2,28.9,Fail,Medium,Active
+2714,Digital Marketing,Offline,18,Male,2026-05-15,73,88,27,90,23,37,72,No,2,70.7,Pass,Low,Active
+2715,Digital Marketing,Hybrid,18,Female,2026-05-16,81,47,52,49,4,3,85,No,4,49.5,Fail,Medium,Active
+2716,Finance,Hybrid,32,Male,2026-05-17,58,78,87,96,20,16,81,Yes,1,89.7,Pass,Medium,Active
+2717,Web Dev,Hybrid,30,Male,2026-05-18,97,94,55,82,6,20,73,No,0,76.3,Pass,Medium,Active
+2718,Web Dev,Online,34,Female,2026-05-19,48,83,34,54,9,47,74,No,2,53.8,Pass,High,At-Risk
+2719,Web Dev,Hybrid,25,Male,2026-05-20,87,90,73,32,15,30,94,No,0,55.9,Pass,Low,Active
+2720,Web Dev,Online,30,Female,2026-05-21,90,37,45,98,4,47,77,No,1,69.9,Pass,Low,Active
+2721,Digital Marketing,Offline,31,Female,2026-05-22,57,32,77,65,14,21,68,No,0,62.0,Pass,High,At-Risk
+2722,Digital Marketing,Hybrid,25,Female,2026-05-23,80,54,78,75,12,10,56,Yes,2,71.7,Pass,Low,Active
+2723,Web Dev,Offline,25,Male,2026-05-24,87,98,81,28,9,33,93,No,4,57.900000000000006,Pass,Low,Active
+2724,Finance,Offline,32,Female,2026-05-25,84,84,44,55,20,48,90,Yes,3,57.5,Pass,Low,Active
+2725,Data Science,Hybrid,30,Male,2026-05-26,81,69,73,22,11,14,66,Yes,3,46.7,Fail,High,At-Risk
+2726,Data Science,Online,24,Female,2026-05-27,64,79,31,38,19,49,51,No,2,44.1,Fail,High,At-Risk
+2727,Finance,Hybrid,22,Female,2026-05-28,91,62,53,47,19,9,65,No,2,51.8,Pass,Low,Active
+2728,Web Dev,Offline,34,Male,2026-05-29,53,47,72,42,8,37,88,Yes,1,52.0,Pass,Medium,Active
+2729,Digital Marketing,Offline,33,Female,2026-05-30,83,86,37,26,17,31,67,No,0,41.3,Fail,High,At-Risk
+2730,Data Science,Hybrid,19,Female,2026-05-31,64,45,27,95,7,47,88,No,1,64.6,Pass,Low,Active
+2731,HR Management,Online,34,Male,2026-06-01,58,67,26,33,17,30,50,No,3,37.7,Fail,High,At-Risk
+2732,HR Management,Online,24,Male,2026-06-02,78,70,40,65,17,36,52,No,0,58.5,Pass,Medium,Active
+2733,Finance,Offline,30,Male,2026-06-03,94,36,30,34,24,43,70,No,1,33.2,Fail,High,At-Risk
+2734,Web Dev,Offline,31,Female,2026-06-04,54,82,69,86,2,27,79,No,3,80.1,Pass,High,At-Risk
+2735,Data Science,Online,30,Male,2026-06-05,55,92,95,34,20,30,60,No,0,63.900000000000006,Pass,High,At-Risk
+2736,Web Dev,Hybrid,28,Male,2026-06-06,66,61,29,70,4,5,71,No,4,55.9,Pass,Low,Active
+2737,Data Science,Offline,33,Female,2026-06-07,79,67,80,27,7,13,96,No,4,50.9,Pass,Low,Active
+2738,Finance,Online,34,Male,2026-06-08,49,51,95,88,5,22,74,No,1,82.7,Pass,High,At-Risk
+2739,Finance,Offline,25,Female,2026-06-09,43,45,56,81,5,15,52,Yes,2,66.3,Pass,High,At-Risk
+2740,HR Management,Hybrid,32,Female,2026-06-10,90,81,73,70,5,24,79,Yes,0,73.1,Pass,Medium,Active
+2741,Web Dev,Online,26,Male,2026-06-11,58,58,37,82,11,38,73,Yes,1,63.7,Pass,High,At-Risk
+2742,HR Management,Offline,27,Female,2026-06-12,67,45,54,87,10,1,94,No,2,68.7,Pass,Low,Active
+2743,Web Dev,Hybrid,29,Male,2026-06-13,60,46,49,97,9,37,85,No,2,72.4,Pass,Low,Active
+2744,HR Management,Offline,18,Male,2026-06-14,98,93,84,35,20,40,72,No,0,61.3,Pass,Medium,Active
+2745,Digital Marketing,Hybrid,26,Male,2026-06-15,86,42,83,43,18,38,57,No,0,54.8,Pass,Medium,Active
+2746,Digital Marketing,Hybrid,32,Male,2026-06-16,53,85,52,25,18,33,53,No,2,45.1,Fail,High,At-Risk
+2747,Digital Marketing,Online,18,Female,2026-06-17,72,34,82,76,2,39,99,No,3,69.4,Pass,Low,Active
+2748,Digital Marketing,Hybrid,29,Female,2026-06-18,87,41,44,50,21,42,88,No,1,46.4,Fail,Medium,Active
+2749,Data Science,Offline,20,Male,2026-06-19,49,70,58,25,15,24,92,Yes,0,43.9,Fail,High,At-Risk
+2750,Digital Marketing,Hybrid,28,Male,2026-06-20,58,32,29,98,23,35,80,Yes,2,64.1,Pass,Medium,Active
+2751,Finance,Hybrid,19,Female,2026-06-21,69,62,84,48,21,15,78,No,3,61.6,Pass,Low,Active
+2752,Finance,Online,33,Male,2026-06-22,61,79,67,86,12,17,85,No,4,78.9,Pass,Low,Active
+2753,Data Science,Hybrid,26,Female,2026-06-23,42,85,81,94,4,12,62,No,2,88.3,Pass,High,At-Risk
+2754,Digital Marketing,Hybrid,32,Male,2026-06-24,76,38,81,22,9,36,90,Yes,3,42.900000000000006,Fail,Medium,Active
+2755,Digital Marketing,Offline,29,Female,2026-06-25,80,79,99,47,23,26,58,Yes,4,69.0,Pass,Low,Active
+2756,Digital Marketing,Online,18,Female,2026-06-26,57,58,78,93,11,33,70,No,3,81.5,Pass,High,At-Risk
+2757,HR Management,Online,30,Female,2026-06-27,50,68,69,67,18,10,100,No,0,67.8,Pass,High,At-Risk
+2758,Web Dev,Online,31,Male,2026-06-28,87,74,61,99,9,0,52,No,2,82.6,Pass,Low,Active
+2759,HR Management,Hybrid,25,Male,2026-06-29,41,46,72,29,23,12,74,No,4,45.3,Fail,High,At-Risk
+2760,Web Dev,Online,25,Male,2026-06-30,51,85,78,52,2,29,74,No,3,66.4,Pass,High,At-Risk
+2761,Digital Marketing,Hybrid,29,Male,2026-07-01,93,75,72,86,21,4,61,No,4,79.6,Pass,Low,Active
+2762,Digital Marketing,Hybrid,18,Male,2026-07-02,45,96,30,88,22,17,78,No,1,72.2,Pass,High,At-Risk
+2763,HR Management,Offline,28,Female,2026-07-03,82,98,58,31,8,13,60,No,2,52.5,Pass,Low,Active
+2764,HR Management,Offline,25,Female,2026-07-04,98,43,87,76,10,12,60,No,0,72.69999999999999,Pass,Medium,Active
+2765,Web Dev,Offline,27,Female,2026-07-05,79,96,72,63,13,31,98,No,4,72.3,Pass,Low,Active
+2766,Finance,Offline,28,Female,2026-07-06,83,52,47,32,23,6,75,No,3,40.5,Fail,High,At-Risk
+2767,Web Dev,Offline,24,Female,2026-07-07,68,90,37,43,10,7,63,Yes,4,50.6,Pass,Low,Active
+2768,HR Management,Hybrid,28,Female,2026-07-08,98,52,71,63,21,49,65,No,3,63.2,Pass,Low,Active
+2769,HR Management,Hybrid,34,Female,2026-07-09,69,56,68,76,4,6,59,No,4,69.6,Pass,Low,Active
+2770,Data Science,Online,18,Male,2026-07-10,41,83,56,35,5,48,80,Yes,0,50.900000000000006,Pass,High,At-Risk
+2771,HR Management,Hybrid,25,Female,2026-07-11,48,39,50,40,11,15,80,No,0,42.8,Fail,High,At-Risk
+2772,Data Science,Hybrid,23,Male,2026-07-12,86,45,77,95,5,42,85,Yes,2,79.6,Pass,Low,Active
+2773,Finance,Offline,23,Female,2026-07-13,41,70,38,70,23,30,59,No,0,60.4,Pass,High,At-Risk
+2774,Web Dev,Hybrid,22,Female,2026-07-14,68,84,76,40,10,26,75,No,4,59.6,Pass,Low,Active
+2775,Web Dev,Offline,30,Male,2026-07-15,72,90,60,79,23,32,69,Yes,4,75.5,Pass,Low,Active
+2776,Data Science,Online,25,Female,2026-07-16,49,78,32,70,2,28,93,No,0,60.2,Pass,High,At-Risk
+2777,Web Dev,Online,26,Male,2026-07-17,73,81,64,40,6,7,58,No,1,55.4,Pass,Low,Active
+2778,HR Management,Hybrid,34,Female,2026-07-18,83,31,46,25,10,32,64,No,4,32.5,Fail,High,At-Risk
+2779,Digital Marketing,Online,20,Male,2026-07-19,94,79,40,92,6,40,58,No,2,73.8,Pass,Low,Active
+2780,Data Science,Hybrid,28,Female,2026-07-20,47,72,84,84,7,18,56,No,1,81.6,Pass,High,At-Risk
+2781,Web Dev,Online,34,Male,2026-07-21,76,37,84,95,20,20,75,No,0,80.1,Pass,Medium,Active
+2782,Data Science,Offline,19,Male,2026-07-22,93,88,34,77,9,40,73,No,3,66.3,Pass,Low,Active
+2783,Data Science,Offline,25,Female,2026-07-23,99,94,49,97,11,20,61,Yes,4,82.0,Pass,Low,Active
+2784,Digital Marketing,Offline,24,Female,2026-07-24,72,41,55,25,12,24,69,No,3,37.2,Fail,High,At-Risk
+2785,HR Management,Offline,34,Male,2026-07-25,86,33,45,84,14,41,63,Yes,2,62.1,Pass,Low,Active
+2786,Data Science,Hybrid,23,Female,2026-07-26,45,70,57,53,21,22,71,No,1,57.599999999999994,Pass,High,At-Risk
+2787,Web Dev,Online,23,Male,2026-07-27,83,36,55,75,5,10,65,No,3,61.2,Pass,Low,Active
+2788,Finance,Hybrid,19,Female,2026-07-28,79,98,45,94,12,32,78,Yes,2,80.1,Pass,Low,Active
+2789,Data Science,Offline,23,Male,2026-07-29,84,98,60,22,13,19,81,No,3,48.6,Fail,Medium,Active
+2790,Data Science,Hybrid,22,Female,2026-07-30,58,59,89,61,6,24,68,Yes,3,69.0,Pass,High,At-Risk
+2791,Digital Marketing,Online,21,Male,2026-07-31,71,35,28,81,11,25,84,No,2,55.9,Pass,Low,Active
+2792,HR Management,Hybrid,34,Female,2026-08-01,66,48,92,25,8,39,92,No,4,49.7,Fail,Medium,Active
+2793,Finance,Online,28,Male,2026-08-02,40,95,28,25,22,11,81,No,3,39.9,Fail,High,At-Risk
+2794,Web Dev,Hybrid,21,Male,2026-08-03,82,39,33,82,10,31,69,No,2,58.7,Pass,Low,Active
+2795,Finance,Online,30,Female,2026-08-04,91,45,54,39,10,32,100,No,3,44.7,Fail,Medium,Active
+2796,Web Dev,Online,34,Female,2026-08-05,72,66,69,40,11,9,89,No,4,53.9,Pass,Low,Active
+2797,HR Management,Offline,26,Male,2026-08-06,79,61,28,21,11,3,69,No,2,31.1,Fail,High,At-Risk
+2798,Web Dev,Online,21,Male,2026-08-07,71,76,93,75,3,14,57,No,3,80.6,Pass,Low,Active
+2799,Digital Marketing,Offline,31,Male,2026-08-08,44,72,47,29,5,5,84,No,0,43.0,Fail,High,At-Risk
+2800,Digital Marketing,Offline,20,Male,2026-08-09,56,65,40,89,9,26,91,No,4,69.5,Pass,Medium,Active
+2801,Digital Marketing,Offline,31,Female,2026-08-10,47,55,46,42,15,4,62,No,3,45.8,Fail,High,At-Risk
+2802,Digital Marketing,Hybrid,25,Male,2026-08-11,96,39,96,49,18,4,90,No,1,61.099999999999994,Pass,Low,Active
+2803,Finance,Hybrid,18,Male,2026-08-12,81,60,72,97,14,17,55,No,2,82.1,Pass,Low,Active
+2804,HR Management,Hybrid,27,Male,2026-08-13,73,58,86,56,22,27,96,No,3,65.4,Pass,Low,Active
+2805,Web Dev,Hybrid,33,Female,2026-08-14,48,34,84,74,19,34,65,Yes,4,69.0,Pass,High,At-Risk
+2806,Web Dev,Online,25,Male,2026-08-15,95,30,29,68,19,21,54,No,4,48.7,Fail,High,At-Risk
+2807,Digital Marketing,Online,18,Female,2026-08-16,62,32,31,53,14,33,94,No,1,42.2,Fail,Medium,Active
+2808,Digital Marketing,Hybrid,29,Female,2026-08-17,74,96,75,63,9,3,100,No,1,73.2,Pass,Low,Active
+2809,Data Science,Online,25,Female,2026-08-18,89,64,89,41,13,17,83,No,3,60.0,Pass,Low,Active
+2810,HR Management,Online,33,Female,2026-08-19,46,44,33,50,24,40,55,No,0,43.7,Fail,High,At-Risk
+2811,Finance,Offline,21,Female,2026-08-20,54,96,69,26,22,25,82,No,4,52.900000000000006,Pass,Medium,Active
+2812,Web Dev,Offline,23,Female,2026-08-21,92,59,71,40,2,41,64,No,0,53.1,Pass,Medium,Active
+2813,Data Science,Offline,29,Female,2026-08-22,93,72,91,35,21,21,64,No,0,59.2,Pass,Medium,Active
+2814,Data Science,Offline,26,Male,2026-08-23,59,89,48,39,19,46,63,Yes,3,51.7,Pass,High,At-Risk
+2815,Web Dev,Online,32,Male,2026-08-24,89,69,34,62,4,32,88,No,2,55.0,Pass,Low,Active
+2816,Finance,Hybrid,33,Female,2026-08-25,64,94,97,63,13,42,54,No,2,79.4,Pass,Low,Active
+2817,Data Science,Online,29,Male,2026-08-26,42,58,72,66,20,13,75,No,2,66.2,Pass,High,At-Risk
+2818,Data Science,Online,31,Male,2026-08-27,99,48,59,38,14,30,97,Yes,1,46.3,Fail,Medium,Active
+2819,HR Management,Online,30,Female,2026-08-28,94,32,78,67,11,9,66,Yes,4,63.3,Pass,Low,Active
+2820,Finance,Offline,19,Male,2026-08-29,85,65,95,98,16,23,92,Yes,1,90.5,Pass,Low,Active
+2821,Data Science,Offline,20,Female,2026-08-30,63,72,40,88,21,20,96,Yes,4,70.4,Pass,Low,Active
+2822,Finance,Offline,27,Male,2026-08-31,73,44,77,30,3,47,65,No,4,46.9,Fail,High,At-Risk
+2823,Web Dev,Hybrid,26,Female,2026-09-01,85,70,64,98,20,7,84,No,4,82.2,Pass,Low,Active
+2824,Digital Marketing,Online,25,Female,2026-09-02,61,65,44,48,4,31,87,No,3,50.2,Pass,Low,Active
+2825,Data Science,Hybrid,27,Male,2026-09-03,50,62,93,64,15,30,72,No,2,72.3,Pass,High,At-Risk
+2826,HR Management,Offline,20,Male,2026-09-04,87,34,69,87,8,33,62,No,1,71.0,Pass,Low,Active
+2827,Web Dev,Hybrid,22,Female,2026-09-05,47,43,30,55,9,22,82,No,1,45.1,Fail,High,At-Risk
+2828,Finance,Online,20,Female,2026-09-06,78,97,93,67,12,24,78,No,3,80.8,Pass,Low,Active
+2829,Web Dev,Online,33,Female,2026-09-07,82,76,73,34,23,6,95,No,4,54.1,Pass,Low,Active
+2830,Data Science,Offline,34,Male,2026-09-08,74,83,63,63,21,18,83,No,2,67.0,Pass,Low,Active
+2831,Finance,Offline,32,Male,2026-09-09,88,33,26,86,7,6,83,No,0,57.4,Pass,Low,Active
+2832,Digital Marketing,Hybrid,20,Male,2026-09-10,85,38,63,93,12,46,76,Yes,0,73.0,Pass,Medium,Active
+2833,Web Dev,Offline,29,Male,2026-09-11,77,82,45,59,18,7,64,No,3,59.400000000000006,Pass,Low,Active
+2834,Data Science,Offline,26,Female,2026-09-12,47,89,64,33,11,13,99,No,2,53.5,Pass,Medium,Active
+2835,HR Management,Online,29,Female,2026-09-13,93,75,78,82,18,0,58,No,0,79.4,Pass,Medium,Active
+2836,Finance,Offline,32,Female,2026-09-14,76,83,36,70,22,12,75,No,0,62.4,Pass,Medium,Active
+2837,Web Dev,Offline,19,Female,2026-09-15,66,66,61,98,3,2,52,No,1,80.5,Pass,Low,Active
+2838,Web Dev,Online,29,Male,2026-09-16,67,52,62,77,7,27,85,Yes,2,67.5,Pass,Low,Active
+2839,Digital Marketing,Online,21,Female,2026-09-17,79,56,39,34,6,37,96,No,0,39.9,Fail,Medium,Active
+2840,Digital Marketing,Hybrid,33,Female,2026-09-18,73,99,31,84,5,14,54,Yes,1,71.1,Pass,Low,Active
+2841,HR Management,Offline,33,Male,2026-09-19,71,95,74,74,3,35,69,No,2,78.2,Pass,Low,Active
+2842,HR Management,Online,18,Male,2026-09-20,54,90,89,95,13,2,69,No,4,92.2,Pass,High,At-Risk
+2843,Data Science,Hybrid,19,Female,2026-09-21,83,80,91,29,4,3,54,Yes,2,57.8,Pass,Low,Active
+2844,Data Science,Hybrid,20,Male,2026-09-22,56,79,68,61,7,4,59,No,3,66.7,Pass,High,At-Risk
+2845,HR Management,Offline,34,Female,2026-09-23,72,48,55,30,15,49,65,Yes,1,41.1,Fail,High,At-Risk
+2846,HR Management,Offline,18,Male,2026-09-24,86,30,67,35,9,25,74,Yes,4,43.599999999999994,Fail,High,At-Risk
+2847,Finance,Hybrid,23,Male,2026-09-25,85,69,72,92,22,24,93,No,1,81.4,Pass,Low,Active
+2848,Digital Marketing,Online,32,Female,2026-09-26,91,61,85,97,22,9,74,Yes,1,86.2,Pass,Low,Active
+2849,Data Science,Hybrid,31,Male,2026-09-27,93,51,99,38,15,7,79,No,0,58.9,Pass,Medium,Active
+2850,Digital Marketing,Offline,32,Female,2026-09-28,55,95,34,50,4,11,63,Yes,2,54.2,Pass,High,At-Risk
+2851,Digital Marketing,Online,31,Male,2026-09-29,68,69,53,92,17,2,71,Yes,1,75.7,Pass,Low,Active
+2852,HR Management,Online,22,Male,2026-09-30,48,67,72,72,16,26,92,No,1,71.0,Pass,Medium,Active
+2853,Finance,Hybrid,23,Male,2026-10-01,72,77,86,27,8,49,77,No,3,54.7,Pass,Low,Active
+2854,Web Dev,Offline,34,Male,2026-10-02,99,84,37,43,16,22,79,Yes,3,49.4,Fail,High,At-Risk
+2855,Finance,Hybrid,28,Male,2026-10-03,88,84,68,27,14,39,68,No,3,50.7,Pass,Low,Active
+2856,Finance,Hybrid,33,Female,2026-10-04,68,80,71,67,7,32,87,No,1,70.8,Pass,Low,Active
+2857,Digital Marketing,Hybrid,29,Male,2026-10-05,52,89,88,49,16,13,91,No,4,68.7,Pass,Medium,Active
+2858,Finance,Online,32,Female,2026-10-06,60,37,77,77,18,22,69,Yes,2,69.0,Pass,Low,Active
+2859,Data Science,Online,21,Male,2026-10-07,97,97,68,74,5,30,84,No,1,76.8,Pass,Low,Active
+2860,Digital Marketing,Offline,20,Female,2026-10-08,60,38,52,92,23,12,71,No,0,69.2,Pass,Medium,Active
+2861,Data Science,Offline,25,Male,2026-10-09,44,31,26,81,23,11,64,Yes,4,54.5,Pass,High,At-Risk
+2862,Web Dev,Hybrid,20,Female,2026-10-10,49,99,81,67,15,34,60,No,4,77.6,Pass,High,At-Risk
+2863,Digital Marketing,Hybrid,25,Female,2026-10-11,45,88,81,23,16,17,83,No,2,53.400000000000006,Pass,Medium,Active
+2864,Web Dev,Hybrid,27,Male,2026-10-12,95,48,58,56,13,20,73,No,4,55.0,Pass,Low,Active
+2865,Digital Marketing,Offline,34,Male,2026-10-13,90,57,82,27,20,44,55,No,2,49.5,Fail,High,At-Risk
+2866,HR Management,Online,25,Male,2026-10-14,96,43,76,20,23,46,66,No,4,41.4,Fail,High,At-Risk
+2867,Finance,Online,28,Female,2026-10-15,52,53,53,89,11,41,77,No,2,71.0,Pass,High,At-Risk
+2868,HR Management,Hybrid,22,Female,2026-10-16,40,73,59,66,7,0,99,No,3,65.3,Pass,Medium,Active
+2869,Web Dev,Hybrid,30,Male,2026-10-17,59,85,99,94,10,37,80,No,3,93.7,Pass,Medium,Active
+2870,Finance,Hybrid,22,Male,2026-10-18,96,80,72,24,3,40,85,No,4,49.599999999999994,Fail,Medium,Active
+2871,Digital Marketing,Hybrid,30,Female,2026-10-19,86,61,57,69,5,41,58,No,4,63.8,Pass,Low,Active
+2872,Finance,Offline,23,Female,2026-10-20,85,79,99,43,10,46,59,No,2,67.0,Pass,Low,Active
+2873,Data Science,Online,22,Male,2026-10-21,47,70,97,66,16,8,70,No,2,76.1,Pass,High,At-Risk
+2874,Finance,Hybrid,26,Female,2026-10-22,49,95,33,37,14,22,83,Yes,1,47.4,Fail,High,At-Risk
+2875,Data Science,Offline,33,Male,2026-10-23,48,54,72,47,21,13,80,No,3,55.9,Pass,Medium,Active
+2876,Finance,Hybrid,19,Male,2026-10-24,88,90,91,96,9,10,78,No,1,93.3,Pass,Low,Active
+2877,Data Science,Hybrid,18,Male,2026-10-25,80,95,60,24,20,6,92,No,1,49.0,Fail,Medium,Active
+2878,Web Dev,Online,25,Female,2026-10-26,42,71,95,49,20,30,92,No,0,67.2,Pass,High,At-Risk
+2879,HR Management,Hybrid,28,Female,2026-10-27,50,94,68,20,17,23,60,No,2,49.2,Fail,High,At-Risk
+2880,Digital Marketing,Online,29,Female,2026-10-28,51,65,84,65,12,25,82,Yes,0,70.7,Pass,High,At-Risk
+2881,Finance,Online,29,Female,2026-10-29,49,38,87,88,11,29,95,No,0,77.69999999999999,Pass,High,At-Risk
+2882,HR Management,Online,24,Male,2026-10-30,64,65,29,50,9,33,50,Yes,1,46.7,Fail,High,At-Risk
+2883,Digital Marketing,Offline,30,Female,2026-10-31,88,67,64,89,2,45,70,No,0,77.1,Pass,Medium,Active
+2884,Digital Marketing,Offline,25,Male,2026-11-01,88,62,43,75,11,37,72,No,2,62.8,Pass,Low,Active
+2885,Data Science,Online,26,Male,2026-11-02,64,71,71,47,19,4,58,Yes,1,59.0,Pass,Low,Active
+2886,Web Dev,Hybrid,24,Male,2026-11-03,50,90,89,35,4,4,50,No,2,62.2,Pass,High,At-Risk
+2887,Web Dev,Online,32,Female,2026-11-04,93,75,91,73,12,18,70,No,4,78.8,Pass,Low,Active
+2888,HR Management,Hybrid,19,Male,2026-11-05,75,90,42,72,19,37,71,No,0,66.6,Pass,Medium,Active
+2889,Web Dev,Online,29,Male,2026-11-06,78,47,74,31,4,27,53,No,1,47.1,Fail,High,At-Risk
+2890,Finance,Hybrid,18,Female,2026-11-07,92,99,54,39,9,25,50,Yes,3,55.5,Pass,Low,Active
+2891,Web Dev,Offline,25,Male,2026-11-08,65,44,90,53,15,41,100,Yes,2,62.3,Pass,Low,Active
+2892,HR Management,Hybrid,22,Female,2026-11-09,53,77,29,72,7,22,59,No,0,60.1,Pass,High,At-Risk
+2893,Web Dev,Online,32,Female,2026-11-10,78,42,66,83,16,45,64,No,2,69.7,Pass,Low,Active
+2894,Finance,Offline,18,Female,2026-11-11,95,72,29,42,15,48,85,No,2,44.1,Fail,Medium,Active
+2895,Data Science,Hybrid,18,Male,2026-11-12,79,89,74,46,8,29,78,Yes,4,63.0,Pass,Low,Active
+2896,HR Management,Hybrid,27,Female,2026-11-13,40,86,82,36,11,2,95,No,2,59.8,Pass,Medium,Active
+2897,Data Science,Hybrid,27,Female,2026-11-14,95,46,32,67,16,27,54,No,4,52.3,Pass,Low,Active
+2898,Data Science,Hybrid,32,Female,2026-11-15,93,79,55,40,11,32,78,No,4,52.3,Pass,Low,Active
+2899,Data Science,Hybrid,34,Female,2026-11-16,43,61,36,69,23,41,96,Yes,4,57.5,Pass,Medium,Active
+2900,Digital Marketing,Offline,23,Male,2026-11-17,69,51,45,59,18,2,96,No,0,53.2,Pass,Low,Active
+2901,Digital Marketing,Offline,20,Female,2026-11-18,51,84,86,22,20,4,76,Yes,2,53.6,Pass,High,At-Risk
+2902,Data Science,Offline,30,Male,2026-11-19,95,86,57,36,18,18,74,Yes,2,52.3,Pass,Low,Active
+2903,HR Management,Offline,33,Female,2026-11-20,74,42,50,80,13,41,65,No,4,63.4,Pass,Low,Active
+2904,Finance,Online,25,Male,2026-11-21,52,76,64,69,16,47,65,No,2,68.9,Pass,High,At-Risk
+2905,Finance,Offline,32,Female,2026-11-22,91,91,89,25,13,0,85,No,2,57.4,Pass,Low,Active
+2906,Web Dev,Hybrid,34,Male,2026-11-23,70,83,83,47,10,37,74,No,4,65.0,Pass,Low,Active
+2907,HR Management,Hybrid,34,Female,2026-11-24,77,58,39,91,6,8,90,No,3,68.8,Pass,Low,Active
+2908,Digital Marketing,Offline,30,Male,2026-11-25,82,51,25,74,5,4,50,No,3,54.7,Pass,Low,Active
+2909,Data Science,Hybrid,34,Male,2026-11-26,62,94,35,77,13,45,54,No,4,67.8,Pass,Low,Active
+2910,Web Dev,Offline,23,Male,2026-11-27,43,58,79,64,17,41,90,No,0,67.3,Pass,High,At-Risk
+2911,Finance,Hybrid,34,Female,2026-11-28,91,77,26,91,10,33,69,Yes,2,68.7,Pass,Low,Active
+2912,Digital Marketing,Online,33,Male,2026-11-29,55,34,89,38,4,36,54,Yes,2,52.5,Pass,High,At-Risk
+2913,Digital Marketing,Online,31,Male,2026-11-30,46,64,68,48,22,32,85,No,3,57.2,Pass,Medium,Active
+2914,Data Science,Offline,30,Male,2026-12-01,61,75,40,42,4,24,78,No,4,48.0,Fail,High,At-Risk
+2915,Finance,Offline,23,Male,2026-12-02,68,64,46,51,19,41,97,Yes,0,52.1,Pass,Low,Active
+2916,HR Management,Offline,20,Female,2026-12-03,50,74,42,29,18,28,83,No,4,41.9,Fail,High,At-Risk
+2917,Digital Marketing,Hybrid,31,Male,2026-12-04,95,42,71,68,11,24,97,No,3,63.7,Pass,Low,Active
+2918,Data Science,Offline,31,Male,2026-12-05,72,39,54,84,3,8,67,No,3,66.0,Pass,Low,Active
+2919,HR Management,Online,32,Male,2026-12-06,97,95,34,48,12,2,51,Yes,2,53.2,Pass,Low,Active
+2920,Finance,Hybrid,25,Female,2026-12-07,68,99,82,78,4,14,65,No,1,83.4,Pass,Low,Active
+2921,Digital Marketing,Offline,32,Male,2026-12-08,98,54,86,64,24,3,78,No,0,68.6,Pass,Medium,Active
+2922,HR Management,Hybrid,30,Male,2026-12-09,78,73,30,86,24,44,82,No,0,66.6,Pass,Low,Active
+2923,HR Management,Hybrid,34,Male,2026-12-10,51,89,91,70,3,37,65,Yes,1,80.1,Pass,High,At-Risk
+2924,HR Management,Offline,20,Male,2026-12-11,46,76,65,30,10,19,84,Yes,3,49.7,Fail,High,At-Risk
+2925,Digital Marketing,Hybrid,23,Female,2026-12-12,98,69,67,25,20,48,96,No,4,46.4,Fail,Medium,Active
+2926,Digital Marketing,Online,22,Male,2026-12-13,94,36,42,86,3,22,92,No,0,62.8,Pass,Low,Active
+2927,Web Dev,Online,34,Male,2026-12-14,78,75,82,81,20,36,91,No,1,80.1,Pass,Low,Active
+2928,Finance,Hybrid,19,Female,2026-12-15,81,52,84,24,3,46,66,No,2,47.6,Fail,High,At-Risk
+2929,Data Science,Offline,32,Female,2026-12-16,87,75,51,28,16,7,53,No,2,44.3,Fail,High,At-Risk
+2930,HR Management,Hybrid,22,Female,2026-12-17,65,42,92,47,22,36,98,Yes,3,59.5,Pass,Low,Active
+2931,Web Dev,Online,23,Male,2026-12-18,79,50,46,96,4,44,53,No,0,71.8,Pass,Medium,Active
+2932,Data Science,Hybrid,23,Female,2026-12-19,48,30,48,57,6,32,100,Yes,4,48.9,Fail,High,At-Risk
+2933,Web Dev,Hybrid,21,Male,2026-12-20,80,48,64,62,12,32,74,No,0,59.8,Pass,Medium,Active
+2934,Digital Marketing,Online,34,Female,2026-12-21,73,89,98,40,8,6,82,No,2,67.2,Pass,Low,Active
+2935,HR Management,Hybrid,31,Male,2026-12-22,84,62,90,81,7,21,63,No,0,79.9,Pass,Medium,Active
+2936,Data Science,Hybrid,31,Female,2026-12-23,52,33,64,65,15,4,73,Yes,2,58.3,Pass,High,At-Risk
+2937,Data Science,Offline,30,Male,2026-12-24,94,32,30,89,2,45,60,Yes,1,59.9,Pass,Low,Active
+2938,Data Science,Offline,24,Female,2026-12-25,94,81,42,57,18,14,74,No,1,57.3,Pass,Low,Active
+2939,Data Science,Online,29,Male,2026-12-26,75,57,54,68,18,20,77,No,2,61.6,Pass,Low,Active
+2940,Data Science,Online,32,Male,2026-12-27,64,99,45,94,15,24,56,No,4,80.3,Pass,Low,Active
+2941,Web Dev,Online,28,Male,2026-12-28,63,99,86,58,11,16,98,No,4,74.6,Pass,Low,Active
+2942,HR Management,Offline,32,Male,2026-12-29,83,84,34,90,9,49,85,No,0,72.0,Pass,Low,Active
+2943,Digital Marketing,Online,29,Male,2026-12-30,56,86,37,49,9,6,59,No,2,52.8,Pass,High,At-Risk
+2944,Digital Marketing,Online,20,Male,2026-12-31,41,45,33,40,15,49,98,Yes,3,38.9,Fail,High,At-Risk
+2945,Digital Marketing,Online,34,Male,2027-01-01,52,53,92,20,8,18,85,No,4,48.2,Fail,High,At-Risk
+2946,Digital Marketing,Offline,20,Male,2027-01-02,70,98,63,51,7,6,80,No,4,64.0,Pass,Low,Active
+2947,Web Dev,Hybrid,21,Female,2027-01-03,68,70,48,27,5,39,68,No,1,41.9,Fail,High,At-Risk
+2948,Finance,Online,20,Male,2027-01-04,89,76,58,88,2,44,67,No,4,76.6,Pass,Low,Active
+2949,HR Management,Hybrid,33,Male,2027-01-05,67,98,85,49,16,49,98,Yes,4,69.6,Pass,Low,Active
+2950,Data Science,Online,29,Female,2027-01-06,99,60,65,27,16,23,55,Yes,4,45.0,Fail,High,At-Risk
+2951,Finance,Hybrid,25,Male,2027-01-07,66,59,29,38,2,10,77,Yes,2,39.5,Fail,High,At-Risk
+2952,Digital Marketing,Offline,34,Female,2027-01-08,54,47,74,78,21,40,56,No,2,70.6,Pass,High,At-Risk
+2953,Finance,Offline,24,Male,2027-01-09,70,73,28,74,4,0,87,No,1,60.0,Pass,Low,Active
+2954,HR Management,Online,28,Female,2027-01-10,79,56,75,49,24,31,61,No,0,58.2,Pass,Medium,Active
+2955,Data Science,Hybrid,18,Female,2027-01-11,54,55,76,98,6,39,90,Yes,4,82.8,Pass,Medium,Active
+2956,Data Science,Offline,20,Male,2027-01-12,72,89,63,55,6,43,99,Yes,0,64.2,Pass,Low,Active
+2957,HR Management,Online,21,Female,2027-01-13,59,47,32,74,5,1,83,Yes,2,56.0,Pass,Medium,Active
+2958,HR Management,Online,30,Male,2027-01-14,81,85,69,63,18,14,74,No,4,69.2,Pass,Low,Active
+2959,Digital Marketing,Offline,23,Male,2027-01-15,51,60,52,46,22,20,66,Yes,0,50.6,Pass,High,At-Risk
+2960,Data Science,Offline,31,Male,2027-01-16,76,88,51,96,21,23,82,Yes,0,80.9,Pass,Low,Active
+2961,Finance,Online,22,Male,2027-01-17,48,31,89,97,15,49,72,No,3,81.4,Pass,High,At-Risk
+2962,Web Dev,Hybrid,33,Female,2027-01-18,62,68,58,73,9,16,58,No,2,67.5,Pass,Low,Active
+2963,Web Dev,Hybrid,32,Male,2027-01-19,47,90,86,67,3,46,55,No,1,77.3,Pass,High,At-Risk
+2964,HR Management,Hybrid,32,Female,2027-01-20,71,92,86,49,9,8,51,Yes,1,68.7,Pass,Low,Active
+2965,Digital Marketing,Online,21,Female,2027-01-21,87,47,62,58,2,34,87,No,3,57.0,Pass,Low,Active
+2966,Web Dev,Offline,25,Male,2027-01-22,53,46,50,32,5,19,58,No,0,40.2,Fail,High,At-Risk
+2967,Data Science,Online,33,Male,2027-01-23,66,68,48,35,20,18,52,Yes,3,45.5,Fail,High,At-Risk
+2968,HR Management,Offline,33,Male,2027-01-24,64,83,63,63,6,17,65,Yes,3,67.0,Pass,Low,Active
+2969,Finance,Hybrid,21,Male,2027-01-25,52,64,45,90,6,19,74,No,2,71.3,Pass,High,At-Risk
+2970,HR Management,Hybrid,30,Female,2027-01-26,94,40,71,46,22,29,73,No,4,52.3,Pass,Low,Active
+2971,Finance,Offline,30,Male,2027-01-27,60,90,72,64,21,39,96,Yes,0,71.6,Pass,Low,Active
+2972,HR Management,Offline,19,Female,2027-01-28,84,73,37,54,20,0,78,No,1,52.7,Pass,Low,Active
+2973,HR Management,Online,20,Male,2027-01-29,70,97,27,98,13,23,93,No,1,76.5,Pass,Low,Active
+2974,HR Management,Hybrid,25,Male,2027-01-30,76,54,56,47,21,23,89,Yes,3,51.1,Pass,Low,Active
+2975,Finance,Online,32,Male,2027-01-31,87,77,59,26,2,46,75,No,3,46.1,Fail,High,At-Risk
+2976,Finance,Online,28,Male,2027-02-01,97,61,43,81,8,18,87,No,3,65.6,Pass,Low,Active
+2977,HR Management,Online,26,Female,2027-02-02,82,33,38,70,18,29,84,No,0,53.0,Pass,Low,Active
+2978,Web Dev,Hybrid,24,Female,2027-02-03,93,67,72,65,3,25,72,No,3,67.5,Pass,Low,Active
+2979,Digital Marketing,Online,30,Male,2027-02-04,44,92,92,39,12,41,53,Yes,3,65.5,Pass,High,At-Risk
+2980,Digital Marketing,Online,19,Female,2027-02-05,52,76,69,57,8,43,91,Yes,4,64.4,Pass,Medium,Active
+2981,Digital Marketing,Online,25,Female,2027-02-06,67,30,43,80,18,37,63,No,0,58.9,Pass,Medium,Active
+2982,Finance,Online,24,Male,2027-02-07,82,32,88,51,4,28,96,No,2,58.3,Pass,Low,Active
+2983,Finance,Online,29,Male,2027-02-08,64,91,90,45,23,12,88,No,2,67.7,Pass,Low,Active
+2984,Web Dev,Online,24,Female,2027-02-09,90,93,90,77,7,3,56,No,4,84.1,Pass,Low,Active
+2985,Digital Marketing,Hybrid,27,Female,2027-02-10,74,46,99,58,23,44,57,No,1,67.9,Pass,Low,Active
+2986,Digital Marketing,Online,33,Female,2027-02-11,86,91,69,39,12,16,91,No,2,58.4,Pass,Low,Active
+2987,HR Management,Offline,20,Female,2027-02-12,78,64,98,69,19,32,100,No,0,76.7,Pass,Low,Active
+2988,Finance,Online,27,Male,2027-02-13,46,42,91,98,19,4,68,No,1,84.7,Pass,High,At-Risk
+2989,Digital Marketing,Online,23,Male,2027-02-14,77,64,93,71,23,27,51,No,3,76.2,Pass,Low,Active
+2990,Web Dev,Hybrid,22,Female,2027-02-15,71,72,27,41,11,23,96,Yes,0,43.0,Fail,Medium,Active
+2991,Web Dev,Hybrid,24,Male,2027-02-16,42,31,62,72,6,16,50,No,1,60.8,Pass,High,At-Risk
+2992,Digital Marketing,Offline,19,Female,2027-02-17,84,85,66,85,24,49,91,No,2,79.3,Pass,Low,Active
+2993,Finance,Offline,28,Female,2027-02-18,78,80,64,62,24,38,87,Yes,3,66.2,Pass,Low,Active
+2994,Web Dev,Hybrid,30,Male,2027-02-19,76,83,74,42,22,47,62,No,3,59.8,Pass,Low,Active
+2995,HR Management,Hybrid,22,Female,2027-02-20,94,45,59,96,23,39,91,No,0,74.7,Pass,Low,Active
+2996,Web Dev,Online,23,Female,2027-02-21,89,47,48,83,16,43,93,No,3,65.3,Pass,Low,Active
+2997,Data Science,Hybrid,31,Male,2027-02-22,61,36,41,28,22,45,73,Yes,1,33.5,Fail,High,At-Risk
+2998,Data Science,Offline,29,Male,2027-02-23,47,74,64,26,21,10,81,No,4,47.0,Fail,High,At-Risk
+2999,Finance,Online,21,Female,2027-02-24,56,65,98,60,24,11,79,Yes,2,72.4,Pass,High,At-Risk
+3000,Digital Marketing,Offline,23,Female,2027-02-25,91,70,90,73,5,12,55,No,0,77.5,Pass,Medium,Active
+3001,Finance,Online,27,Male,2027-02-26,66,71,68,84,22,7,87,Yes,4,76.6,Pass,Low,Active
+3002,Finance,Hybrid,32,Female,2027-02-27,72,36,47,21,22,0,82,No,4,31.8,Fail,Medium,Active
+3003,Finance,Offline,25,Female,2027-02-28,85,44,30,23,2,8,93,No,0,29.3,Fail,Medium,Active
+3004,Finance,Online,26,Male,2027-03-01,56,89,90,97,16,27,72,No,1,93.3,Pass,High,At-Risk
+3005,HR Management,Online,22,Male,2027-03-02,81,69,45,51,18,1,59,No,2,52.8,Pass,Low,Active
+3006,HR Management,Hybrid,27,Male,2027-03-03,51,66,59,21,20,13,95,No,0,41.4,Fail,High,At-Risk
+3007,Web Dev,Hybrid,23,Male,2027-03-04,87,95,53,83,15,12,64,Yes,4,76.4,Pass,Low,Active
+3008,Data Science,Hybrid,33,Male,2027-03-05,85,84,31,33,20,47,72,Yes,4,42.6,Fail,High,At-Risk
+3009,Finance,Offline,20,Male,2027-03-06,66,85,77,39,19,1,85,Yes,0,59.599999999999994,Pass,Low,Active
+3010,Web Dev,Online,27,Female,2027-03-07,87,73,61,68,3,3,50,Yes,4,66.9,Pass,Low,Active
+3011,Data Science,Hybrid,28,Female,2027-03-08,47,86,47,27,7,11,57,No,0,44.8,Fail,High,At-Risk
+3012,Digital Marketing,Offline,28,Male,2027-03-09,62,35,32,82,14,47,52,No,0,57.6,Pass,Medium,Active
+3013,HR Management,Offline,34,Male,2027-03-10,99,61,72,65,18,9,63,Yes,2,66.3,Pass,Low,Active
+3014,Data Science,Offline,21,Female,2027-03-11,81,47,34,40,7,2,66,No,0,39.6,Fail,High,At-Risk
+3015,Digital Marketing,Hybrid,21,Female,2027-03-12,88,97,48,51,22,3,83,No,4,59.3,Pass,Low,Active
+3016,Data Science,Hybrid,34,Female,2027-03-13,98,36,71,27,23,5,96,Yes,3,42.0,Fail,Medium,Active
+3017,HR Management,Online,26,Male,2027-03-14,68,37,77,35,6,22,55,No,2,48.0,Fail,High,At-Risk
+3018,HR Management,Online,22,Male,2027-03-15,89,93,63,59,8,4,54,No,4,67.0,Pass,Low,Active
+3019,Web Dev,Hybrid,23,Female,2027-03-16,59,36,91,46,2,49,95,No,4,57.5,Pass,Medium,Active
+3020,Finance,Offline,20,Male,2027-03-17,55,70,90,37,14,2,100,No,2,59.5,Pass,Medium,Active
+3021,Data Science,Offline,18,Male,2027-03-18,56,69,30,54,20,9,90,No,2,49.8,Fail,High,At-Risk
+3022,Data Science,Offline,33,Male,2027-03-19,55,32,45,71,23,42,89,Yes,4,55.4,Pass,Medium,Active
+3023,Digital Marketing,Online,28,Female,2027-03-20,58,46,97,34,2,18,78,No,3,55.3,Pass,High,At-Risk
+3024,HR Management,Offline,30,Female,2027-03-21,95,95,98,82,14,13,84,No,1,89.4,Pass,Low,Active
+3025,Data Science,Online,27,Male,2027-03-22,95,81,60,72,12,20,67,No,4,70.2,Pass,Low,Active
+3026,HR Management,Online,20,Male,2027-03-23,47,51,27,85,8,42,89,No,2,60.8,Pass,Medium,Active
+3027,Data Science,Offline,26,Male,2027-03-24,77,33,66,50,21,27,97,No,0,51.400000000000006,Pass,Low,Active
+3028,Web Dev,Offline,29,Male,2027-03-25,77,35,69,80,4,20,79,No,0,67.7,Pass,Medium,Active
+3029,Finance,Hybrid,31,Male,2027-03-26,92,67,68,83,2,35,64,No,2,75.3,Pass,Low,Active
+3030,Data Science,Hybrid,18,Female,2027-03-27,68,55,57,53,9,23,64,No,2,54.599999999999994,Pass,Low,Active
+3031,HR Management,Offline,34,Male,2027-03-28,80,40,84,74,18,37,65,No,1,70.2,Pass,Low,Active
+3032,Web Dev,Online,26,Male,2027-03-29,75,46,94,78,14,16,82,No,2,76.4,Pass,Low,Active
+3033,Data Science,Online,26,Male,2027-03-30,65,60,50,22,15,21,59,No,0,38.0,Fail,High,At-Risk
+3034,Digital Marketing,Online,27,Female,2027-03-31,70,64,45,36,6,18,68,No,3,44.3,Fail,High,At-Risk
+3035,Finance,Online,32,Female,2027-04-01,83,45,26,97,23,44,86,No,2,65.3,Pass,Low,Active
+3036,Data Science,Online,22,Male,2027-04-02,99,47,71,97,24,9,99,Yes,1,79.2,Pass,Low,Active
+3037,Web Dev,Hybrid,32,Female,2027-04-03,51,91,54,65,7,10,52,Yes,3,66.9,Pass,High,At-Risk
+3038,Digital Marketing,Offline,19,Female,2027-04-04,94,56,51,57,23,37,85,No,1,55.0,Pass,Low,Active
+3039,Web Dev,Hybrid,30,Female,2027-04-05,56,64,95,54,7,1,53,No,3,68.3,Pass,High,At-Risk
+3040,Web Dev,Online,33,Female,2027-04-06,54,74,44,20,22,32,60,Yes,2,38.0,Fail,High,At-Risk
+3041,Digital Marketing,Online,32,Female,2027-04-07,48,64,74,48,9,42,90,No,0,59.0,Pass,High,At-Risk
+3042,Web Dev,Online,27,Female,2027-04-08,78,57,47,23,14,30,82,No,3,37.0,Fail,Medium,Active
+3043,Digital Marketing,Online,31,Male,2027-04-09,81,38,37,80,19,47,77,Yes,4,58.7,Pass,Low,Active
+3044,Data Science,Offline,27,Female,2027-04-10,87,44,28,36,24,34,81,Yes,1,35.2,Fail,Medium,Active
+3045,Digital Marketing,Online,31,Female,2027-04-11,51,50,38,47,5,36,65,No,3,44.9,Fail,High,At-Risk
+3046,Digital Marketing,Offline,26,Male,2027-04-12,71,81,44,69,18,46,58,Yes,1,63.9,Pass,Low,Active
+3047,Finance,Online,31,Male,2027-04-13,64,64,37,27,6,46,60,No,0,37.4,Fail,High,At-Risk
+3048,Digital Marketing,Offline,20,Male,2027-04-14,78,80,27,53,4,35,55,No,1,50.6,Pass,Low,Active
+3049,Digital Marketing,Hybrid,33,Male,2027-04-15,57,84,71,78,5,22,98,No,1,77.1,Pass,Medium,Active
+3050,Data Science,Online,19,Female,2027-04-16,54,73,27,37,24,35,76,No,4,41.2,Fail,High,At-Risk
+3051,Finance,Offline,27,Female,2027-04-17,71,94,25,78,6,39,61,No,1,65.3,Pass,Low,Active
+3052,HR Management,Hybrid,20,Female,2027-04-18,45,54,48,46,15,38,71,No,3,48.2,Fail,High,At-Risk
+3053,Data Science,Online,28,Female,2027-04-19,97,76,59,35,16,25,89,No,1,50.4,Pass,Low,Active
+3054,Data Science,Online,28,Male,2027-04-20,83,85,38,29,21,24,97,No,2,42.9,Fail,Medium,Active
+3055,HR Management,Online,30,Female,2027-04-21,82,67,91,95,18,16,86,No,1,88.2,Pass,Low,Active
+3056,Digital Marketing,Offline,24,Female,2027-04-22,91,40,37,41,7,14,70,No,2,39.6,Fail,High,At-Risk
+3057,Web Dev,Offline,34,Male,2027-04-23,74,96,71,35,11,36,82,No,1,58.0,Pass,Low,Active
+3058,Finance,Hybrid,19,Female,2027-04-24,73,44,74,31,23,44,66,No,1,46.5,Fail,High,At-Risk
+3059,Web Dev,Offline,29,Female,2027-04-25,77,30,50,94,24,3,78,Yes,3,68.0,Pass,Low,Active
+3060,HR Management,Offline,27,Female,2027-04-26,95,36,27,70,17,21,89,Yes,2,50.3,Pass,Low,Active
+3061,Data Science,Online,28,Female,2027-04-27,93,30,75,20,18,16,59,No,2,38.5,Fail,High,At-Risk
+3062,Data Science,Online,33,Male,2027-04-28,96,78,64,46,15,21,67,No,4,57.8,Pass,Low,Active
+3063,Finance,Online,34,Male,2027-04-29,44,58,92,86,21,16,96,No,1,82.2,Pass,Medium,Active
+3064,Data Science,Online,20,Male,2027-04-30,57,55,60,31,13,13,62,No,1,44.5,Fail,High,At-Risk
+3065,Data Science,Online,33,Male,2027-05-01,55,74,75,49,10,13,76,Yes,3,61.8,Pass,High,At-Risk
+3066,Finance,Online,23,Male,2027-05-02,47,41,25,28,16,16,59,No,4,29.700000000000003,Fail,High,At-Risk
+3067,Finance,Online,29,Female,2027-05-03,64,61,57,72,13,7,81,Yes,4,65.3,Pass,Low,Active
+3068,HR Management,Hybrid,28,Female,2027-05-04,71,49,31,80,15,33,90,No,3,59.1,Pass,Low,Active
+3069,Data Science,Hybrid,32,Male,2027-05-05,65,80,76,73,23,25,94,No,2,75.3,Pass,Low,Active
+3070,Data Science,Hybrid,32,Male,2027-05-06,91,65,35,56,19,44,52,No,0,51.5,Pass,Medium,Active
+3071,HR Management,Hybrid,33,Male,2027-05-07,61,96,51,84,21,29,71,No,3,76.5,Pass,Low,Active
+3072,Digital Marketing,Online,27,Female,2027-05-08,70,30,38,61,7,21,76,Yes,2,47.9,Fail,High,At-Risk
+3073,Digital Marketing,Hybrid,29,Male,2027-05-09,82,56,70,68,5,15,52,No,4,66.2,Pass,Low,Active
+3074,Digital Marketing,Online,30,Female,2027-05-10,49,69,34,23,24,29,82,Yes,3,35.5,Fail,High,At-Risk
+3075,HR Management,Hybrid,21,Female,2027-05-11,95,43,48,83,13,15,51,Yes,0,64.5,Pass,Medium,Active
+3076,Data Science,Offline,24,Female,2027-05-12,96,98,85,98,14,37,60,Yes,1,94.1,Pass,Low,Active
+3077,HR Management,Hybrid,19,Female,2027-05-13,51,35,42,70,20,23,95,No,3,54.6,Pass,Medium,Active
+3078,HR Management,Hybrid,32,Male,2027-05-14,92,62,33,91,23,35,59,Yes,0,67.8,Pass,Medium,Active
+3079,Digital Marketing,Online,25,Female,2027-05-15,67,84,41,79,14,34,88,No,0,68.6,Pass,Low,Active
+3080,Web Dev,Hybrid,24,Female,2027-05-16,45,48,82,98,13,5,82,No,3,83.2,Pass,Medium,Active
+3081,Data Science,Offline,32,Male,2027-05-17,98,58,37,50,21,3,56,No,2,47.7,Fail,High,At-Risk
+3082,Digital Marketing,Online,31,Female,2027-05-18,59,90,74,91,4,17,64,Yes,3,85.7,Pass,High,At-Risk
+3083,Web Dev,Online,25,Female,2027-05-19,44,99,30,77,4,5,75,Yes,4,67.3,Pass,High,At-Risk
+3084,Web Dev,Hybrid,29,Female,2027-05-20,62,53,75,23,15,25,60,No,0,44.6,Fail,High,At-Risk
+3085,Finance,Online,30,Male,2027-05-21,48,52,60,41,19,36,87,No,0,48.9,Fail,High,At-Risk
+3086,Data Science,Online,28,Female,2027-05-22,97,39,95,22,20,26,76,Yes,1,47.3,Fail,High,At-Risk
+3087,Web Dev,Online,34,Female,2027-05-23,98,83,49,98,11,40,88,No,0,80.3,Pass,Low,Active
+3088,Digital Marketing,Online,34,Male,2027-05-24,68,70,35,66,18,10,56,No,1,57.5,Pass,Low,Active
+3089,Finance,Online,21,Male,2027-05-25,55,78,68,57,16,37,50,No,0,64.5,Pass,High,At-Risk
+3090,Data Science,Online,25,Female,2027-05-26,93,46,38,52,20,15,59,No,0,46.6,Fail,High,At-Risk
+3091,HR Management,Offline,22,Female,2027-05-27,85,85,53,97,10,18,70,No,3,81.4,Pass,Low,Active
+3092,Digital Marketing,Hybrid,33,Male,2027-05-28,61,74,98,67,5,42,64,No,3,77.7,Pass,Low,Active
+3093,Web Dev,Offline,21,Female,2027-05-29,47,59,74,84,16,14,79,No,4,76.0,Pass,High,At-Risk
+3094,Web Dev,Online,32,Male,2027-05-30,98,73,29,45,20,25,79,No,2,45.8,Fail,High,At-Risk
+3095,Digital Marketing,Online,29,Female,2027-05-31,59,84,96,27,17,40,57,No,4,59.099999999999994,Pass,High,At-Risk
+3096,Web Dev,Hybrid,22,Male,2027-06-01,90,48,93,69,9,30,73,No,0,72.0,Pass,Medium,Active
+3097,Finance,Offline,33,Female,2027-06-02,53,58,81,99,18,18,68,No,4,85.4,Pass,High,At-Risk
+3098,Data Science,Hybrid,31,Male,2027-06-03,78,31,50,57,22,23,52,Yes,3,49.7,Fail,High,At-Risk
+3099,Finance,Offline,27,Male,2027-06-04,76,65,30,29,2,8,64,Yes,0,36.5,Fail,High,At-Risk
+3100,Web Dev,Online,24,Male,2027-06-05,89,48,40,61,8,22,85,No,0,52.1,Pass,Low,Active
+3101,HR Management,Hybrid,30,Male,2027-06-06,73,36,84,56,22,3,55,No,4,60.4,Pass,Low,Active
+3102,Data Science,Hybrid,22,Male,2027-06-07,50,55,36,45,19,9,91,No,1,44.3,Fail,High,At-Risk
+3103,Data Science,Online,20,Female,2027-06-08,93,67,99,31,13,8,99,No,2,58.6,Pass,Low,Active
+3104,Digital Marketing,Hybrid,32,Female,2027-06-09,79,32,27,68,17,18,97,No,4,48.5,Fail,Medium,Active
+3105,Digital Marketing,Offline,21,Male,2027-06-10,72,95,87,33,2,14,67,Yes,4,61.599999999999994,Pass,Low,Active
+3106,HR Management,Offline,32,Female,2027-06-11,70,72,88,65,16,33,87,No,2,73.3,Pass,Low,Active
+3107,Data Science,Offline,31,Female,2027-06-12,98,91,86,54,8,41,68,No,0,71.0,Pass,Medium,Active
+3108,HR Management,Offline,30,Female,2027-06-13,93,53,30,48,18,18,98,No,0,43.6,Fail,Medium,Active
+3109,Digital Marketing,Online,27,Female,2027-06-14,83,68,43,31,4,48,99,No,1,42.0,Fail,Medium,Active
+3110,Digital Marketing,Hybrid,22,Female,2027-06-15,73,97,42,63,12,20,79,Yes,4,63.5,Pass,Low,Active
+3111,Data Science,Offline,23,Female,2027-06-16,89,73,67,85,7,33,62,No,2,77.2,Pass,Low,Active
+3112,Finance,Online,21,Male,2027-06-17,46,34,97,21,7,16,88,No,4,46.4,Fail,High,At-Risk
+3113,Web Dev,Hybrid,19,Female,2027-06-18,97,84,27,78,16,17,61,Yes,3,63.9,Pass,Low,Active
+3114,Digital Marketing,Hybrid,33,Female,2027-06-19,88,59,96,36,8,16,83,No,4,58.599999999999994,Pass,Low,Active
+3115,Digital Marketing,Online,22,Female,2027-06-20,93,58,62,29,12,1,61,No,4,44.7,Fail,High,At-Risk
+3116,Finance,Online,21,Male,2027-06-21,62,55,92,37,18,0,93,No,3,57.099999999999994,Pass,Low,Active
+3117,Finance,Offline,30,Female,2027-06-22,85,55,68,41,24,42,73,No,3,51.9,Pass,Low,Active
+3118,HR Management,Hybrid,19,Female,2027-06-23,95,66,87,77,19,9,53,No,2,77.8,Pass,Low,Active
+3119,HR Management,Hybrid,30,Female,2027-06-24,46,82,66,72,23,36,85,No,0,72.2,Pass,High,At-Risk
+3120,Web Dev,Online,28,Male,2027-06-25,93,59,88,20,22,47,99,Yes,1,48.2,Fail,Medium,Active
+3121,Web Dev,Hybrid,21,Female,2027-06-26,64,32,78,80,20,4,97,No,3,69.8,Pass,Low,Active
+3122,Data Science,Offline,32,Male,2027-06-27,42,72,95,50,9,11,63,Yes,0,67.9,Pass,High,At-Risk
+3123,HR Management,Hybrid,21,Female,2027-06-28,98,36,61,50,21,35,66,No,2,50.5,Pass,Low,Active
+3124,Digital Marketing,Online,26,Male,2027-06-29,77,78,28,85,9,30,98,No,4,66.5,Pass,Low,Active
+3125,HR Management,Online,24,Male,2027-06-30,59,70,26,38,22,37,52,No,2,40.8,Fail,High,At-Risk
+3126,Digital Marketing,Offline,23,Male,2027-07-01,73,83,68,72,12,8,87,No,2,73.0,Pass,Low,Active
+3127,Finance,Offline,23,Female,2027-07-02,88,98,91,95,22,43,72,Yes,3,94.4,Pass,Low,Active
+3128,HR Management,Hybrid,32,Male,2027-07-03,83,56,92,93,4,25,62,No,1,85.3,Pass,Low,Active
+3129,Finance,Hybrid,32,Male,2027-07-04,83,37,98,41,24,14,58,No,3,57.3,Pass,Low,Active
+3130,Web Dev,Online,26,Male,2027-07-05,69,61,86,42,15,15,70,No,4,59.0,Pass,Low,Active
+3131,Web Dev,Offline,21,Male,2027-07-06,56,93,25,34,10,12,90,No,3,43.1,Fail,High,At-Risk
+3132,Data Science,Offline,22,Female,2027-07-07,98,39,41,45,2,24,57,No,4,42.6,Fail,High,At-Risk
+3133,HR Management,Offline,28,Female,2027-07-08,49,42,40,22,2,29,66,No,3,31.4,Fail,High,At-Risk
+3134,Finance,Hybrid,22,Female,2027-07-09,74,92,33,39,13,6,65,No,1,47.800000000000004,Fail,High,At-Risk
+3135,Digital Marketing,Offline,21,Female,2027-07-10,59,64,77,59,12,3,65,No,0,65.4,Pass,High,At-Risk
+3136,Web Dev,Online,29,Male,2027-07-11,57,90,97,58,22,42,77,No,1,76.1,Pass,High,At-Risk
+3137,Web Dev,Online,19,Female,2027-07-12,84,83,83,91,2,39,100,No,3,87.0,Pass,Low,Active
+3138,Digital Marketing,Hybrid,30,Male,2027-07-13,83,37,33,37,21,37,65,No,2,35.8,Fail,High,At-Risk
+3139,Finance,Hybrid,27,Female,2027-07-14,66,58,36,60,13,29,95,Yes,0,52.4,Pass,Low,Active
+3140,Finance,Offline,26,Female,2027-07-15,98,70,65,89,18,9,95,Yes,2,78.0,Pass,Low,Active
+3141,HR Management,Hybrid,27,Female,2027-07-16,98,59,39,46,16,29,63,No,1,46.5,Fail,High,At-Risk
+3142,HR Management,Online,24,Male,2027-07-17,88,50,90,34,3,38,95,Yes,0,54.0,Pass,Low,Active
+3143,Data Science,Offline,21,Female,2027-07-18,75,40,99,56,19,6,93,Yes,3,65.7,Pass,Low,Active
+3144,Web Dev,Online,27,Female,2027-07-19,62,31,35,77,17,35,87,No,2,55.2,Pass,Low,Active
+3145,HR Management,Offline,20,Female,2027-07-20,71,79,32,24,5,34,69,Yes,3,37.4,Fail,High,At-Risk
+3146,Finance,Hybrid,19,Male,2027-07-21,49,70,79,92,9,23,94,No,4,83.7,Pass,Medium,Active
+3147,Digital Marketing,Offline,27,Female,2027-07-22,50,95,30,26,3,38,97,No,0,41.0,Fail,High,At-Risk
+3148,Finance,Offline,19,Female,2027-07-23,77,32,77,60,15,35,90,No,2,59.5,Pass,Low,Active
+3149,Web Dev,Online,19,Male,2027-07-24,45,80,44,29,16,44,83,Yes,1,43.7,Fail,High,At-Risk
+3150,Finance,Online,34,Male,2027-07-25,98,97,63,81,10,19,78,No,1,78.8,Pass,Low,Active
+3151,Data Science,Offline,33,Female,2027-07-26,80,54,96,45,3,48,52,No,1,62.099999999999994,Pass,Low,Active
+3152,Web Dev,Hybrid,33,Female,2027-07-27,86,59,58,87,18,31,59,No,1,72.7,Pass,Low,Active
+3153,Digital Marketing,Hybrid,31,Female,2027-07-28,73,40,81,43,11,38,69,No,2,53.8,Pass,Low,Active
+3154,Data Science,Online,24,Male,2027-07-29,75,46,43,97,10,48,51,Yes,4,70.6,Pass,Low,Active
+3155,Web Dev,Hybrid,28,Male,2027-07-30,76,55,95,60,3,25,76,No,1,69.5,Pass,Low,Active
+3156,Digital Marketing,Online,18,Male,2027-07-31,56,52,55,84,20,25,81,Yes,1,68.9,Pass,Medium,Active
+3157,Data Science,Hybrid,28,Female,2027-08-01,79,85,64,36,18,35,59,No,1,54.2,Pass,Low,Active
+3158,Data Science,Offline,21,Male,2027-08-02,79,81,38,43,12,42,89,No,4,49.1,Fail,Medium,Active
+3159,Web Dev,Online,24,Female,2027-08-03,93,77,61,46,18,34,66,No,0,56.7,Pass,Medium,Active
+3160,HR Management,Online,32,Male,2027-08-04,51,49,68,26,11,42,82,No,1,43.2,Fail,High,At-Risk
+3161,Data Science,Offline,29,Male,2027-08-05,60,31,33,92,19,34,55,No,1,62.1,Pass,Low,Active
+3162,Data Science,Online,34,Male,2027-08-06,79,60,82,31,24,11,88,No,1,52.099999999999994,Pass,Low,Active
+3163,Digital Marketing,Hybrid,18,Female,2027-08-07,58,56,44,22,7,32,96,No,0,35.4,Fail,High,At-Risk
+3164,Finance,Hybrid,28,Female,2027-08-08,42,31,74,98,17,35,67,No,1,77.4,Pass,High,At-Risk
+3165,Web Dev,Online,18,Female,2027-08-09,57,33,44,29,19,13,58,No,0,34.3,Fail,High,At-Risk
+3166,Web Dev,Hybrid,32,Female,2027-08-10,92,42,60,52,21,32,57,No,0,52.4,Pass,Medium,Active
+3167,HR Management,Online,27,Male,2027-08-11,90,64,51,65,19,45,74,No,3,60.6,Pass,Low,Active
+3168,HR Management,Offline,24,Female,2027-08-12,58,95,96,78,2,44,80,No,3,86.8,Pass,Medium,Active
+3169,Web Dev,Online,19,Male,2027-08-13,86,35,56,71,4,44,91,No,1,59.3,Pass,Low,Active
+3170,HR Management,Offline,27,Female,2027-08-14,45,60,25,25,16,23,53,Yes,2,32.0,Fail,High,At-Risk
+3171,Digital Marketing,Hybrid,21,Female,2027-08-15,55,39,41,21,21,14,69,No,3,30.6,Fail,High,At-Risk
+3172,Web Dev,Offline,29,Male,2027-08-16,47,50,33,48,11,30,77,Yes,3,43.9,Fail,High,At-Risk
+3173,HR Management,Hybrid,28,Male,2027-08-17,87,52,69,59,22,16,89,No,2,60.6,Pass,Low,Active
+3174,Web Dev,Online,25,Female,2027-08-18,57,32,90,80,6,11,50,No,4,73.4,Pass,High,At-Risk
+3175,Finance,Hybrid,28,Female,2027-08-19,91,61,56,87,16,21,89,No,1,72.5,Pass,Low,Active
+3176,Data Science,Online,28,Male,2027-08-20,87,49,69,87,24,22,93,No,4,74.0,Pass,Low,Active
+3177,Web Dev,Online,30,Male,2027-08-21,82,58,33,48,15,25,72,No,4,45.5,Fail,High,At-Risk
+3178,Data Science,Offline,20,Male,2027-08-22,78,81,54,81,16,13,96,No,0,72.9,Pass,Low,Active
+3179,HR Management,Offline,29,Male,2027-08-23,88,75,62,79,11,11,62,No,0,73.1,Pass,Medium,Active
+3180,Data Science,Offline,20,Male,2027-08-24,88,63,84,60,10,49,65,No,1,67.8,Pass,Low,Active
+3181,Web Dev,Offline,27,Female,2027-08-25,51,90,25,84,13,3,75,No,2,67.5,Pass,High,At-Risk
+3182,Finance,Hybrid,34,Female,2027-08-26,84,99,29,83,8,45,80,Yes,0,70.0,Pass,Low,Active
+3183,HR Management,Hybrid,19,Female,2027-08-27,49,40,87,98,6,12,99,No,3,83.1,Pass,Medium,Active
+3184,Web Dev,Hybrid,34,Female,2027-08-28,46,92,60,82,11,17,50,No,1,77.4,Pass,High,At-Risk
+3185,HR Management,Online,33,Male,2027-08-29,85,50,89,67,9,42,66,No,4,70.2,Pass,Low,Active
+3186,Digital Marketing,Hybrid,19,Male,2027-08-30,94,32,97,39,23,27,65,No,1,55.0,Pass,Low,Active
+3187,Data Science,Hybrid,23,Male,2027-08-31,40,39,48,56,21,37,86,No,0,50.2,Pass,High,At-Risk
+3188,Digital Marketing,Hybrid,27,Female,2027-09-01,88,56,28,83,17,40,59,No,2,61.1,Pass,Low,Active
+3189,Web Dev,Offline,27,Male,2027-09-02,75,41,92,24,13,43,87,No,4,47.8,Fail,Medium,Active
+3190,Finance,Hybrid,25,Male,2027-09-03,60,36,49,53,10,18,93,No,2,48.4,Fail,Medium,Active
+3191,HR Management,Online,18,Female,2027-09-04,76,46,98,58,11,45,80,No,1,67.6,Pass,Low,Active
+3192,Data Science,Offline,30,Female,2027-09-05,91,94,31,86,17,46,59,Yes,2,71.1,Pass,Low,Active
+3193,HR Management,Online,26,Female,2027-09-06,63,93,37,81,11,42,98,No,2,70.2,Pass,Low,Active
+3194,Web Dev,Hybrid,27,Male,2027-09-07,94,55,92,43,10,37,83,Yes,1,60.099999999999994,Pass,Low,Active
+3195,HR Management,Offline,32,Male,2027-09-08,64,44,67,22,4,45,100,Yes,4,39.9,Fail,Medium,Active
+3196,Data Science,Online,22,Female,2027-09-09,46,62,81,90,20,2,55,Yes,2,81.7,Pass,High,At-Risk
+3197,Web Dev,Hybrid,33,Female,2027-09-10,81,91,60,86,12,18,77,Yes,2,79.2,Pass,Low,Active
+3198,HR Management,Online,30,Male,2027-09-11,56,76,38,98,7,19,77,No,1,75.6,Pass,High,At-Risk
+3199,Finance,Online,28,Female,2027-09-12,68,64,96,69,7,24,62,No,3,76.1,Pass,Low,Active
+3200,Web Dev,Online,26,Male,2027-09-13,69,94,51,48,16,10,90,No,2,58.1,Pass,Low,Active
+3201,Web Dev,Hybrid,33,Female,2027-09-14,46,54,61,93,16,16,61,No,0,75.6,Pass,High,At-Risk
+3202,Finance,Hybrid,19,Female,2027-09-15,72,86,95,51,14,48,99,No,4,71.2,Pass,Low,Active
+3203,Digital Marketing,Online,19,Female,2027-09-16,46,61,49,58,23,34,89,No,2,55.9,Pass,Medium,Active
+3204,Data Science,Offline,29,Male,2027-09-17,97,92,91,28,6,13,99,No,1,59.7,Pass,Low,Active
+3205,Digital Marketing,Offline,25,Male,2027-09-18,63,41,28,33,15,38,51,No,0,33.1,Fail,High,At-Risk
+3206,HR Management,Hybrid,26,Female,2027-09-19,50,92,98,87,22,18,57,No,1,91.3,Pass,High,At-Risk
+3207,Finance,Hybrid,29,Male,2027-09-20,48,30,40,83,3,2,91,Yes,2,59.5,Pass,Medium,Active
+3208,Digital Marketing,Hybrid,26,Female,2027-09-21,51,80,43,39,24,33,58,Yes,0,48.4,Fail,High,At-Risk
+3209,Web Dev,Hybrid,27,Female,2027-09-22,74,99,53,47,13,48,99,No,4,59.2,Pass,Low,Active
+3210,HR Management,Hybrid,19,Male,2027-09-23,43,37,75,33,21,40,57,No,4,46.4,Fail,High,At-Risk
+3211,HR Management,Offline,33,Male,2027-09-24,75,97,42,63,15,21,100,Yes,4,63.5,Pass,Low,Active
+3212,Digital Marketing,Hybrid,24,Male,2027-09-25,67,34,82,96,20,37,52,Yes,3,79.4,Pass,Low,Active
+3213,Digital Marketing,Online,19,Male,2027-09-26,96,68,68,58,21,26,58,Yes,1,63.0,Pass,Low,Active
+3214,Finance,Online,18,Female,2027-09-27,52,52,40,47,16,20,62,No,2,45.9,Fail,High,At-Risk
+3215,Data Science,Offline,21,Male,2027-09-28,62,97,89,83,21,40,58,No,0,87.6,Pass,Medium,Active
+3216,Digital Marketing,Online,19,Male,2027-09-29,58,81,26,51,18,30,80,No,1,49.5,Fail,High,At-Risk
+3217,Digital Marketing,Offline,31,Female,2027-09-30,81,33,80,28,15,26,74,Yes,2,44.6,Fail,High,At-Risk
+3218,Web Dev,Offline,19,Female,2027-10-01,76,76,52,47,24,36,93,No,3,54.3,Pass,Low,Active
+3219,HR Management,Online,32,Female,2027-10-02,78,50,89,36,19,1,94,Yes,2,54.7,Pass,Low,Active
+3220,Data Science,Hybrid,29,Female,2027-10-03,63,85,29,96,23,46,57,No,1,73.7,Pass,Low,Active
+3221,Web Dev,Online,22,Male,2027-10-04,55,95,46,74,6,8,96,Yes,2,69.8,Pass,Medium,Active
+3222,Finance,Online,24,Male,2027-10-05,72,88,37,29,23,18,80,No,0,43.2,Fail,Medium,Active
+3223,Finance,Offline,27,Female,2027-10-06,51,36,89,99,13,41,94,No,3,83.4,Pass,Medium,Active
+3224,Digital Marketing,Online,31,Female,2027-10-07,73,78,40,25,11,35,94,No,0,40.1,Fail,Medium,Active
+3225,Digital Marketing,Offline,31,Male,2027-10-08,46,45,88,67,9,9,80,No,3,68.9,Pass,Medium,Active
+3226,Finance,Hybrid,22,Male,2027-10-09,50,46,56,94,7,39,66,No,3,73.0,Pass,High,At-Risk
+3227,Digital Marketing,Hybrid,31,Male,2027-10-10,70,63,75,86,16,44,96,Yes,2,78.1,Pass,Low,Active
+3228,Data Science,Hybrid,19,Male,2027-10-11,68,62,82,60,13,38,68,No,0,67.0,Pass,Medium,Active
+3229,Digital Marketing,Online,29,Male,2027-10-12,52,55,70,98,7,6,52,No,3,81.0,Pass,High,At-Risk
+3230,HR Management,Offline,23,Female,2027-10-13,70,95,76,79,13,3,95,No,3,81.3,Pass,Low,Active
+3231,Digital Marketing,Hybrid,21,Female,2027-10-14,41,92,87,96,16,14,79,No,2,92.5,Pass,High,At-Risk
+3232,Web Dev,Offline,30,Female,2027-10-15,78,70,84,61,13,11,59,No,1,69.7,Pass,Low,Active
+3233,Data Science,Offline,21,Female,2027-10-16,54,87,89,90,10,47,98,No,1,89.1,Pass,Medium,Active
+3234,Web Dev,Hybrid,31,Male,2027-10-17,96,39,79,47,20,5,78,Yes,4,55.0,Pass,Low,Active
+3235,Web Dev,Hybrid,33,Female,2027-10-18,50,44,81,32,22,8,89,No,4,49.1,Fail,High,At-Risk
+3236,HR Management,Offline,21,Male,2027-10-19,73,71,95,34,3,34,67,Yes,3,59.7,Pass,Low,Active
+3237,Data Science,Hybrid,18,Male,2027-10-20,78,86,97,55,14,7,61,No,1,73.8,Pass,Low,Active
+3238,Data Science,Offline,30,Male,2027-10-21,43,46,50,34,14,6,98,No,3,41.2,Fail,High,At-Risk
+3239,Data Science,Offline,21,Male,2027-10-22,50,89,36,94,9,3,72,Yes,0,75.6,Pass,High,At-Risk
+3240,Data Science,Hybrid,23,Male,2027-10-23,68,38,95,75,14,12,60,No,1,73.6,Pass,Low,Active
+3241,Data Science,Online,20,Male,2027-10-24,41,65,70,23,5,18,58,No,1,45.5,Fail,High,At-Risk
+3242,HR Management,Hybrid,30,Male,2027-10-25,55,65,71,71,7,6,73,No,1,69.8,Pass,High,At-Risk
+3243,Digital Marketing,Online,33,Female,2027-10-26,78,77,62,29,7,9,74,Yes,4,48.5,Fail,High,At-Risk
+3244,Web Dev,Offline,22,Male,2027-10-27,52,80,45,64,22,24,74,No,2,61.5,Pass,High,At-Risk
+3245,Data Science,Offline,21,Female,2027-10-28,76,99,38,48,13,43,96,No,2,55.2,Pass,Low,Active
+3246,Digital Marketing,Online,25,Female,2027-10-29,56,97,26,72,13,34,58,No,4,63.2,Pass,High,At-Risk
+3247,Digital Marketing,Offline,31,Male,2027-10-30,60,51,96,48,18,24,61,No,4,63.0,Pass,Low,Active
+3248,Web Dev,Online,24,Male,2027-10-31,83,35,94,42,8,28,60,Yes,4,56.2,Pass,Low,Active
+3249,HR Management,Online,31,Female,2027-11-01,99,55,57,76,16,11,98,No,2,66.1,Pass,Low,Active
+3250,Finance,Offline,23,Female,2027-11-02,58,32,30,69,18,46,87,No,3,49.9,Fail,High,At-Risk
+3251,Finance,Online,29,Female,2027-11-03,46,81,61,40,11,39,77,No,4,54.5,Pass,High,At-Risk
+3252,Digital Marketing,Hybrid,33,Female,2027-11-04,77,89,38,62,24,11,57,Yes,3,60.2,Pass,Low,Active
+3253,Web Dev,Hybrid,34,Male,2027-11-05,47,92,61,29,21,5,59,No,3,51.2,Pass,High,At-Risk
+3254,Finance,Offline,30,Male,2027-11-06,52,94,32,95,7,9,74,No,0,75.9,Pass,High,At-Risk
+3255,Digital Marketing,Offline,31,Male,2027-11-07,76,81,37,49,10,1,96,No,2,51.8,Pass,Low,Active
+3256,HR Management,Online,24,Female,2027-11-08,41,43,64,70,16,44,85,No,3,62.8,Pass,Medium,Active
+3257,Finance,Online,31,Male,2027-11-09,80,97,82,52,17,24,99,No,2,70.0,Pass,Low,Active
+3258,Digital Marketing,Online,32,Female,2027-11-10,50,57,42,37,22,6,92,No,2,42.5,Fail,High,At-Risk
+3259,Digital Marketing,Online,29,Male,2027-11-11,63,39,81,97,9,39,58,Yes,0,80.6,Pass,Medium,Active
+3260,Data Science,Hybrid,34,Female,2027-11-12,45,86,62,41,17,22,90,No,2,56.3,Pass,Medium,Active
+3261,HR Management,Hybrid,26,Male,2027-11-13,65,95,56,83,6,47,57,No,3,77.3,Pass,Low,Active
+3262,Data Science,Offline,32,Male,2027-11-14,46,79,90,40,19,10,52,No,1,62.8,Pass,High,At-Risk
+3263,Web Dev,Online,29,Female,2027-11-15,96,43,49,20,21,35,67,Yes,3,33.3,Fail,High,At-Risk
+3264,Data Science,Online,19,Female,2027-11-16,78,45,82,34,15,48,95,No,3,50.599999999999994,Pass,Low,Active
+3265,Data Science,Offline,22,Female,2027-11-17,58,83,99,55,3,47,84,No,2,73.8,Pass,Medium,Active
+3266,Finance,Online,30,Female,2027-11-18,45,72,57,66,24,22,66,Yes,3,64.5,Pass,High,At-Risk
+3267,Digital Marketing,Online,25,Female,2027-11-19,82,71,90,73,24,42,85,No,1,77.7,Pass,Low,Active
+3268,HR Management,Online,31,Male,2027-11-20,68,51,54,51,4,6,77,No,2,51.9,Pass,Low,Active
+3269,Data Science,Online,32,Female,2027-11-21,82,97,58,77,15,26,99,Yes,4,75.3,Pass,Low,Active
+3270,HR Management,Online,28,Male,2027-11-22,78,48,93,65,8,12,64,No,3,70.0,Pass,Low,Active
+3271,Data Science,Offline,18,Male,2027-11-23,41,95,72,73,16,16,68,No,3,77.1,Pass,High,At-Risk
+3272,Web Dev,Online,20,Male,2027-11-24,58,68,64,52,18,31,71,No,0,58.8,Pass,High,At-Risk
+3273,Data Science,Offline,34,Male,2027-11-25,43,48,75,58,2,25,55,Yes,4,61.1,Pass,High,At-Risk
+3274,Finance,Online,31,Male,2027-11-26,97,45,37,42,10,21,96,No,4,41.1,Fail,Medium,Active
+3275,Digital Marketing,Hybrid,25,Female,2027-11-27,45,83,55,62,23,12,56,No,1,64.1,Pass,High,At-Risk
+3276,Web Dev,Hybrid,30,Female,2027-11-28,88,54,63,74,15,11,93,No,4,66.7,Pass,Low,Active
+3277,Data Science,Hybrid,20,Male,2027-11-29,96,47,87,21,17,6,97,No,0,46.0,Fail,Medium,Active
+3278,HR Management,Hybrid,22,Male,2027-11-30,76,52,72,85,22,0,58,No,1,74.5,Pass,Low,Active
+3279,Web Dev,Offline,26,Female,2027-12-01,67,40,72,57,14,32,69,Yes,4,58.099999999999994,Pass,Low,Active
+3280,Web Dev,Offline,23,Female,2027-12-02,69,68,85,48,7,13,86,No,1,63.1,Pass,Low,Active
+3281,Data Science,Online,19,Male,2027-12-03,46,97,36,86,23,46,60,No,4,73.2,Pass,High,At-Risk
+3282,Web Dev,Hybrid,30,Female,2027-12-04,48,54,80,90,2,42,51,No,4,79.8,Pass,High,At-Risk
+3283,HR Management,Offline,22,Female,2027-12-05,64,92,42,55,22,40,71,No,4,58.5,Pass,Low,Active
+3284,Web Dev,Online,25,Female,2027-12-06,72,59,51,48,5,16,97,No,3,51.1,Pass,Low,Active
+3285,HR Management,Online,18,Male,2027-12-07,40,74,52,56,4,3,85,No,4,58.4,Pass,Medium,Active
+3286,Data Science,Offline,29,Female,2027-12-08,90,90,76,64,18,38,54,No,3,72.8,Pass,Low,Active
+3287,Digital Marketing,Hybrid,28,Male,2027-12-09,45,80,40,35,3,0,56,No,2,45.5,Fail,High,At-Risk
+3288,Web Dev,Online,24,Male,2027-12-10,57,38,82,50,20,40,55,Yes,0,57.199999999999996,Pass,High,At-Risk
+3289,Digital Marketing,Hybrid,32,Male,2027-12-11,49,31,33,53,21,44,71,Yes,1,42.6,Fail,High,At-Risk
+3290,HR Management,Hybrid,28,Male,2027-12-12,67,34,50,69,24,23,59,No,1,56.3,Pass,Low,Active
+3291,Web Dev,Hybrid,33,Male,2027-12-13,50,91,52,84,23,33,95,No,2,75.8,Pass,Medium,Active
+3292,Finance,Online,20,Female,2027-12-14,72,98,60,81,9,33,89,No,4,78.1,Pass,Low,Active
+3293,Digital Marketing,Hybrid,31,Male,2027-12-15,40,81,33,62,16,23,95,No,0,57.1,Pass,High,At-Risk
+3294,Web Dev,Online,20,Male,2027-12-16,52,34,71,75,7,14,95,No,2,65.6,Pass,Medium,Active
+3295,Digital Marketing,Hybrid,18,Male,2027-12-17,76,88,75,34,24,16,69,No,2,57.1,Pass,Low,Active
+3296,Web Dev,Online,32,Female,2027-12-18,59,97,81,67,21,12,77,No,1,77.2,Pass,High,At-Risk
+3297,Data Science,Hybrid,18,Female,2027-12-19,40,38,56,68,3,6,72,Yes,3,58.400000000000006,Pass,High,At-Risk
+3298,Digital Marketing,Offline,34,Female,2027-12-20,91,51,91,63,16,8,84,No,3,69.0,Pass,Low,Active
+3299,Finance,Hybrid,19,Female,2027-12-21,42,56,81,29,21,43,50,No,4,50.0,Pass,High,At-Risk
+3300,Finance,Hybrid,23,Female,2027-12-22,57,39,78,39,13,34,78,No,4,50.7,Pass,High,At-Risk
+3301,HR Management,Online,25,Female,2027-12-23,80,90,40,89,4,22,58,Yes,2,74.5,Pass,Low,Active
+3302,Web Dev,Online,33,Female,2027-12-24,53,80,86,27,11,46,58,Yes,4,55.3,Pass,High,At-Risk
+3303,Digital Marketing,Hybrid,18,Male,2027-12-25,70,39,80,64,15,38,71,No,3,63.8,Pass,Low,Active
+3304,HR Management,Offline,20,Male,2027-12-26,66,35,47,53,23,22,51,No,0,47.6,Fail,High,At-Risk
+3305,Digital Marketing,Offline,20,Female,2027-12-27,56,91,41,70,15,25,65,No,1,65.5,Pass,High,At-Risk
+3306,Web Dev,Online,22,Male,2027-12-28,94,34,62,23,4,0,89,No,3,36.9,Fail,Medium,Active
+3307,Finance,Offline,29,Male,2027-12-29,85,99,96,58,2,13,55,No,4,77.6,Pass,Low,Active
+3308,Data Science,Hybrid,29,Female,2027-12-30,68,92,54,43,21,31,62,No,1,56.1,Pass,Low,Active
+3309,Finance,Online,30,Male,2027-12-31,75,85,82,74,2,47,82,No,1,78.6,Pass,Low,Active
+3310,HR Management,Hybrid,26,Male,2028-01-01,76,88,46,45,3,9,68,Yes,2,53.9,Pass,Low,Active
+3311,Data Science,Online,24,Female,2028-01-02,65,92,41,44,20,0,64,No,4,52.7,Pass,Low,Active
+3312,HR Management,Online,21,Male,2028-01-03,92,88,39,55,11,4,82,No,2,56.8,Pass,Low,Active
+3313,Web Dev,Online,23,Female,2028-01-04,56,80,72,90,5,2,59,No,1,82.6,Pass,High,At-Risk
+3314,Data Science,Online,30,Female,2028-01-05,61,79,56,93,5,48,50,No,2,79.1,Pass,Low,Active
+3315,HR Management,Offline,28,Male,2028-01-06,64,33,64,77,14,49,61,Yes,4,64.3,Pass,Low,Active
+3316,Web Dev,Hybrid,30,Male,2028-01-07,41,77,81,31,10,26,92,No,3,55.2,Pass,Medium,Active
+3317,Finance,Hybrid,30,Male,2028-01-08,94,61,82,20,8,21,78,No,0,46.8,Fail,High,At-Risk
+3318,Web Dev,Hybrid,32,Female,2028-01-09,61,80,40,69,17,17,66,No,3,62.5,Pass,Low,Active
+3319,Digital Marketing,Online,30,Female,2028-01-10,44,81,52,44,19,15,53,No,1,53.8,Pass,High,At-Risk
+3320,Web Dev,Offline,28,Female,2028-01-11,43,63,25,99,4,1,78,No,3,69.6,Pass,High,At-Risk
+3321,Web Dev,Hybrid,25,Male,2028-01-12,75,65,65,24,21,46,56,No,2,44.5,Fail,High,At-Risk
+3322,Digital Marketing,Offline,25,Male,2028-01-13,45,99,72,87,21,12,93,No,4,84.9,Pass,Medium,Active
+3323,HR Management,Online,27,Female,2028-01-14,91,72,55,25,11,44,62,No,3,43.4,Fail,High,At-Risk
+3324,HR Management,Hybrid,33,Male,2028-01-15,60,45,60,45,23,15,54,No,3,49.5,Fail,High,At-Risk
+3325,Web Dev,Offline,28,Male,2028-01-16,52,88,57,74,17,7,55,Yes,4,71.7,Pass,High,At-Risk
+3326,Digital Marketing,Online,30,Female,2028-01-17,93,82,57,58,4,42,83,Yes,2,62.5,Pass,Low,Active
+3327,Digital Marketing,Offline,26,Female,2028-01-18,76,48,47,28,12,7,56,No,0,37.7,Fail,High,At-Risk
+3328,Finance,Hybrid,33,Male,2028-01-19,94,70,84,64,11,9,95,Yes,3,71.2,Pass,Low,Active
+3329,HR Management,Hybrid,24,Female,2028-01-20,64,76,54,33,17,32,77,Yes,1,47.9,Fail,High,At-Risk
+3330,Data Science,Online,29,Male,2028-01-21,65,83,69,74,9,30,95,No,2,74.3,Pass,Low,Active
+3331,HR Management,Online,32,Female,2028-01-22,94,84,63,28,10,11,59,Yes,2,49.7,Fail,High,At-Risk
+3332,HR Management,Online,31,Female,2028-01-23,78,48,69,34,16,8,53,Yes,3,47.3,Fail,High,At-Risk
+3333,Finance,Offline,28,Female,2028-01-24,59,91,36,56,22,36,52,No,4,57.0,Pass,High,At-Risk
+3334,Data Science,Offline,27,Male,2028-01-25,72,88,56,69,4,8,74,No,3,68.9,Pass,Low,Active
+3335,Finance,Offline,28,Male,2028-01-26,53,94,80,91,5,47,72,No,3,88.3,Pass,High,At-Risk
+3336,Data Science,Online,23,Female,2028-01-27,95,97,48,40,14,17,76,No,4,53.8,Pass,Low,Active
+3337,Web Dev,Hybrid,19,Female,2028-01-28,75,57,37,76,13,29,63,No,1,60.5,Pass,Low,Active
+3338,Data Science,Hybrid,28,Female,2028-01-29,56,47,44,38,22,31,87,No,4,41.6,Fail,High,At-Risk
+3339,Finance,Offline,23,Male,2028-01-30,60,55,80,77,10,39,81,No,3,73.5,Pass,Low,Active
+3340,HR Management,Offline,31,Female,2028-01-31,85,48,77,25,15,22,72,No,0,45.2,Fail,High,At-Risk
+3341,Data Science,Hybrid,23,Female,2028-02-01,55,84,92,23,20,10,96,No,4,55.9,Pass,Medium,Active
+3342,Data Science,Hybrid,34,Female,2028-02-02,85,86,78,62,8,19,89,No,1,71.6,Pass,Low,Active
+3343,Digital Marketing,Offline,27,Female,2028-02-03,55,35,58,61,17,18,86,No,4,54.9,Pass,Medium,Active
+3344,HR Management,Offline,18,Male,2028-02-04,95,30,52,22,23,35,52,Yes,4,32.6,Fail,High,At-Risk
+3345,Web Dev,Hybrid,20,Male,2028-02-05,59,37,74,20,21,25,84,No,2,39.6,Fail,High,At-Risk
+3346,Finance,Online,25,Female,2028-02-06,68,80,26,74,6,9,62,Yes,2,60.8,Pass,Low,Active
+3347,Web Dev,Offline,25,Male,2028-02-07,67,54,50,34,11,23,83,No,3,42.8,Fail,Medium,Active
+3348,HR Management,Hybrid,32,Male,2028-02-08,47,76,75,66,19,12,73,No,3,70.7,Pass,High,At-Risk
+3349,Data Science,Hybrid,24,Male,2028-02-09,63,84,71,65,12,45,50,No,4,70.6,Pass,Low,Active
+3350,Data Science,Hybrid,28,Female,2028-02-10,42,93,50,77,8,33,61,Yes,0,72.1,Pass,High,At-Risk
+3351,HR Management,Hybrid,24,Male,2028-02-11,64,39,99,90,15,28,57,No,3,82.5,Pass,Low,Active
+3352,Data Science,Online,21,Male,2028-02-12,58,85,98,58,21,35,68,Yes,4,75.4,Pass,High,At-Risk
+3353,Data Science,Hybrid,29,Male,2028-02-13,72,41,85,22,19,6,58,No,4,44.7,Fail,High,At-Risk
+3354,Data Science,Offline,23,Female,2028-02-14,41,62,47,49,12,29,77,No,4,51.0,Pass,High,At-Risk
+3355,Finance,Online,31,Female,2028-02-15,54,46,61,54,23,16,63,Yes,4,54.5,Pass,High,At-Risk
+3356,Finance,Hybrid,29,Male,2028-02-16,61,90,65,76,13,47,76,No,4,75.5,Pass,Low,Active
+3357,Digital Marketing,Online,28,Male,2028-02-17,99,39,76,48,19,12,67,Yes,2,54.6,Pass,Low,Active
+3358,Web Dev,Offline,22,Female,2028-02-18,49,60,73,69,3,23,91,No,1,68.4,Pass,Medium,Active
+3359,HR Management,Hybrid,31,Female,2028-02-19,57,89,51,81,24,30,90,Yes,1,73.6,Pass,Medium,Active
+3360,HR Management,Offline,33,Male,2028-02-20,61,99,30,71,2,26,55,Yes,4,64.3,Pass,Low,Active
+3361,HR Management,Hybrid,30,Male,2028-02-21,85,46,98,33,24,49,82,Yes,3,55.1,Pass,Low,Active
+3362,Digital Marketing,Hybrid,21,Female,2028-02-22,88,79,90,54,11,20,86,Yes,0,69.8,Pass,Low,Active
+3363,Finance,Hybrid,28,Female,2028-02-23,66,66,48,47,22,43,91,No,4,51.1,Pass,Low,Active
+3364,Digital Marketing,Hybrid,34,Male,2028-02-24,52,91,62,77,2,0,74,No,0,75.3,Pass,High,At-Risk
+3365,HR Management,Hybrid,24,Female,2028-02-25,72,58,52,49,7,14,62,No,2,51.7,Pass,Low,Active
+3366,Web Dev,Online,31,Male,2028-02-26,44,61,52,26,8,2,72,Yes,1,40.8,Fail,High,At-Risk
+3367,Data Science,Hybrid,28,Male,2028-02-27,65,40,90,58,18,5,85,No,2,64.0,Pass,Low,Active
+3368,Finance,Hybrid,26,Male,2028-02-28,52,35,85,88,10,13,82,No,3,76.5,Pass,Medium,Active
+3369,Finance,Online,30,Female,2028-02-29,66,64,70,54,8,37,70,No,3,60.8,Pass,Low,Active
+3370,Digital Marketing,Online,28,Male,2028-03-01,96,62,93,71,18,32,83,No,4,75.8,Pass,Low,Active
+3371,Finance,Online,32,Male,2028-03-02,53,47,99,33,4,37,85,No,3,55.6,Pass,Medium,Active
+3372,HR Management,Online,18,Female,2028-03-03,63,66,98,82,17,7,66,Yes,3,83.6,Pass,Low,Active
+3373,HR Management,Online,21,Female,2028-03-04,42,42,67,55,6,25,59,No,2,56.0,Pass,High,At-Risk
+3374,Digital Marketing,Online,31,Male,2028-03-05,86,93,83,43,21,14,72,No,0,65.0,Pass,Medium,Active
+3375,HR Management,Hybrid,31,Male,2028-03-06,90,30,26,59,19,13,93,No,1,43.3,Fail,Medium,Active
+3376,Web Dev,Hybrid,20,Female,2028-03-07,88,92,39,48,2,47,51,Yes,3,54.1,Pass,Low,Active
+3377,Digital Marketing,Offline,34,Female,2028-03-08,69,63,61,72,5,19,84,Yes,3,66.9,Pass,Low,Active
+3378,Web Dev,Hybrid,20,Female,2028-03-09,74,39,95,41,24,47,63,No,2,56.8,Pass,Low,Active
+3379,Data Science,Hybrid,33,Male,2028-03-10,87,36,44,91,12,18,96,Yes,1,65.9,Pass,Low,Active
+3380,Web Dev,Online,31,Male,2028-03-11,53,85,59,34,21,32,94,Yes,2,51.7,Pass,Medium,Active
+3381,Data Science,Online,30,Male,2028-03-12,51,66,58,88,10,35,90,No,0,74.6,Pass,High,At-Risk
+3382,Data Science,Hybrid,32,Female,2028-03-13,67,58,55,83,9,23,51,No,2,69.6,Pass,Low,Active
+3383,Web Dev,Offline,31,Male,2028-03-14,83,41,43,23,9,9,68,No,1,32.6,Fail,High,At-Risk
+3384,Digital Marketing,Online,23,Female,2028-03-15,68,46,92,94,6,49,65,Yes,1,83.8,Pass,Low,Active
+3385,HR Management,Hybrid,27,Male,2028-03-16,82,77,48,37,13,33,92,No,3,48.3,Fail,Medium,Active
+3386,HR Management,Hybrid,32,Female,2028-03-17,56,55,63,61,2,35,93,Yes,0,60.4,Pass,High,At-Risk
+3387,Data Science,Offline,23,Male,2028-03-18,79,41,78,49,16,46,74,No,4,56.1,Pass,Low,Active
+3388,Data Science,Offline,27,Male,2028-03-19,88,50,63,34,19,35,50,No,3,45.9,Fail,High,At-Risk
+3389,Digital Marketing,Online,24,Female,2028-03-20,60,71,41,89,7,15,51,No,2,71.0,Pass,Low,Active
+3390,Finance,Offline,34,Female,2028-03-21,96,90,43,74,11,14,97,No,2,67.9,Pass,Low,Active
+3391,Web Dev,Hybrid,34,Male,2028-03-22,62,87,72,72,15,17,76,No,1,75.0,Pass,Low,Active
+3392,Data Science,Hybrid,26,Female,2028-03-23,59,83,59,35,22,6,51,Yes,1,51.8,Pass,High,At-Risk
+3393,HR Management,Offline,27,Female,2028-03-24,50,63,56,92,9,46,79,Yes,1,75.4,Pass,High,At-Risk
+3394,Digital Marketing,Offline,27,Male,2028-03-25,96,36,71,53,4,21,100,No,4,55.0,Pass,Low,Active
+3395,Web Dev,Offline,24,Female,2028-03-26,96,64,71,46,23,31,59,Yes,4,57.1,Pass,Low,Active
+3396,Digital Marketing,Offline,33,Male,2028-03-27,73,44,88,32,23,42,68,No,3,51.2,Pass,Low,Active
+3397,Web Dev,Online,23,Male,2028-03-28,49,94,70,46,20,18,91,Yes,4,62.8,Pass,Medium,Active
+3398,Web Dev,Offline,18,Female,2028-03-29,49,54,59,92,13,39,65,No,1,74.5,Pass,High,At-Risk
+3399,Data Science,Online,18,Female,2028-03-30,82,88,41,88,13,0,62,No,3,73.9,Pass,Low,Active
+3400,Digital Marketing,Hybrid,29,Male,2028-03-31,99,35,66,50,16,34,97,No,3,51.8,Pass,Low,Active
+3401,Digital Marketing,Offline,19,Male,2028-04-01,45,81,53,22,8,4,99,No,0,43.099999999999994,Fail,High,At-Risk
+3402,HR Management,Online,21,Male,2028-04-02,75,50,94,49,5,49,57,Yes,4,62.7,Pass,Low,Active
+3403,HR Management,Offline,34,Male,2028-04-03,63,61,41,40,22,11,99,No,2,44.5,Fail,Medium,Active
+3404,Data Science,Hybrid,21,Male,2028-04-04,51,82,38,25,10,11,80,No,2,40.300000000000004,Fail,High,At-Risk
+3405,Data Science,Hybrid,28,Male,2028-04-05,82,88,48,51,23,20,94,Yes,0,57.5,Pass,Low,Active
+3406,Finance,Hybrid,21,Female,2028-04-06,94,98,81,61,17,18,74,No,1,74.4,Pass,Low,Active
+3407,HR Management,Offline,18,Female,2028-04-07,62,91,74,81,14,8,88,No,0,80.9,Pass,Low,Active
+3408,Web Dev,Offline,24,Female,2028-04-08,66,33,81,51,5,42,70,No,1,56.400000000000006,Pass,Low,Active
+3409,Digital Marketing,Online,26,Male,2028-04-09,97,47,85,58,10,48,99,No,4,63.9,Pass,Low,Active
+3410,Data Science,Hybrid,20,Female,2028-04-10,96,85,63,83,22,47,87,No,4,77.4,Pass,Low,Active
+3411,Digital Marketing,Offline,25,Male,2028-04-11,84,53,79,49,19,35,90,No,3,58.8,Pass,Low,Active
+3412,Digital Marketing,Hybrid,21,Male,2028-04-12,76,95,60,82,16,41,78,Yes,3,78.0,Pass,Low,Active
+3413,Finance,Hybrid,28,Female,2028-04-13,45,42,61,50,16,46,55,No,3,51.7,Pass,High,At-Risk
+3414,HR Management,Online,31,Male,2028-04-14,40,91,38,59,7,31,67,No,3,59.1,Pass,High,At-Risk
+3415,Data Science,Online,33,Male,2028-04-15,45,83,51,52,12,34,98,No,2,57.9,Pass,Medium,Active
+3416,Digital Marketing,Online,20,Male,2028-04-16,89,44,55,82,9,30,93,No,3,66.3,Pass,Low,Active
+3417,Data Science,Online,32,Male,2028-04-17,61,98,97,44,22,31,84,No,3,70.7,Pass,Low,Active
+3418,Web Dev,Hybrid,21,Male,2028-04-18,80,32,68,55,18,36,76,No,3,54.3,Pass,Low,Active
+3419,Finance,Online,22,Male,2028-04-19,63,66,92,43,18,31,54,No,1,62.3,Pass,Low,Active
+3420,Web Dev,Online,34,Female,2028-04-20,64,66,72,77,19,42,56,No,3,73.3,Pass,Low,Active
+3421,Data Science,Online,24,Male,2028-04-21,54,32,81,58,5,36,59,Yes,0,59.7,Pass,High,At-Risk
+3422,Data Science,Online,33,Male,2028-04-22,65,92,99,65,16,38,59,No,3,80.6,Pass,Low,Active
+3423,HR Management,Hybrid,31,Male,2028-04-23,47,64,46,96,3,37,100,No,3,74.6,Pass,Medium,Active
+3424,Digital Marketing,Online,33,Male,2028-04-24,90,81,28,29,3,29,77,No,2,39.1,Fail,High,At-Risk
+3425,Digital Marketing,Hybrid,24,Female,2028-04-25,63,57,96,51,11,31,85,Yes,3,65.69999999999999,Pass,Low,Active
+3426,Web Dev,Offline,26,Female,2028-04-26,87,47,70,55,4,44,59,No,1,57.9,Pass,Low,Active
+3427,Finance,Hybrid,21,Male,2028-04-27,77,65,83,47,9,1,99,No,4,61.4,Pass,Low,Active
+3428,Digital Marketing,Hybrid,28,Male,2028-04-28,45,62,58,35,21,10,84,No,3,47.3,Fail,High,At-Risk
+3429,HR Management,Online,19,Male,2028-04-29,93,93,35,35,8,19,84,Yes,3,46.6,Fail,Medium,Active
+3430,Web Dev,Offline,29,Female,2028-04-30,74,55,55,37,13,36,86,No,3,46.0,Fail,Medium,Active
+3431,Web Dev,Offline,29,Female,2028-05-01,81,77,35,27,20,8,97,Yes,2,39.4,Fail,Medium,Active
+3432,HR Management,Offline,21,Female,2028-05-02,40,69,80,99,16,37,69,No,4,87.3,Pass,High,At-Risk
+3433,Finance,Offline,24,Female,2028-05-03,99,46,62,94,15,48,62,Yes,2,74.8,Pass,Low,Active
+3434,HR Management,Hybrid,18,Male,2028-05-04,85,69,45,89,17,18,60,No,2,71.8,Pass,Low,Active
+3435,Finance,Offline,30,Female,2028-05-05,75,36,34,20,15,39,94,Yes,2,27.4,Fail,Medium,Active
+3436,HR Management,Hybrid,23,Female,2028-05-06,97,86,50,81,4,6,68,Yes,1,72.7,Pass,Low,Active
+3437,HR Management,Hybrid,23,Male,2028-05-07,51,37,32,95,19,4,77,Yes,4,64.5,Pass,High,At-Risk
+3438,Data Science,Hybrid,29,Male,2028-05-08,77,85,32,57,23,46,87,No,1,55.1,Pass,Low,Active
+3439,Web Dev,Offline,25,Female,2028-05-09,50,60,84,64,7,41,94,No,1,69.2,Pass,Medium,Active
+3440,HR Management,Online,22,Female,2028-05-10,51,88,96,77,18,23,53,No,4,84.9,Pass,High,At-Risk
+3441,HR Management,Online,22,Female,2028-05-11,81,87,58,20,24,47,86,No,1,44.8,Fail,Medium,Active
+3442,Digital Marketing,Offline,27,Female,2028-05-12,89,41,40,51,15,40,68,No,4,45.7,Fail,High,At-Risk
+3443,Web Dev,Online,18,Male,2028-05-13,78,77,37,27,15,6,86,No,3,40.0,Fail,Medium,Active
+3444,Digital Marketing,Online,27,Male,2028-05-14,46,60,46,59,21,10,63,Yes,2,55.3,Pass,High,At-Risk
+3445,Web Dev,Hybrid,22,Female,2028-05-15,50,92,51,75,14,8,80,Yes,1,71.2,Pass,Medium,Active
+3446,Digital Marketing,Hybrid,29,Female,2028-05-16,75,68,88,82,4,48,77,No,4,81.0,Pass,Low,Active
+3447,HR Management,Offline,24,Female,2028-05-17,91,49,26,93,14,29,85,No,0,64.1,Pass,Low,Active
+3448,HR Management,Offline,26,Female,2028-05-18,70,77,50,93,3,40,93,Yes,1,76.9,Pass,Low,Active
+3449,Data Science,Online,29,Female,2028-05-19,72,83,93,55,10,2,87,Yes,1,72.0,Pass,Low,Active
+3450,Digital Marketing,Hybrid,18,Male,2028-05-20,52,58,54,76,14,21,68,Yes,4,65.8,Pass,High,At-Risk
+3451,Finance,Offline,28,Male,2028-05-21,57,77,32,93,9,39,91,No,0,71.5,Pass,High,At-Risk
+3452,Data Science,Offline,32,Male,2028-05-22,80,85,62,64,17,19,50,Yes,0,67.6,Pass,Medium,Active
+3453,Digital Marketing,Offline,19,Female,2028-05-23,97,46,85,98,4,31,72,No,3,83.7,Pass,Low,Active
+3454,Digital Marketing,Offline,24,Female,2028-05-24,95,38,89,99,14,47,77,No,1,83.8,Pass,Low,Active
+3455,Data Science,Offline,29,Male,2028-05-25,63,63,91,21,5,6,97,No,2,50.400000000000006,Pass,Low,Active
+3456,HR Management,Offline,20,Male,2028-05-26,48,74,70,87,19,6,53,Yes,1,79.3,Pass,High,At-Risk
+3457,Digital Marketing,Online,24,Female,2028-05-27,70,38,96,69,3,19,90,Yes,2,70.9,Pass,Low,Active
+3458,HR Management,Hybrid,28,Male,2028-05-28,94,36,67,48,21,24,67,No,2,51.3,Pass,Low,Active
+3459,Data Science,Hybrid,29,Female,2028-05-29,80,45,83,29,23,44,98,No,4,48.4,Fail,Medium,Active
+3460,HR Management,Offline,23,Female,2028-05-30,49,48,70,46,22,34,96,No,1,53.6,Pass,Medium,Active
+3461,Web Dev,Hybrid,22,Male,2028-05-31,99,35,96,34,16,43,100,No,4,52.8,Pass,Low,Active
+3462,Finance,Hybrid,18,Male,2028-06-01,41,40,59,79,18,23,88,No,3,65.2,Pass,Medium,Active
+3463,Digital Marketing,Hybrid,29,Male,2028-06-02,77,90,63,50,11,39,74,No,2,61.9,Pass,Low,Active
+3464,Finance,Offline,28,Female,2028-06-03,54,71,75,40,2,12,67,No,0,56.7,Pass,High,At-Risk
+3465,HR Management,Offline,21,Female,2028-06-04,42,42,28,79,7,47,55,No,2,56.3,Pass,High,At-Risk
+3466,Digital Marketing,Hybrid,21,Male,2028-06-05,82,41,75,77,4,38,68,Yes,3,69.2,Pass,Low,Active
+3467,HR Management,Hybrid,34,Female,2028-06-06,70,49,29,60,20,3,61,Yes,2,48.5,Fail,High,At-Risk
+3468,Web Dev,Offline,19,Female,2028-06-07,45,79,79,65,8,11,74,Yes,4,72.0,Pass,High,At-Risk
+3469,Data Science,Online,19,Female,2028-06-08,42,65,44,64,14,16,84,Yes,1,58.2,Pass,Medium,Active
+3470,Digital Marketing,Hybrid,29,Male,2028-06-09,95,98,48,45,14,0,50,No,0,56.5,Pass,Medium,Active
+3471,Web Dev,Online,23,Female,2028-06-10,50,66,60,70,18,16,54,No,4,66.2,Pass,High,At-Risk
+3472,Web Dev,Hybrid,27,Male,2028-06-11,54,41,58,55,2,1,50,No,1,53.1,Pass,High,At-Risk
+3473,Digital Marketing,Online,33,Male,2028-06-12,84,69,78,71,15,5,57,No,0,72.7,Pass,Medium,Active
+3474,HR Management,Online,31,Female,2028-06-13,91,83,58,70,4,43,88,Yes,3,69.0,Pass,Low,Active
+3475,Web Dev,Online,24,Male,2028-06-14,67,31,41,22,15,10,96,No,2,29.5,Fail,Medium,Active
+3476,Finance,Offline,34,Female,2028-06-15,49,79,29,33,2,42,92,Yes,0,41.0,Fail,High,At-Risk
+3477,Web Dev,Online,26,Male,2028-06-16,77,70,42,68,17,17,67,No,3,60.6,Pass,Low,Active
+3478,HR Management,Online,30,Male,2028-06-17,86,74,79,96,11,39,95,No,1,86.5,Pass,Low,Active
+3479,HR Management,Online,22,Female,2028-06-18,96,38,77,20,14,24,58,No,0,40.7,Fail,High,At-Risk
+3480,Finance,Hybrid,22,Male,2028-06-19,89,91,74,76,5,38,54,No,3,78.4,Pass,Low,Active
+3481,Web Dev,Online,27,Male,2028-06-20,89,76,96,36,10,27,53,Yes,1,62.0,Pass,Low,Active
+3482,HR Management,Hybrid,27,Male,2028-06-21,46,34,69,69,15,45,93,No,4,62.0,Pass,Medium,Active
+3483,Digital Marketing,Online,24,Female,2028-06-22,54,30,37,33,5,15,78,Yes,2,33.6,Fail,High,At-Risk
+3484,Data Science,Online,32,Female,2028-06-23,57,73,40,78,11,11,50,Yes,3,65.6,Pass,High,At-Risk
+3485,Data Science,Offline,24,Male,2028-06-24,57,51,37,22,9,40,79,No,4,32.3,Fail,High,At-Risk
+3486,Data Science,Hybrid,32,Male,2028-06-25,91,67,44,59,24,28,94,Yes,1,56.1,Pass,Low,Active
+3487,Web Dev,Online,20,Male,2028-06-26,80,48,90,85,4,22,50,No,0,79.1,Pass,Medium,Active
+3488,Finance,Hybrid,27,Female,2028-06-27,63,60,71,53,24,20,52,No,2,59.8,Pass,Low,Active
+3489,HR Management,Hybrid,32,Female,2028-06-28,41,96,43,28,8,15,71,No,1,46.1,Fail,High,At-Risk
+3490,Digital Marketing,Offline,20,Male,2028-06-29,79,71,69,40,11,47,57,Yes,3,54.9,Pass,Low,Active
+3491,Digital Marketing,Offline,23,Female,2028-06-30,59,55,61,44,4,40,67,No,2,51.3,Pass,High,At-Risk
+3492,Web Dev,Offline,29,Female,2028-07-01,73,42,78,63,3,44,74,No,4,63.3,Pass,Low,Active
+3493,Data Science,Offline,32,Female,2028-07-02,82,87,30,44,16,25,97,No,2,48.400000000000006,Fail,Medium,Active
+3494,Web Dev,Offline,23,Female,2028-07-03,65,47,38,28,10,36,69,No,4,34.8,Fail,High,At-Risk
+3495,Finance,Offline,30,Male,2028-07-04,46,96,28,81,16,21,80,No,1,68.1,Pass,Medium,Active
+3496,Finance,Offline,20,Female,2028-07-05,77,32,79,45,18,9,79,No,0,52.6,Pass,Medium,Active
+3497,HR Management,Offline,25,Female,2028-07-06,69,84,58,76,8,6,65,No,2,72.2,Pass,Low,Active
+3498,HR Management,Online,25,Male,2028-07-07,81,87,51,56,21,8,51,Yes,0,60.7,Pass,Medium,Active
+3499,Finance,Hybrid,32,Male,2028-07-08,44,92,31,35,19,24,66,No,0,45.2,Fail,High,At-Risk
+3500,Finance,Offline,21,Female,2028-07-09,50,81,27,56,16,45,59,No,2,52.3,Pass,High,At-Risk
+3501,Finance,Offline,20,Female,2028-07-10,40,53,71,95,19,14,56,No,2,79.4,Pass,High,At-Risk
+3502,Web Dev,Hybrid,30,Male,2028-07-11,73,38,26,43,24,12,91,Yes,0,36.9,Fail,Medium,Active
+3503,Finance,Online,25,Male,2028-07-12,95,66,49,45,13,41,100,No,3,50.4,Pass,Low,Active
+3504,Digital Marketing,Hybrid,33,Male,2028-07-13,40,82,84,39,24,45,58,No,3,61.1,Pass,High,At-Risk
+3505,Data Science,Hybrid,30,Female,2028-07-14,58,53,48,28,22,25,66,No,2,39.0,Fail,High,At-Risk
+3506,Finance,Offline,20,Female,2028-07-15,41,50,39,48,9,20,58,Yes,0,45.7,Fail,High,At-Risk
+3507,Data Science,Hybrid,33,Male,2028-07-16,60,69,38,50,3,22,58,No,0,50.2,Pass,Medium,Active
+3508,Web Dev,Hybrid,26,Female,2028-07-17,59,91,78,38,3,43,86,No,1,60.599999999999994,Pass,Medium,Active
+3509,Data Science,Offline,31,Male,2028-07-18,62,99,30,39,6,27,73,No,0,48.3,Fail,High,At-Risk
+3510,Web Dev,Offline,30,Female,2028-07-19,60,98,42,46,2,37,88,No,3,55.2,Pass,Low,Active
+3511,Digital Marketing,Offline,24,Male,2028-07-20,63,43,44,63,23,11,60,No,1,53.3,Pass,Low,Active
+3512,Web Dev,Offline,32,Male,2028-07-21,43,71,86,54,5,23,57,No,3,67.0,Pass,High,At-Risk
+3513,Web Dev,Hybrid,24,Female,2028-07-22,51,79,64,90,7,12,74,No,4,80.0,Pass,High,At-Risk
+3514,HR Management,Hybrid,23,Female,2028-07-23,61,90,63,41,24,39,95,Yes,2,57.4,Pass,Low,Active
+3515,Finance,Online,19,Female,2028-07-24,59,33,76,93,14,47,51,No,4,75.9,Pass,High,At-Risk
+3516,Finance,Online,26,Female,2028-07-25,57,46,56,34,20,1,59,Yes,2,43.0,Fail,High,At-Risk
+3517,Digital Marketing,Hybrid,34,Female,2028-07-26,40,86,97,32,12,38,73,Yes,3,62.3,Pass,High,At-Risk
+3518,Digital Marketing,Online,22,Female,2028-07-27,69,77,51,23,14,11,97,No,3,42.2,Fail,Medium,Active
+3519,Finance,Hybrid,29,Male,2028-07-28,72,73,76,75,9,38,65,No,4,74.9,Pass,Low,Active
+3520,HR Management,Online,18,Female,2028-07-29,63,74,87,42,8,13,68,No,2,61.9,Pass,Low,Active
+3521,Finance,Offline,27,Male,2028-07-30,53,62,98,53,14,29,80,No,2,68.3,Pass,Medium,Active
+3522,HR Management,Online,28,Male,2028-07-31,75,60,87,36,2,40,60,No,1,56.099999999999994,Pass,Low,Active
+3523,Digital Marketing,Offline,33,Female,2028-08-01,44,76,41,47,7,49,55,Yes,0,51.0,Pass,High,At-Risk
+3524,Data Science,Offline,31,Male,2028-08-02,50,35,73,33,8,42,55,Yes,1,45.4,Fail,High,At-Risk
+3525,Digital Marketing,Offline,25,Male,2028-08-03,63,63,47,53,17,47,81,No,3,53.2,Pass,Low,Active
+3526,Digital Marketing,Offline,34,Female,2028-08-04,99,82,96,94,16,18,88,Yes,4,92.2,Pass,Low,Active
+3527,Web Dev,Online,29,Female,2028-08-05,70,43,37,76,21,30,97,No,2,57.7,Pass,Low,Active
+3528,Web Dev,Hybrid,34,Female,2028-08-06,94,45,47,96,3,42,62,No,1,71.1,Pass,Low,Active
+3529,Web Dev,Offline,31,Male,2028-08-07,52,72,81,74,24,49,52,No,4,75.7,Pass,High,At-Risk
+3530,Web Dev,Online,33,Female,2028-08-08,55,41,86,85,17,42,90,No,4,76.5,Pass,Medium,Active
+3531,HR Management,Offline,31,Female,2028-08-09,63,99,78,56,18,24,84,Yes,0,71.2,Pass,Low,Active
+3532,Finance,Online,26,Female,2028-08-10,52,48,44,87,16,3,87,No,2,66.3,Pass,Medium,Active
+3533,Data Science,Online,21,Female,2028-08-11,63,70,76,95,4,49,66,Yes,4,84.3,Pass,Low,Active
+3534,Digital Marketing,Online,28,Male,2028-08-12,93,82,47,45,5,12,52,No,2,53.0,Pass,Low,Active
+3535,HR Management,Hybrid,23,Female,2028-08-13,65,58,59,80,13,35,83,Yes,1,69.3,Pass,Low,Active
+3536,Data Science,Online,32,Male,2028-08-14,41,99,91,86,6,41,61,No,4,90.1,Pass,High,At-Risk
+3537,HR Management,Online,22,Female,2028-08-15,55,88,58,93,18,36,73,No,4,81.5,Pass,High,At-Risk
+3538,HR Management,Hybrid,28,Male,2028-08-16,77,93,57,71,7,2,55,No,1,71.2,Pass,Low,Active
+3539,Digital Marketing,Hybrid,30,Male,2028-08-17,85,53,70,37,11,15,91,No,2,50.1,Pass,Low,Active
+3540,Finance,Online,28,Male,2028-08-18,40,45,69,72,23,25,60,No,2,65.7,Pass,High,At-Risk
+3541,Web Dev,Hybrid,31,Female,2028-08-19,88,81,43,82,19,39,97,No,4,70.1,Pass,Low,Active
+3542,Finance,Offline,32,Male,2028-08-20,50,35,39,72,11,38,76,No,1,54.7,Pass,High,At-Risk
+3543,Digital Marketing,Offline,26,Female,2028-08-21,90,66,90,46,7,18,97,No,3,63.2,Pass,Low,Active
+3544,Digital Marketing,Hybrid,25,Female,2028-08-22,74,33,63,50,7,45,73,No,2,50.5,Pass,Low,Active
+3545,Digital Marketing,Hybrid,18,Female,2028-08-23,82,67,42,20,21,14,67,No,3,36.0,Fail,High,At-Risk
+3546,Data Science,Online,21,Female,2028-08-24,68,70,94,25,16,31,76,No,4,54.7,Pass,Low,Active
+3547,Finance,Hybrid,31,Female,2028-08-25,76,43,83,30,5,48,90,Yes,3,48.5,Fail,Medium,Active
+3548,Finance,Online,19,Male,2028-08-26,56,80,56,53,17,20,70,No,3,59.3,Pass,High,At-Risk
+3549,HR Management,Offline,33,Female,2028-08-27,97,94,45,82,23,0,100,No,2,73.3,Pass,Low,Active
+3550,HR Management,Hybrid,20,Male,2028-08-28,93,81,64,72,9,5,83,No,4,71.4,Pass,Low,Active
+3551,HR Management,Online,25,Male,2028-08-29,78,59,51,37,8,26,82,No,3,45.6,Fail,Medium,Active
+3552,Digital Marketing,Online,23,Male,2028-08-30,81,86,26,40,20,22,97,No,2,45.0,Fail,Medium,Active
+3553,Finance,Offline,33,Male,2028-08-31,67,59,63,38,18,46,67,No,3,49.7,Fail,High,At-Risk
+3554,Digital Marketing,Hybrid,33,Male,2028-09-01,68,71,80,23,22,30,52,No,2,49.7,Fail,High,At-Risk
+3555,Data Science,Offline,24,Male,2028-09-02,82,40,37,96,14,11,73,No,4,67.1,Pass,Low,Active
+3556,HR Management,Online,30,Male,2028-09-03,42,56,80,48,16,20,50,No,1,59.2,Pass,High,At-Risk
+3557,Digital Marketing,Online,30,Female,2028-09-04,91,53,90,44,3,1,55,No,2,59.6,Pass,Low,Active
+3558,Digital Marketing,Hybrid,22,Male,2028-09-05,49,68,80,75,11,4,68,No,2,75.1,Pass,High,At-Risk
+3559,Data Science,Online,32,Female,2028-09-06,98,47,52,96,14,8,71,Yes,3,73.0,Pass,Low,Active
+3560,Web Dev,Hybrid,19,Male,2028-09-07,81,74,88,82,19,19,100,No,4,82.2,Pass,Low,Active
+3561,Finance,Offline,27,Male,2028-09-08,53,41,95,46,24,45,92,No,0,59.7,Pass,High,At-Risk
+3562,Web Dev,Hybrid,30,Male,2028-09-09,51,78,88,79,12,17,57,No,0,81.5,Pass,High,At-Risk
+3563,HR Management,Hybrid,32,Male,2028-09-10,86,60,80,68,14,21,54,No,1,70.0,Pass,Low,Active
+3564,Digital Marketing,Online,29,Female,2028-09-11,81,51,65,84,20,7,58,No,4,71.7,Pass,Low,Active
+3565,Data Science,Online,32,Female,2028-09-12,69,73,65,57,23,33,96,No,2,62.6,Pass,Low,Active
+3566,Data Science,Hybrid,30,Female,2028-09-13,71,93,28,71,6,8,70,No,0,62.5,Pass,Medium,Active
+3567,Finance,Online,32,Male,2028-09-14,71,54,81,20,4,6,77,No,1,45.1,Fail,High,At-Risk
+3568,Web Dev,Online,28,Male,2028-09-15,81,80,54,59,20,29,95,No,4,61.7,Pass,Low,Active
+3569,Finance,Online,20,Male,2028-09-16,71,36,70,40,24,17,53,No,1,48.2,Fail,High,At-Risk
+3570,Digital Marketing,Hybrid,24,Female,2028-09-17,65,35,80,34,14,26,73,No,0,48.0,Fail,High,At-Risk
+3571,Finance,Online,31,Male,2028-09-18,90,53,55,69,6,15,57,No,3,61.6,Pass,Low,Active
+3572,Data Science,Hybrid,31,Female,2028-09-19,40,48,31,67,13,20,66,No,3,52.4,Pass,High,At-Risk
+3573,Data Science,Online,30,Female,2028-09-20,95,38,78,51,15,4,83,No,4,56.5,Pass,Low,Active
+3574,HR Management,Offline,29,Male,2028-09-21,97,65,32,68,7,28,69,Yes,1,56.6,Pass,Low,Active
+3575,HR Management,Online,26,Male,2028-09-22,81,69,79,87,23,46,65,No,2,81.0,Pass,Low,Active
+3576,Digital Marketing,Online,18,Female,2028-09-23,41,53,93,64,10,36,59,No,0,70.5,Pass,High,At-Risk
+3577,Web Dev,Hybrid,28,Female,2028-09-24,56,77,68,51,18,42,83,No,3,61.3,Pass,Medium,Active
+3578,Finance,Hybrid,29,Female,2028-09-25,69,92,37,23,9,21,92,Yes,3,41.0,Fail,Medium,Active
+3579,Digital Marketing,Online,18,Male,2028-09-26,95,98,44,84,14,13,59,No,1,74.8,Pass,Low,Active
+3580,HR Management,Offline,34,Male,2028-09-27,78,82,56,90,6,18,79,Yes,3,78.2,Pass,Low,Active
+3581,Finance,Online,22,Male,2028-09-28,46,83,84,92,23,34,79,No,1,87.8,Pass,High,At-Risk
+3582,HR Management,Online,20,Male,2028-09-29,91,71,74,84,23,23,100,No,0,78.4,Pass,Low,Active
+3583,Finance,Offline,19,Male,2028-09-30,66,74,51,99,18,41,74,No,1,79.6,Pass,Low,Active
+3584,Web Dev,Hybrid,20,Male,2028-10-01,48,43,49,37,4,5,95,No,3,41.8,Fail,High,At-Risk
+3585,Digital Marketing,Online,25,Female,2028-10-02,61,58,76,73,7,2,92,No,1,70.9,Pass,Low,Active
+3586,Finance,Hybrid,33,Female,2028-10-03,73,35,92,66,15,33,90,Yes,3,67.6,Pass,Low,Active
+3587,Data Science,Hybrid,23,Female,2028-10-04,85,36,45,25,16,44,56,No,4,33.2,Fail,High,At-Risk
+3588,Data Science,Offline,30,Male,2028-10-05,88,66,42,85,15,49,96,No,3,68.3,Pass,Low,Active
+3589,Finance,Offline,33,Female,2028-10-06,40,82,63,28,12,1,69,No,3,49.3,Fail,High,At-Risk
+3590,Finance,Hybrid,33,Male,2028-10-07,48,47,39,87,12,14,66,No,3,64.6,Pass,High,At-Risk
+3591,Finance,Online,20,Male,2028-10-08,59,67,77,42,10,36,52,No,4,57.5,Pass,High,At-Risk
+3592,Data Science,Hybrid,30,Female,2028-10-09,92,88,62,62,7,14,96,No,2,67.2,Pass,Low,Active
+3593,Data Science,Online,31,Male,2028-10-10,58,30,72,70,16,31,95,No,3,62.599999999999994,Pass,Medium,Active
+3594,Finance,Online,25,Female,2028-10-11,75,97,76,91,13,20,89,No,2,87.7,Pass,Low,Active
+3595,HR Management,Offline,29,Female,2028-10-12,99,73,96,44,7,16,85,No,0,65.4,Pass,Low,Active
+3596,HR Management,Online,25,Male,2028-10-13,79,76,52,99,2,33,75,Yes,1,80.3,Pass,Low,Active
+3597,Web Dev,Online,26,Female,2028-10-14,84,64,40,54,17,31,59,No,2,51.8,Pass,Low,Active
+3598,Digital Marketing,Hybrid,18,Female,2028-10-15,43,89,40,36,21,49,83,No,0,47.8,Fail,High,At-Risk
+3599,HR Management,Offline,23,Female,2028-10-16,48,81,59,37,16,46,63,Yes,1,52.4,Pass,High,At-Risk
+3600,Data Science,Online,28,Female,2028-10-17,80,37,41,46,3,22,57,Yes,3,42.7,Fail,High,At-Risk
+3601,HR Management,Online,28,Male,2028-10-18,61,70,97,34,18,34,76,Yes,3,60.099999999999994,Pass,Low,Active
+3602,Web Dev,Offline,30,Female,2028-10-19,57,32,76,88,4,36,59,No,3,73.2,Pass,High,At-Risk
+3603,Web Dev,Hybrid,28,Female,2028-10-20,51,98,36,99,4,42,99,No,4,79.9,Pass,Medium,Active
+3604,Digital Marketing,Offline,32,Female,2028-10-21,81,43,72,34,6,40,64,No,4,47.199999999999996,Fail,High,At-Risk
+3605,HR Management,Offline,18,Male,2028-10-22,82,55,46,61,18,36,86,Yes,4,55.3,Pass,Low,Active
+3606,Data Science,Online,24,Female,2028-10-23,78,99,73,53,24,32,71,No,4,68.2,Pass,Low,Active
+3607,Data Science,Online,30,Male,2028-10-24,48,87,76,67,18,24,94,No,0,73.7,Pass,High,At-Risk
+3608,Finance,Hybrid,29,Female,2028-10-25,45,69,25,27,21,45,99,Yes,0,34.8,Fail,High,At-Risk
+3609,Data Science,Online,32,Female,2028-10-26,58,80,90,29,7,36,80,No,3,57.5,Pass,Medium,Active
+3610,Digital Marketing,Online,25,Female,2028-10-27,87,34,88,24,2,39,51,No,1,45.2,Fail,High,At-Risk
+3611,Digital Marketing,Offline,27,Male,2028-10-28,86,61,32,67,8,20,94,No,4,55.3,Pass,Low,Active
+3612,Data Science,Online,24,Male,2028-10-29,46,30,49,45,16,45,80,No,1,43.2,Fail,High,At-Risk
+3613,Data Science,Hybrid,33,Male,2028-10-30,55,83,90,42,8,47,63,Yes,0,64.6,Pass,High,At-Risk
+3614,Finance,Offline,23,Male,2028-10-31,44,40,97,81,20,37,59,No,4,77.6,Pass,High,At-Risk
+3615,Data Science,Hybrid,26,Male,2028-11-01,55,82,97,32,21,39,79,Yes,0,61.5,Pass,High,At-Risk
+3616,Finance,Offline,30,Male,2028-11-02,40,37,94,28,23,33,85,Yes,0,49.6,Fail,High,At-Risk
+3617,Finance,Online,25,Female,2028-11-03,90,54,75,39,12,18,96,No,2,52.8,Pass,Low,Active
+3618,Data Science,Offline,33,Male,2028-11-04,76,69,77,76,24,26,89,No,0,74.9,Pass,Low,Active
+3619,Web Dev,Offline,30,Female,2028-11-05,78,61,39,43,15,8,64,Yes,3,45.4,Fail,High,At-Risk
+3620,Web Dev,Online,30,Male,2028-11-06,58,57,74,52,14,4,63,Yes,0,59.6,Pass,High,At-Risk
+3621,Finance,Online,34,Male,2028-11-07,93,32,95,39,21,4,80,No,4,54.4,Pass,Low,Active
+3622,Data Science,Hybrid,22,Male,2028-11-08,76,91,99,79,10,24,78,No,3,87.4,Pass,Low,Active
+3623,Web Dev,Hybrid,34,Female,2028-11-09,56,56,62,67,10,25,76,No,0,63.3,Pass,High,At-Risk
+3624,Data Science,Online,26,Male,2028-11-10,65,74,64,83,17,18,70,No,3,75.5,Pass,Low,Active
+3625,Data Science,Online,19,Male,2028-11-11,61,54,90,49,13,29,58,Yes,0,62.3,Pass,Medium,Active
+3626,Data Science,Online,26,Female,2028-11-12,47,90,63,92,11,35,69,No,3,82.9,Pass,High,At-Risk
+3627,HR Management,Offline,23,Female,2028-11-13,72,73,98,36,7,47,84,Yes,1,62.0,Pass,Low,Active
+3628,Data Science,Offline,28,Female,2028-11-14,41,75,41,33,19,47,64,No,2,43.8,Fail,High,At-Risk
+3629,HR Management,Offline,23,Female,2028-11-15,69,43,31,38,3,15,73,Yes,3,36.9,Fail,High,At-Risk
+3630,Finance,Online,23,Male,2028-11-16,86,37,63,90,21,6,98,No,4,71.3,Pass,Low,Active
+3631,Web Dev,Hybrid,30,Female,2028-11-17,59,77,92,78,10,17,65,No,2,82.0,Pass,High,At-Risk
+3632,Web Dev,Online,28,Male,2028-11-18,99,43,59,86,20,20,85,No,2,69.3,Pass,Low,Active
+3633,Web Dev,Offline,31,Male,2028-11-19,57,94,75,63,7,30,60,Yes,0,72.8,Pass,High,At-Risk
+3634,Web Dev,Offline,19,Female,2028-11-20,82,36,71,51,3,0,57,No,3,54.0,Pass,Low,Active
+3635,Web Dev,Online,25,Male,2028-11-21,96,78,60,30,16,2,52,No,2,48.6,Fail,High,At-Risk
+3636,Web Dev,Online,20,Female,2028-11-22,49,84,88,21,18,30,68,No,4,53.7,Pass,High,At-Risk
+3637,Web Dev,Offline,20,Male,2028-11-23,63,42,37,87,17,24,95,No,4,63.0,Pass,Low,Active
+3638,Finance,Offline,18,Female,2028-11-24,95,85,42,36,22,7,90,No,4,47.6,Fail,Medium,Active
+3639,Data Science,Offline,34,Female,2028-11-25,43,85,45,59,9,0,52,No,0,60.0,Pass,High,At-Risk
+3640,Digital Marketing,Online,30,Female,2028-11-26,76,44,89,65,11,6,85,No,1,68.0,Pass,Low,Active
+3641,HR Management,Offline,20,Female,2028-11-27,43,86,32,23,11,6,74,No,3,38.3,Fail,High,At-Risk
+3642,Digital Marketing,Offline,18,Female,2028-11-28,52,87,72,57,19,7,85,Yes,2,67.5,Pass,Medium,Active
+3643,Digital Marketing,Hybrid,21,Female,2028-11-29,64,64,67,82,11,18,60,Yes,3,73.9,Pass,Low,Active
+3644,Data Science,Online,30,Male,2028-11-30,52,45,77,48,10,16,100,No,2,56.099999999999994,Pass,Medium,Active
+3645,Data Science,Hybrid,34,Male,2028-12-01,57,37,51,38,20,10,65,No,0,41.7,Fail,High,At-Risk
+3646,Data Science,Hybrid,28,Male,2028-12-02,98,74,43,48,2,46,66,No,3,51.7,Pass,Low,Active
+3647,Web Dev,Offline,19,Female,2028-12-03,63,69,47,54,5,40,91,No,0,54.9,Pass,Low,Active
+3648,Finance,Online,33,Male,2028-12-04,41,83,74,89,4,48,73,No,0,83.3,Pass,High,At-Risk
+3649,Web Dev,Offline,19,Female,2028-12-05,87,43,75,42,11,10,66,No,3,52.1,Pass,Low,Active
+3650,Finance,Online,33,Male,2028-12-06,72,88,67,65,13,37,97,No,3,70.2,Pass,Low,Active
+3651,Finance,Hybrid,26,Male,2028-12-07,97,82,75,63,19,40,69,No,2,70.4,Pass,Low,Active
+3652,Digital Marketing,Online,18,Female,2028-12-08,58,56,93,67,24,49,71,No,4,72.6,Pass,High,At-Risk
+3653,Digital Marketing,Offline,27,Male,2028-12-09,48,76,65,71,21,1,55,No,0,70.2,Pass,High,At-Risk
+3654,Finance,Offline,18,Male,2028-12-10,67,35,96,27,7,3,56,No,1,49.3,Fail,High,At-Risk
+3655,Finance,Offline,19,Male,2028-12-11,74,84,35,74,22,49,63,No,2,64.3,Pass,Low,Active
+3656,Web Dev,Online,33,Female,2028-12-12,96,73,76,85,3,27,60,No,2,79.9,Pass,Low,Active
+3657,Web Dev,Hybrid,29,Male,2028-12-13,78,47,47,96,11,32,61,No,4,71.5,Pass,Low,Active
+3658,Digital Marketing,Hybrid,25,Female,2028-12-14,49,45,73,59,3,10,95,No,4,60.4,Pass,Medium,Active
+3659,Data Science,Online,19,Male,2028-12-15,40,41,62,50,10,2,54,Yes,0,51.8,Pass,High,At-Risk
+3660,Finance,Offline,30,Male,2028-12-16,81,49,71,67,11,39,54,Yes,2,64.6,Pass,Low,Active
+3661,Web Dev,Hybrid,23,Male,2028-12-17,60,74,96,80,3,4,69,No,2,83.6,Pass,Low,Active
+3662,Digital Marketing,Offline,23,Male,2028-12-18,48,93,31,71,9,20,64,No,1,63.4,Pass,High,At-Risk
+3663,Web Dev,Online,26,Female,2028-12-19,99,88,90,57,18,21,75,Yes,0,73.1,Pass,Medium,Active
+3664,Finance,Offline,33,Male,2028-12-20,86,51,86,55,18,36,82,No,0,63.5,Pass,Low,Active
+3665,Finance,Hybrid,28,Female,2028-12-21,54,76,53,74,5,10,79,No,4,68.1,Pass,High,At-Risk
+3666,HR Management,Hybrid,24,Female,2028-12-22,74,58,62,32,19,43,73,Yes,0,46.2,Fail,High,At-Risk
+3667,Data Science,Offline,27,Male,2028-12-23,96,74,57,56,13,21,72,No,1,59.9,Pass,Low,Active
+3668,HR Management,Online,27,Male,2028-12-24,44,38,53,66,18,40,58,No,0,56.5,Pass,High,At-Risk
+3669,Digital Marketing,Offline,26,Female,2028-12-25,80,53,47,90,10,12,52,Yes,3,69.7,Pass,Low,Active
+3670,Web Dev,Online,32,Female,2028-12-26,97,44,27,41,20,2,85,No,3,37.4,Fail,Medium,Active
+3671,Digital Marketing,Offline,21,Male,2028-12-27,61,65,69,58,15,12,97,No,1,62.7,Pass,Low,Active
+3672,Finance,Hybrid,25,Male,2028-12-28,80,42,32,77,15,27,56,No,4,56.5,Pass,Low,Active
+3673,HR Management,Online,26,Male,2028-12-29,62,73,53,49,18,10,71,No,2,55.0,Pass,Low,Active
+3674,HR Management,Online,30,Male,2028-12-30,46,65,26,37,3,10,63,Yes,0,39.3,Fail,High,At-Risk
+3675,HR Management,Online,26,Male,2028-12-31,95,90,74,37,9,20,97,No,4,58.7,Pass,Low,Active
+3676,Digital Marketing,Hybrid,21,Female,2029-01-01,62,69,89,93,6,20,78,No,4,87.0,Pass,Low,Active
+3677,Finance,Offline,34,Male,2029-01-02,83,56,44,58,8,6,99,Yes,0,53.4,Pass,Low,Active
+3678,Web Dev,Hybrid,33,Male,2029-01-03,64,30,76,45,23,16,65,No,2,51.3,Pass,Low,Active
+3679,Web Dev,Online,32,Female,2029-01-04,66,63,61,90,17,47,97,Yes,0,75.9,Pass,Low,Active
+3680,Digital Marketing,Offline,20,Male,2029-01-05,80,97,96,26,17,13,83,No,2,61.2,Pass,Low,Active
+3681,HR Management,Hybrid,22,Male,2029-01-06,45,50,51,88,18,32,59,Yes,1,69.3,Pass,High,At-Risk
+3682,Data Science,Online,22,Female,2029-01-07,94,62,71,84,23,10,56,No,2,75.7,Pass,Low,Active
+3683,Digital Marketing,Online,32,Male,2029-01-08,73,36,30,65,8,12,74,No,4,48.7,Fail,High,At-Risk
+3684,Digital Marketing,Hybrid,32,Female,2029-01-09,48,94,84,37,21,0,76,No,1,62.5,Pass,High,At-Risk
+3685,Finance,Hybrid,19,Male,2029-01-10,99,32,69,32,9,33,64,No,3,43.1,Fail,High,At-Risk
+3686,Web Dev,Hybrid,30,Male,2029-01-11,88,80,68,44,9,8,81,No,1,58.4,Pass,Low,Active
+3687,Digital Marketing,Online,21,Male,2029-01-12,72,83,42,27,24,12,77,No,2,42.7,Fail,High,At-Risk
+3688,Digital Marketing,Hybrid,27,Female,2029-01-13,90,88,89,93,12,36,58,Yes,1,90.8,Pass,Low,Active
+3689,HR Management,Online,30,Female,2029-01-14,99,35,49,51,16,29,56,No,1,47.2,Fail,High,At-Risk
+3690,HR Management,Hybrid,27,Female,2029-01-15,45,58,51,36,19,40,65,No,3,44.9,Fail,High,At-Risk
+3691,Data Science,Online,26,Female,2029-01-16,76,46,31,98,7,44,75,No,2,67.5,Pass,Low,Active
+3692,Finance,Online,25,Male,2029-01-17,70,89,68,98,23,36,84,No,4,87.2,Pass,Low,Active
+3693,Data Science,Offline,20,Female,2029-01-18,73,51,53,67,13,46,66,Yes,1,59.6,Pass,Low,Active
+3694,HR Management,Hybrid,33,Female,2029-01-19,80,53,68,82,16,6,72,No,0,72.0,Pass,Medium,Active
+3695,Web Dev,Hybrid,31,Female,2029-01-20,68,80,60,59,24,13,57,No,4,63.5,Pass,Low,Active
+3696,HR Management,Online,26,Male,2029-01-21,97,79,43,34,7,47,51,Yes,1,45.7,Fail,High,At-Risk
+3697,Finance,Online,28,Male,2029-01-22,53,40,30,25,19,5,80,No,4,29.5,Fail,High,At-Risk
+3698,HR Management,Online,20,Female,2029-01-23,75,85,49,82,21,33,81,No,0,72.7,Pass,Low,Active
+3699,Finance,Offline,22,Female,2029-01-24,75,71,55,27,10,15,78,No,4,44.2,Fail,High,At-Risk
+3700,Finance,Offline,27,Male,2029-01-25,92,68,33,51,9,36,52,Yes,4,49.0,Fail,High,At-Risk
+3701,Finance,Online,30,Female,2029-01-26,54,98,98,64,15,35,57,No,0,81.0,Pass,High,At-Risk
+3702,Finance,Hybrid,21,Female,2029-01-27,47,77,61,71,20,45,51,Yes,0,69.2,Pass,High,At-Risk
+3703,Finance,Hybrid,30,Female,2029-01-28,65,86,51,98,20,5,80,No,0,81.5,Pass,Low,Active
+3704,Web Dev,Offline,29,Female,2029-01-29,75,50,37,32,9,7,100,No,3,37.1,Fail,Medium,Active
+3705,Data Science,Offline,22,Male,2029-01-30,87,49,65,43,3,23,98,No,0,50.8,Pass,Low,Active
+3706,Digital Marketing,Online,27,Male,2029-01-31,60,44,90,59,5,2,86,Yes,4,65.3,Pass,Low,Active
+3707,Data Science,Hybrid,26,Male,2029-02-01,67,98,48,33,7,3,69,No,0,50.5,Pass,Medium,Active
+3708,Finance,Online,24,Female,2029-02-02,43,80,68,94,4,31,78,No,1,83.4,Pass,High,At-Risk
+3709,Web Dev,Offline,19,Female,2029-02-03,55,91,84,89,4,0,66,Yes,0,87.9,Pass,High,At-Risk
+3710,HR Management,Hybrid,24,Male,2029-02-04,61,66,33,81,20,33,59,No,0,63.6,Pass,Medium,Active
+3711,Web Dev,Hybrid,25,Male,2029-02-05,51,35,26,80,12,44,90,No,2,54.8,Pass,Medium,Active
+3712,Finance,Offline,24,Male,2029-02-06,55,55,80,20,11,8,71,No,4,45.0,Fail,High,At-Risk
+3713,Web Dev,Online,31,Female,2029-02-07,90,37,54,85,13,11,55,Yes,4,66.1,Pass,Low,Active
+3714,Web Dev,Online,22,Male,2029-02-08,79,33,46,51,15,9,92,Yes,1,45.9,Fail,Medium,Active
+3715,Finance,Hybrid,29,Female,2029-02-09,77,50,99,32,19,9,83,No,3,55.7,Pass,Low,Active
+3716,Web Dev,Offline,34,Female,2029-02-10,81,60,37,52,10,49,80,No,2,49.1,Fail,Medium,Active
+3717,Digital Marketing,Hybrid,30,Male,2029-02-11,76,50,95,51,16,43,61,Yes,1,64.0,Pass,Low,Active
+3718,Digital Marketing,Offline,19,Male,2029-02-12,68,54,40,75,4,47,61,No,1,60.3,Pass,Low,Active
+3719,Web Dev,Online,30,Female,2029-02-13,57,44,69,43,24,22,65,Yes,4,51.0,Pass,High,At-Risk
+3720,HR Management,Offline,24,Male,2029-02-14,49,64,89,23,12,5,74,No,2,51.0,Pass,High,At-Risk
+3721,Finance,Online,27,Male,2029-02-15,81,78,35,42,11,23,71,No,4,47.1,Fail,High,At-Risk
+3722,Digital Marketing,Offline,23,Female,2029-02-16,78,72,94,48,19,23,76,No,3,66.6,Pass,Low,Active
+3723,HR Management,Hybrid,20,Female,2029-02-17,57,70,44,40,5,20,73,No,4,47.2,Fail,High,At-Risk
+3724,Web Dev,Online,20,Female,2029-02-18,40,66,87,49,14,41,61,Yes,0,63.8,Pass,High,At-Risk
+3725,HR Management,Hybrid,28,Female,2029-02-19,78,86,36,39,7,30,67,No,4,47.5,Fail,High,At-Risk
+3726,Data Science,Hybrid,22,Female,2029-02-20,60,71,86,35,22,46,94,No,0,57.5,Pass,Low,Active
+3727,Digital Marketing,Online,32,Male,2029-02-21,40,76,66,86,14,40,96,No,1,78.0,Pass,Medium,Active
+3728,Web Dev,Online,33,Female,2029-02-22,54,90,93,68,21,29,65,No,3,79.9,Pass,High,At-Risk
+3729,Finance,Hybrid,26,Female,2029-02-23,43,43,82,77,6,33,53,No,0,71.69999999999999,Pass,High,At-Risk
+3730,Web Dev,Hybrid,21,Female,2029-02-24,99,97,29,63,21,17,61,Yes,3,59.6,Pass,Low,Active
+3731,Finance,Hybrid,32,Male,2029-02-25,59,82,51,44,15,11,98,No,4,53.7,Pass,Medium,Active
+3732,Web Dev,Hybrid,29,Female,2029-02-26,49,63,52,42,14,34,82,Yes,4,49.2,Fail,High,At-Risk
+3733,HR Management,Online,20,Female,2029-02-27,62,53,50,78,15,6,71,Yes,1,64.6,Pass,Low,Active
+3734,HR Management,Online,31,Female,2029-02-28,80,49,73,20,9,40,67,No,4,41.7,Fail,High,At-Risk
+3735,HR Management,Hybrid,34,Male,2029-03-01,73,98,45,34,17,39,97,No,0,50.1,Pass,Low,Active
+3736,Data Science,Offline,23,Female,2029-03-02,99,59,25,71,14,24,82,No,1,54.8,Pass,Low,Active
+3737,Finance,Offline,21,Female,2029-03-03,85,36,82,77,16,5,76,Yes,3,70.3,Pass,Low,Active
+3738,HR Management,Online,24,Female,2029-03-04,87,65,79,60,20,0,91,No,1,66.7,Pass,Low,Active
+3739,Data Science,Hybrid,34,Male,2029-03-05,72,67,50,63,2,45,68,No,3,59.9,Pass,Low,Active
+3740,Finance,Hybrid,33,Male,2029-03-06,73,81,49,23,23,15,97,No,2,42.4,Fail,Medium,Active
+3741,Web Dev,Online,32,Male,2029-03-07,78,44,57,96,3,47,63,Yes,0,73.9,Pass,Medium,Active
+3742,Data Science,Offline,25,Male,2029-03-08,49,75,96,87,19,3,74,No,0,87.3,Pass,High,At-Risk
+3743,Digital Marketing,Offline,25,Female,2029-03-09,93,52,93,26,20,28,83,No,3,51.3,Pass,Low,Active
+3744,Data Science,Offline,33,Female,2029-03-10,59,41,30,65,9,37,73,No,4,49.7,Fail,High,At-Risk
+3745,Data Science,Online,27,Male,2029-03-11,40,73,47,28,4,46,87,Yes,4,42.7,Fail,High,At-Risk
+3746,Finance,Offline,34,Male,2029-03-12,52,44,54,52,24,27,72,No,2,51.0,Pass,High,At-Risk
+3747,Web Dev,Online,30,Female,2029-03-13,40,78,78,52,15,21,54,No,3,65.0,Pass,High,At-Risk
+3748,Digital Marketing,Online,30,Female,2029-03-14,44,50,35,23,10,7,93,No,2,32.0,Fail,High,At-Risk
+3749,HR Management,Hybrid,24,Male,2029-03-15,55,44,55,84,9,31,85,Yes,3,67.3,Pass,Medium,Active
+3750,HR Management,Offline,27,Male,2029-03-16,54,43,30,53,18,32,73,Yes,2,44.1,Fail,High,At-Risk
+3751,Data Science,Online,19,Male,2029-03-17,88,71,35,98,24,12,85,No,3,73.7,Pass,Low,Active
+3752,Finance,Offline,21,Male,2029-03-18,67,44,36,83,24,26,54,No,0,61.1,Pass,Medium,Active
+3753,Finance,Offline,23,Female,2029-03-19,70,92,90,44,17,17,88,No,2,67.4,Pass,Low,Active
+3754,HR Management,Hybrid,23,Male,2029-03-20,62,97,77,74,11,17,55,No,2,79.5,Pass,Low,Active
+3755,Digital Marketing,Offline,34,Male,2029-03-21,87,56,60,28,22,12,94,Yes,3,43.2,Fail,Medium,Active
+3756,Web Dev,Hybrid,31,Female,2029-03-22,84,82,41,36,11,21,85,No,1,46.7,Fail,Medium,Active
+3757,Digital Marketing,Online,28,Female,2029-03-23,82,81,52,40,7,13,94,No,1,51.8,Pass,Low,Active
+3758,Web Dev,Offline,19,Female,2029-03-24,56,92,46,79,23,10,53,No,0,71.7,Pass,High,At-Risk
+3759,HR Management,Online,20,Female,2029-03-25,88,82,31,32,18,38,59,No,4,41.7,Fail,High,At-Risk
+3760,Web Dev,Offline,28,Female,2029-03-26,73,86,39,22,17,49,50,No,4,39.9,Fail,High,At-Risk
+3761,Finance,Online,23,Male,2029-03-27,52,81,35,87,16,21,70,No,0,70.2,Pass,High,At-Risk
+3762,Data Science,Offline,31,Male,2029-03-28,53,72,48,23,23,35,89,No,4,40.3,Fail,High,At-Risk
+3763,Data Science,Offline,33,Male,2029-03-29,50,36,91,26,15,16,88,No,3,47.5,Fail,High,At-Risk
+3764,HR Management,Offline,24,Female,2029-03-30,67,71,54,45,5,31,86,Yes,1,52.9,Pass,Low,Active
+3765,Finance,Offline,25,Male,2029-03-31,81,33,94,94,5,13,52,No,0,81.8,Pass,Medium,Active
+3766,Digital Marketing,Offline,33,Female,2029-04-01,71,98,90,43,3,41,96,No,3,68.1,Pass,Low,Active
+3767,Finance,Offline,24,Male,2029-04-02,74,34,85,29,12,28,80,No,0,46.8,Fail,Medium,Active
+3768,Data Science,Offline,26,Male,2029-04-03,98,70,65,32,5,5,76,Yes,1,49.5,Fail,High,At-Risk
+3769,Data Science,Offline,30,Female,2029-04-04,70,33,75,63,22,49,66,No,4,60.6,Pass,Low,Active
+3770,Finance,Offline,18,Female,2029-04-05,56,31,68,58,22,3,72,Yes,3,55.599999999999994,Pass,High,At-Risk
+3771,Finance,Online,25,Male,2029-04-06,86,96,37,38,17,10,62,Yes,1,49.300000000000004,Fail,High,At-Risk
+3772,Data Science,Hybrid,21,Male,2029-04-07,48,50,36,70,22,44,96,No,0,55.8,Pass,High,At-Risk
+3773,Digital Marketing,Offline,20,Male,2029-04-08,49,99,33,38,5,39,76,No,2,48.7,Fail,High,At-Risk
+3774,HR Management,Hybrid,20,Male,2029-04-09,47,72,72,95,2,9,100,Yes,3,83.5,Pass,Medium,Active
+3775,HR Management,Offline,30,Male,2029-04-10,60,98,73,71,20,27,69,No,0,77.0,Pass,Medium,Active
+3776,Finance,Offline,25,Female,2029-04-11,52,38,77,66,3,10,95,No,0,63.7,Pass,High,At-Risk
+3777,HR Management,Online,24,Female,2029-04-12,98,57,80,49,10,34,62,Yes,1,59.9,Pass,Low,Active
+3778,Data Science,Online,18,Female,2029-04-13,89,55,64,65,24,14,93,No,0,62.7,Pass,Low,Active
+3779,Data Science,Hybrid,33,Female,2029-04-14,44,32,48,95,14,7,73,No,3,68.3,Pass,High,At-Risk
+3780,Finance,Online,23,Male,2029-04-15,45,78,96,40,19,19,90,No,3,64.4,Pass,Medium,Active
+3781,Finance,Online,24,Male,2029-04-16,69,46,57,94,17,49,52,Yes,0,73.3,Pass,Medium,Active
+3782,Finance,Hybrid,29,Female,2029-04-17,70,92,47,67,17,20,92,Yes,1,66.0,Pass,Low,Active
+3783,Digital Marketing,Online,26,Male,2029-04-18,56,84,78,81,11,0,59,No,3,80.7,Pass,High,At-Risk
+3784,HR Management,Offline,28,Female,2029-04-19,50,52,77,77,10,28,50,No,2,72.0,Pass,High,At-Risk
+3785,Finance,Hybrid,27,Male,2029-04-20,59,63,73,37,12,23,98,No,4,53.0,Pass,Medium,Active
+3786,Web Dev,Hybrid,18,Male,2029-04-21,87,98,73,78,5,29,62,No,1,80.5,Pass,Low,Active
+3787,Web Dev,Offline,21,Male,2029-04-22,48,44,84,67,11,39,63,Yes,1,67.5,Pass,High,At-Risk
+3788,Data Science,Online,22,Female,2029-04-23,41,76,89,82,4,34,82,No,4,82.9,Pass,Medium,Active
+3789,HR Management,Hybrid,26,Female,2029-04-24,76,32,56,31,7,32,51,Yes,4,38.7,Fail,High,At-Risk
+3790,Finance,Hybrid,34,Female,2029-04-25,40,57,45,53,4,19,51,No,3,51.4,Pass,High,At-Risk
+3791,Web Dev,Offline,20,Female,2029-04-26,43,32,42,80,10,15,88,No,0,59.0,Pass,High,At-Risk
+3792,HR Management,Offline,33,Male,2029-04-27,75,33,84,72,4,8,90,No,0,67.8,Pass,Low,Active
+3793,Data Science,Online,22,Male,2029-04-28,93,60,37,44,19,30,80,No,2,45.1,Fail,Medium,Active
+3794,Digital Marketing,Hybrid,33,Male,2029-04-29,97,74,48,81,9,16,53,No,0,69.7,Pass,Medium,Active
+3795,HR Management,Online,20,Male,2029-04-30,64,88,54,23,23,30,83,Yes,2,45.3,Fail,Medium,Active
+3796,HR Management,Online,32,Female,2029-05-01,42,74,26,32,9,47,68,Yes,2,38.6,Fail,High,At-Risk
+3797,Digital Marketing,Offline,20,Male,2029-05-02,48,66,49,61,16,22,86,No,1,58.4,Pass,Medium,Active
+3798,HR Management,Hybrid,31,Male,2029-05-03,61,94,74,68,14,5,58,No,1,75.0,Pass,Low,Active
+3799,Data Science,Hybrid,33,Male,2029-05-04,62,38,38,97,8,29,73,No,3,67.5,Pass,Low,Active
+3800,Data Science,Hybrid,34,Female,2029-05-05,51,46,30,75,20,6,62,Yes,4,55.7,Pass,High,At-Risk
+3801,Digital Marketing,Offline,31,Female,2029-05-06,49,94,54,66,9,47,93,No,4,68.0,Pass,Medium,Active
+3802,Finance,Offline,32,Female,2029-05-07,73,32,54,27,11,39,79,No,2,36.1,Fail,High,At-Risk
+3803,Web Dev,Offline,32,Male,2029-05-08,82,55,62,74,18,41,68,Yes,4,66.6,Pass,Low,Active
+3804,Finance,Offline,23,Female,2029-05-09,49,82,82,37,2,45,90,No,2,59.5,Pass,Medium,Active
+3805,HR Management,Offline,32,Male,2029-05-10,69,60,65,54,14,10,59,No,4,58.5,Pass,Low,Active
+3806,Web Dev,Hybrid,21,Male,2029-05-11,61,55,81,51,14,33,100,Yes,3,60.8,Pass,Low,Active
+3807,Digital Marketing,Online,25,Male,2029-05-12,45,52,60,43,17,11,91,Yes,1,49.9,Fail,High,At-Risk
+3808,Digital Marketing,Hybrid,32,Female,2029-05-13,89,59,88,26,10,44,93,Yes,1,51.2,Pass,Low,Active
+3809,Web Dev,Online,20,Female,2029-05-14,41,39,40,32,11,46,63,Yes,2,35.8,Fail,High,At-Risk
+3810,Data Science,Offline,32,Male,2029-05-15,69,93,96,88,7,26,89,No,4,91.4,Pass,Low,Active
+3811,Web Dev,Online,30,Male,2029-05-16,41,51,38,61,6,11,97,Yes,0,52.1,Pass,High,At-Risk
+3812,HR Management,Hybrid,26,Female,2029-05-17,71,44,55,50,3,12,98,Yes,3,50.3,Pass,Low,Active
+3813,Data Science,Hybrid,19,Female,2029-05-18,81,85,90,93,12,7,69,No,4,90.5,Pass,Low,Active
+3814,Digital Marketing,Online,25,Female,2029-05-19,55,49,92,45,10,15,53,No,0,59.9,Pass,High,At-Risk
+3815,Web Dev,Offline,34,Male,2029-05-20,51,76,89,95,7,28,87,No,3,89.4,Pass,Medium,Active
+3816,Finance,Offline,30,Male,2029-05-21,40,82,79,51,9,34,93,No,3,65.6,Pass,Medium,Active
+3817,Finance,Hybrid,18,Male,2029-05-22,92,82,64,71,10,28,99,No,1,71.1,Pass,Low,Active
+3818,HR Management,Online,19,Female,2029-05-23,47,30,49,39,10,30,88,Yes,2,40.2,Fail,High,At-Risk
+3819,Finance,Offline,32,Female,2029-05-24,87,31,49,59,9,12,54,No,4,50.4,Pass,Low,Active
+3820,Web Dev,Offline,29,Female,2029-05-25,89,87,27,78,13,11,91,No,3,64.5,Pass,Low,Active
+3821,Web Dev,Hybrid,31,Male,2029-05-26,52,48,93,96,9,1,81,No,4,85.5,Pass,Medium,Active
+3822,Finance,Offline,19,Male,2029-05-27,54,91,50,33,4,32,55,No,3,49.7,Fail,High,At-Risk
+3823,Web Dev,Online,24,Female,2029-05-28,92,41,64,63,14,7,63,No,1,58.9,Pass,Low,Active
+3824,HR Management,Hybrid,23,Male,2029-05-29,83,55,62,67,20,40,55,No,2,63.099999999999994,Pass,Low,Active
+3825,Data Science,Hybrid,31,Female,2029-05-30,47,56,62,62,3,39,63,Yes,0,60.8,Pass,High,At-Risk
+3826,HR Management,Online,25,Male,2029-05-31,49,58,92,35,18,48,61,Yes,0,56.7,Pass,High,At-Risk
+3827,HR Management,Hybrid,19,Female,2029-06-01,85,44,31,54,17,40,76,No,1,45.1,Fail,High,At-Risk
+3828,Web Dev,Offline,34,Male,2029-06-02,44,75,54,72,5,31,75,No,3,67.2,Pass,High,At-Risk
+3829,Data Science,Offline,22,Male,2029-06-03,89,30,43,53,19,37,61,Yes,1,45.4,Fail,High,At-Risk
+3830,Web Dev,Online,31,Female,2029-06-04,58,89,59,22,15,27,57,No,2,46.5,Fail,High,At-Risk
+3831,Digital Marketing,Offline,20,Female,2029-06-05,86,86,57,87,3,14,59,Yes,0,77.8,Pass,Medium,Active
+3832,Web Dev,Online,22,Female,2029-06-06,77,32,57,24,14,22,65,Yes,4,35.5,Fail,High,At-Risk
+3833,Web Dev,Online,33,Female,2029-06-07,98,47,62,29,22,23,75,No,0,42.5,Fail,High,At-Risk
+3834,Web Dev,Offline,34,Female,2029-06-08,50,81,34,71,21,12,57,Yes,2,61.9,Pass,High,At-Risk
+3835,Data Science,Online,28,Male,2029-06-09,92,89,81,48,18,20,90,Yes,3,66.1,Pass,Low,Active
+3836,Web Dev,Offline,34,Female,2029-06-10,82,63,52,50,16,11,94,Yes,1,53.2,Pass,Low,Active
+3837,Data Science,Hybrid,33,Female,2029-06-11,59,89,62,85,21,12,78,No,0,78.9,Pass,High,At-Risk
+3838,Finance,Hybrid,19,Female,2029-06-12,59,55,40,95,6,38,69,Yes,0,70.5,Pass,High,At-Risk
+3839,Digital Marketing,Online,21,Male,2029-06-13,60,48,45,88,8,22,66,No,4,67.1,Pass,Low,Active
+3840,Data Science,Offline,24,Female,2029-06-14,57,51,30,56,19,49,68,No,1,47.2,Fail,High,At-Risk
+3841,Finance,Offline,19,Female,2029-06-15,96,62,65,46,12,45,66,No,4,54.9,Pass,Low,Active
+3842,Data Science,Hybrid,23,Female,2029-06-16,89,67,39,52,19,42,88,Yes,4,51.1,Pass,Low,Active
+3843,Data Science,Hybrid,34,Male,2029-06-17,49,64,27,87,6,27,50,No,3,64.4,Pass,High,At-Risk
+3844,Digital Marketing,Offline,24,Male,2029-06-18,73,96,67,78,14,13,78,Yes,0,78.3,Pass,Medium,Active
+3845,HR Management,Online,22,Female,2029-06-19,65,39,71,83,19,16,63,No,1,70.6,Pass,Low,Active
+3846,HR Management,Hybrid,22,Male,2029-06-20,69,44,38,63,3,23,66,No,3,51.7,Pass,Low,Active
+3847,Data Science,Online,33,Female,2029-06-21,48,40,90,68,21,33,62,Yes,3,69.0,Pass,High,At-Risk
+3848,Web Dev,Online,26,Male,2029-06-22,85,53,53,72,5,47,78,No,3,62.5,Pass,Low,Active
+3849,Finance,Hybrid,22,Female,2029-06-23,90,33,28,93,14,21,83,Yes,2,61.5,Pass,Low,Active
+3850,Web Dev,Online,25,Male,2029-06-24,70,42,50,68,17,9,76,Yes,2,57.4,Pass,Low,Active
+3851,Web Dev,Online,26,Female,2029-06-25,81,86,36,85,7,7,95,No,3,70.5,Pass,Low,Active
+3852,Data Science,Offline,22,Female,2029-06-26,94,66,26,82,9,20,82,No,2,62.0,Pass,Low,Active
+3853,Data Science,Online,27,Male,2029-06-27,43,77,41,44,17,36,78,Yes,1,49.7,Fail,High,At-Risk
+3854,Data Science,Offline,19,Female,2029-06-28,45,30,59,23,14,6,86,Yes,0,35.2,Fail,High,At-Risk
+3855,Data Science,Hybrid,26,Female,2029-06-29,53,89,34,70,24,25,88,Yes,1,63.0,Pass,Medium,Active
+3856,HR Management,Hybrid,28,Female,2029-06-30,43,41,67,30,5,12,68,No,0,43.3,Fail,High,At-Risk
+3857,Data Science,Offline,21,Female,2029-07-01,65,50,45,36,3,15,95,No,2,41.5,Fail,Medium,Active
+3858,HR Management,Hybrid,19,Male,2029-07-02,86,40,39,85,10,29,73,Yes,1,62.2,Pass,Low,Active
+3859,HR Management,Online,23,Female,2029-07-03,87,73,59,89,19,30,63,Yes,4,76.8,Pass,Low,Active
+3860,Data Science,Online,31,Male,2029-07-04,78,87,84,92,18,4,96,No,3,88.6,Pass,Low,Active
+3861,Digital Marketing,Online,18,Male,2029-07-05,56,73,68,88,9,31,86,No,0,79.0,Pass,High,At-Risk
+3862,Finance,Hybrid,24,Male,2029-07-06,58,63,29,48,16,15,54,No,0,45.3,Fail,High,At-Risk
+3863,Web Dev,Online,18,Male,2029-07-07,90,54,97,92,10,46,73,No,4,85.9,Pass,Low,Active
+3864,HR Management,Hybrid,18,Female,2029-07-08,88,33,42,91,18,8,83,Yes,4,64.7,Pass,Low,Active
+3865,Finance,Online,18,Female,2029-07-09,45,93,45,39,24,21,99,No,3,51.6,Pass,Medium,Active
+3866,Digital Marketing,Offline,21,Male,2029-07-10,68,45,96,46,3,43,80,No,2,60.8,Pass,Low,Active
+3867,Web Dev,Hybrid,21,Female,2029-07-11,50,39,98,27,7,39,79,No,1,50.7,Pass,High,At-Risk
+3868,Web Dev,Hybrid,28,Male,2029-07-12,55,95,75,80,6,44,58,Yes,1,81.5,Pass,High,At-Risk
+3869,HR Management,Online,18,Female,2029-07-13,69,64,65,47,18,36,76,No,1,55.8,Pass,Low,Active
+3870,Data Science,Hybrid,27,Female,2029-07-14,64,35,48,89,3,13,77,No,2,65.9,Pass,Low,Active
+3871,Digital Marketing,Hybrid,26,Female,2029-07-15,79,48,48,22,19,15,91,No,3,35.0,Fail,Medium,Active
+3872,HR Management,Offline,21,Male,2029-07-16,50,88,62,88,11,42,75,No,1,80.2,Pass,High,At-Risk
+3873,Digital Marketing,Offline,23,Male,2029-07-17,46,82,68,92,11,19,67,No,0,82.8,Pass,High,At-Risk
+3874,Data Science,Online,33,Female,2029-07-18,65,37,81,26,7,43,85,No,0,44.7,Fail,Medium,Active
+3875,Data Science,Offline,19,Male,2029-07-19,95,39,83,79,13,14,57,No,0,72.2,Pass,Medium,Active
+3876,HR Management,Online,27,Male,2029-07-20,61,96,58,23,18,43,67,No,4,48.1,Fail,High,At-Risk
+3877,Data Science,Online,34,Female,2029-07-21,64,67,99,24,14,25,69,Yes,4,55.1,Pass,Low,Active
+3878,Finance,Online,30,Male,2029-07-22,58,58,47,30,21,8,81,No,2,40.7,Fail,High,At-Risk
+3879,Web Dev,Hybrid,30,Female,2029-07-23,70,44,67,34,17,0,78,No,1,45.9,Fail,High,At-Risk
+3880,HR Management,Offline,34,Female,2029-07-24,65,52,64,83,11,34,98,No,4,71.1,Pass,Low,Active
+3881,Digital Marketing,Online,22,Female,2029-07-25,81,75,71,32,22,43,97,No,0,52.3,Pass,Low,Active
+3882,Finance,Offline,28,Male,2029-07-26,80,57,65,26,3,19,67,No,4,43.9,Fail,High,At-Risk
+3883,HR Management,Online,24,Female,2029-07-27,75,55,71,25,3,44,56,No,0,44.8,Fail,High,At-Risk
+3884,Data Science,Offline,27,Female,2029-07-28,62,39,44,75,24,5,50,Yes,1,58.5,Pass,Low,Active
+3885,Data Science,Offline,34,Male,2029-07-29,86,76,89,83,8,41,77,Yes,2,83.4,Pass,Low,Active
+3886,Data Science,Online,32,Male,2029-07-30,52,33,92,69,7,9,82,Yes,3,68.69999999999999,Pass,Medium,Active
+3887,Data Science,Hybrid,19,Male,2029-07-31,64,84,48,49,2,47,99,No,3,55.7,Pass,Low,Active
+3888,Digital Marketing,Offline,21,Male,2029-08-01,41,95,60,41,13,32,53,Yes,0,57.5,Pass,High,At-Risk
+3889,Finance,Hybrid,20,Female,2029-08-02,41,96,69,44,14,15,69,Yes,4,61.900000000000006,Pass,High,At-Risk
+3890,Web Dev,Hybrid,24,Male,2029-08-03,55,36,26,47,13,35,85,Yes,4,38.5,Fail,High,At-Risk
+3891,Digital Marketing,Online,27,Male,2029-08-04,48,84,52,58,20,5,80,No,0,61.4,Pass,High,At-Risk
+3892,Digital Marketing,Online,24,Male,2029-08-05,67,60,50,86,10,18,87,No,1,70.0,Pass,Low,Active
+3893,Web Dev,Online,25,Male,2029-08-06,52,48,47,24,11,30,77,Yes,0,35.7,Fail,High,At-Risk
+3894,Web Dev,Offline,23,Female,2029-08-07,74,57,60,84,18,1,52,No,1,71.4,Pass,Low,Active
+3895,Data Science,Online,18,Male,2029-08-08,80,57,30,34,19,17,55,No,2,37.4,Fail,High,At-Risk
+3896,Digital Marketing,Online,21,Female,2029-08-09,52,48,59,86,9,41,94,Yes,2,70.3,Pass,Medium,Active
+3897,HR Management,Offline,31,Male,2029-08-10,70,49,62,59,8,27,72,No,0,57.9,Pass,Medium,Active
+3898,Web Dev,Offline,34,Female,2029-08-11,60,42,59,88,10,3,56,No,2,70.1,Pass,Low,Active
+3899,Web Dev,Online,28,Female,2029-08-12,71,72,98,96,11,0,85,Yes,4,91.8,Pass,Low,Active
+3900,Finance,Online,31,Male,2029-08-13,93,40,77,62,13,46,50,Yes,1,62.099999999999994,Pass,Low,Active
+3901,HR Management,Online,26,Female,2029-08-14,73,77,62,20,16,41,55,No,3,44.0,Fail,High,At-Risk
+3902,HR Management,Online,32,Male,2029-08-15,47,44,83,41,16,49,73,No,3,54.2,Pass,High,At-Risk
+3903,Web Dev,Hybrid,29,Female,2029-08-16,98,46,67,81,5,15,86,Yes,2,69.8,Pass,Low,Active
+3904,Data Science,Hybrid,27,Female,2029-08-17,80,83,28,98,5,44,94,No,1,74.0,Pass,Low,Active
+3905,Finance,Online,23,Female,2029-08-18,87,79,29,45,24,46,100,No,4,47.0,Fail,Medium,Active
+3906,HR Management,Hybrid,23,Male,2029-08-19,41,57,92,37,2,1,85,No,3,57.5,Pass,Medium,Active
+3907,Web Dev,Offline,25,Female,2029-08-20,77,33,69,67,13,35,73,Yes,4,60.8,Pass,Low,Active
+3908,HR Management,Hybrid,18,Male,2029-08-21,71,51,49,28,3,0,87,No,4,38.9,Fail,Medium,Active
+3909,Finance,Hybrid,34,Female,2029-08-22,93,68,35,20,16,38,94,No,3,34.1,Fail,Medium,Active
+3910,Finance,Online,34,Female,2029-08-23,79,63,53,28,18,22,78,No,3,42.5,Fail,High,At-Risk
+3911,Digital Marketing,Hybrid,32,Female,2029-08-24,97,73,58,42,8,25,86,No,2,53.0,Pass,Low,Active
+3912,Web Dev,Hybrid,24,Female,2029-08-25,67,71,38,64,7,10,94,No,1,57.6,Pass,Low,Active
+3913,Finance,Hybrid,20,Female,2029-08-26,76,69,48,21,13,41,81,No,0,38.7,Fail,Medium,Active
+3914,Digital Marketing,Hybrid,28,Female,2029-08-27,80,41,83,33,20,0,74,No,1,49.6,Fail,High,At-Risk
+3915,Digital Marketing,Offline,26,Male,2029-08-28,40,31,63,57,2,10,59,No,0,53.599999999999994,Pass,High,At-Risk
+3916,HR Management,Online,27,Male,2029-08-29,80,57,50,59,22,23,84,No,3,55.9,Pass,Low,Active
+3917,HR Management,Online,19,Male,2029-08-30,49,96,67,82,15,9,74,Yes,4,80.3,Pass,High,At-Risk
+3918,Digital Marketing,Offline,18,Female,2029-08-31,94,39,60,35,5,13,76,No,1,43.3,Fail,High,At-Risk
+3919,HR Management,Hybrid,33,Male,2029-09-01,43,86,63,94,6,13,94,Yes,4,83.1,Pass,Medium,Active
+3920,Finance,Offline,34,Female,2029-09-02,74,66,85,25,2,6,81,No,1,51.2,Pass,Low,Active
+3921,Data Science,Hybrid,23,Male,2029-09-03,49,93,40,22,2,22,61,No,1,41.6,Fail,High,At-Risk
+3922,Finance,Offline,31,Male,2029-09-04,86,69,83,33,22,42,53,No,4,55.2,Pass,Low,Active
+3923,Digital Marketing,Online,32,Female,2029-09-05,50,89,30,85,7,21,91,Yes,2,69.3,Pass,Medium,Active
+3924,Digital Marketing,Online,31,Female,2029-09-06,53,77,80,94,6,35,75,No,3,86.4,Pass,High,At-Risk
+3925,Finance,Online,20,Male,2029-09-07,77,48,32,86,3,26,52,No,2,62.2,Pass,Low,Active
+3926,HR Management,Hybrid,29,Male,2029-09-08,51,62,51,50,22,1,66,Yes,2,52.7,Pass,High,At-Risk
+3927,HR Management,Hybrid,19,Male,2029-09-09,84,73,95,52,6,38,58,No,1,69.1,Pass,Low,Active
+3928,Digital Marketing,Offline,20,Male,2029-09-10,56,66,51,20,10,45,78,No,3,38.5,Fail,High,At-Risk
+3929,Web Dev,Offline,18,Female,2029-09-11,55,65,70,63,20,18,50,No,1,65.5,Pass,High,At-Risk
+3930,HR Management,Online,23,Male,2029-09-12,74,50,65,34,22,6,67,No,0,46.5,Fail,High,At-Risk
+3931,Finance,Hybrid,22,Female,2029-09-13,41,31,49,56,16,11,90,No,1,48.9,Fail,High,At-Risk
+3932,HR Management,Offline,18,Female,2029-09-14,50,60,42,46,14,2,69,No,4,47.6,Fail,High,At-Risk
+3933,Finance,Hybrid,18,Male,2029-09-15,80,59,36,67,13,46,90,Yes,1,56.1,Pass,Low,Active
+3934,Digital Marketing,Hybrid,33,Female,2029-09-16,42,73,75,46,6,4,83,Yes,0,60.1,Pass,High,At-Risk
+3935,HR Management,Online,29,Male,2029-09-17,68,41,63,31,3,7,100,No,1,42.6,Fail,Medium,Active
+3936,Finance,Online,25,Female,2029-09-18,57,80,34,86,5,13,77,No,0,69.2,Pass,High,At-Risk
+3937,Digital Marketing,Hybrid,33,Female,2029-09-19,59,78,98,49,19,35,97,Yes,3,69.5,Pass,Medium,Active
+3938,Web Dev,Hybrid,18,Male,2029-09-20,86,53,78,85,22,6,84,Yes,1,76.5,Pass,Low,Active
+3939,Finance,Hybrid,21,Female,2029-09-21,53,53,53,26,11,6,65,No,0,39.5,Fail,High,At-Risk
+3940,Web Dev,Hybrid,27,Female,2029-09-22,73,89,65,53,14,49,70,No,3,63.8,Pass,Low,Active
+3941,Web Dev,Online,28,Male,2029-09-23,88,40,33,51,13,45,62,Yes,4,43.4,Fail,High,At-Risk
+3942,Data Science,Offline,34,Female,2029-09-24,93,42,87,58,3,31,84,No,2,63.5,Pass,Low,Active
+3943,HR Management,Online,24,Female,2029-09-25,70,93,61,62,16,7,91,Yes,0,67.9,Pass,Low,Active
+3944,Finance,Offline,29,Male,2029-09-26,97,49,38,62,15,11,81,No,4,52.2,Pass,Low,Active
+3945,Web Dev,Hybrid,24,Male,2029-09-27,79,57,97,97,11,9,99,No,3,89.0,Pass,Low,Active
+3946,Data Science,Offline,29,Female,2029-09-28,81,31,96,22,23,13,87,No,4,46.0,Fail,Medium,Active
+3947,Digital Marketing,Online,32,Female,2029-09-29,97,72,63,65,9,8,55,No,1,65.8,Pass,Low,Active
+3948,Finance,Online,19,Female,2029-09-30,57,37,64,51,16,37,99,No,2,52.1,Pass,Medium,Active
+3949,Web Dev,Hybrid,31,Male,2029-10-01,69,42,78,62,14,29,87,Yes,0,62.8,Pass,Low,Active
+3950,HR Management,Online,30,Female,2029-10-02,64,64,27,22,9,4,87,Yes,3,31.9,Fail,Medium,Active
+3951,Data Science,Hybrid,21,Female,2029-10-03,58,52,79,93,22,0,62,No,2,80.6,Pass,High,At-Risk
+3952,Web Dev,Online,31,Female,2029-10-04,47,75,57,82,22,0,95,No,3,73.1,Pass,Medium,Active
+3953,HR Management,Online,31,Female,2029-10-05,67,44,95,59,23,19,88,No,4,66.8,Pass,Low,Active
+3954,Web Dev,Hybrid,33,Female,2029-10-06,47,31,43,37,15,48,62,No,3,37.6,Fail,High,At-Risk
+3955,Finance,Offline,24,Female,2029-10-07,70,90,58,86,2,10,96,No,3,78.4,Pass,Low,Active
+3956,Finance,Online,19,Male,2029-10-08,42,93,74,81,14,25,61,Yes,4,81.3,Pass,High,At-Risk
+3957,Finance,Offline,27,Male,2029-10-09,42,81,71,29,9,43,82,No,4,52.0,Pass,Medium,Active
+3958,Data Science,Online,34,Female,2029-10-10,83,65,70,71,19,2,77,No,2,69.5,Pass,Low,Active
+3959,Finance,Online,22,Female,2029-10-11,61,96,80,92,23,5,52,No,0,89.2,Pass,Medium,Active
+3960,HR Management,Online,29,Male,2029-10-12,56,98,81,65,10,42,67,No,4,76.4,Pass,High,At-Risk
+3961,Web Dev,Online,23,Male,2029-10-13,75,96,75,74,14,44,75,No,2,78.7,Pass,Low,Active
+3962,Digital Marketing,Offline,26,Male,2029-10-14,56,76,78,65,4,10,89,No,3,71.1,Pass,Medium,Active
+3963,HR Management,Offline,18,Female,2029-10-15,53,31,52,94,19,7,51,No,3,68.8,Pass,High,At-Risk
+3964,HR Management,Online,32,Female,2029-10-16,90,73,43,79,11,28,53,No,1,67.0,Pass,Low,Active
+3965,Finance,Online,23,Female,2029-10-17,48,93,51,45,6,9,99,No,4,56.4,Pass,Medium,Active
+3966,Data Science,Offline,23,Female,2029-10-18,69,57,72,46,7,33,77,No,2,56.0,Pass,Low,Active
+3967,Web Dev,Hybrid,30,Male,2029-10-19,60,83,43,57,9,23,77,No,2,58.0,Pass,Low,Active
+3968,Data Science,Hybrid,18,Male,2029-10-20,51,96,75,41,8,45,74,No,0,62.2,Pass,High,At-Risk
+3969,Web Dev,Offline,30,Male,2029-10-21,76,65,31,45,22,47,75,No,2,44.8,Fail,High,At-Risk
+3970,Web Dev,Online,24,Male,2029-10-22,71,92,53,88,19,16,94,No,4,78.3,Pass,Low,Active
+3971,Data Science,Online,32,Female,2029-10-23,50,54,67,54,15,31,96,No,2,57.9,Pass,Medium,Active
+3972,HR Management,Hybrid,29,Female,2029-10-24,59,77,93,85,16,10,51,Yes,1,85.8,Pass,High,At-Risk
+3973,Web Dev,Hybrid,18,Male,2029-10-25,74,68,82,92,11,33,91,No,3,84.2,Pass,Low,Active
+3974,Data Science,Offline,32,Male,2029-10-26,92,76,32,70,22,23,83,No,3,59.8,Pass,Low,Active
+3975,Web Dev,Hybrid,21,Male,2029-10-27,86,50,66,37,13,4,79,Yes,2,48.3,Fail,High,At-Risk
+3976,Digital Marketing,Offline,30,Male,2029-10-28,85,59,66,62,8,28,70,No,2,62.6,Pass,Low,Active
+3977,HR Management,Hybrid,22,Male,2029-10-29,50,60,37,31,8,47,93,No,2,38.6,Fail,High,At-Risk
+3978,Finance,Hybrid,19,Female,2029-10-30,91,55,50,22,12,47,86,No,2,37.0,Fail,Medium,Active
+3979,Web Dev,Hybrid,18,Female,2029-10-31,47,51,42,26,14,33,93,No,1,35.8,Fail,High,At-Risk
+3980,Digital Marketing,Online,33,Male,2029-11-01,43,50,66,25,16,15,72,No,4,42.3,Fail,High,At-Risk
+3981,Finance,Online,23,Male,2029-11-02,66,30,75,64,19,24,82,Yes,1,60.5,Pass,Low,Active
+3982,Finance,Online,33,Male,2029-11-03,83,66,40,58,8,36,51,No,1,54.2,Pass,Low,Active
+3983,Web Dev,Hybrid,31,Female,2029-11-04,79,75,27,70,7,7,76,Yes,1,58.1,Pass,Low,Active
+3984,Data Science,Offline,20,Female,2029-11-05,77,38,69,28,24,28,97,Yes,3,42.3,Fail,Medium,Active
+3985,Web Dev,Offline,32,Female,2029-11-06,86,46,46,42,12,45,71,No,1,44.0,Fail,High,At-Risk
+3986,Digital Marketing,Offline,20,Male,2029-11-07,69,76,47,31,9,24,83,No,2,44.8,Fail,Medium,Active
+3987,Finance,Offline,19,Female,2029-11-08,83,88,83,81,21,41,65,No,1,83.0,Pass,Low,Active
+3988,Web Dev,Online,18,Male,2029-11-09,87,83,86,92,2,22,69,No,2,88.4,Pass,Low,Active
+3989,Data Science,Online,26,Female,2029-11-10,87,41,92,96,9,33,75,No,4,83.8,Pass,Low,Active
+3990,Web Dev,Hybrid,26,Female,2029-11-11,66,93,78,59,9,2,65,No,3,71.5,Pass,Low,Active
+3991,HR Management,Hybrid,24,Female,2029-11-12,60,35,81,73,20,29,55,No,4,67.8,Pass,Low,Active
+3992,Data Science,Offline,20,Male,2029-11-13,91,82,47,26,4,49,94,Yes,4,43.5,Fail,Medium,Active
+3993,Digital Marketing,Online,28,Male,2029-11-14,59,45,84,36,6,33,93,Yes,3,52.2,Pass,Medium,Active
+3994,Finance,Offline,24,Female,2029-11-15,99,34,97,69,4,31,72,No,2,70.4,Pass,Low,Active
+3995,Web Dev,Hybrid,26,Male,2029-11-16,43,75,79,43,16,28,91,Yes,2,60.2,Pass,Medium,Active
+3996,Data Science,Hybrid,18,Male,2029-11-17,50,43,87,21,15,8,86,No,2,45.199999999999996,Fail,High,At-Risk
+3997,HR Management,Offline,31,Male,2029-11-18,52,73,80,52,22,1,57,No,3,64.6,Pass,High,At-Risk
+3998,Data Science,Hybrid,23,Male,2029-11-19,48,92,79,40,16,38,55,Yes,1,62.1,Pass,High,At-Risk
+3999,HR Management,Offline,24,Male,2029-11-20,43,81,49,93,18,6,86,No,0,77.4,Pass,High,At-Risk
+4000,Digital Marketing,Online,27,Male,2029-11-21,51,55,50,72,19,45,71,Yes,1,62.0,Pass,High,At-Risk
